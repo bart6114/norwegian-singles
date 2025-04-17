@@ -1,0 +1,13 @@
+project:
+  type: book
+  output-dir: dist
+
+book:
+  title: "Norwegian Singles Book"
+  chapters:
+    - index.qmd # Assuming we might rename BOOK.md later or use an index file
+    - BOOK.md
+
+format:
+  html:
+    theme: cosmo

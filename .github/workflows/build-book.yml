@@ -18,52 +18,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Install dependencies (Pandoc, Make, Git, Wget, Curl)
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y pandoc make git wget curl
+    - name: Set up Quarto
+      uses: quarto-dev/quarto-actions/setup@v2
+      # No specific version needed, defaults to latest
 
-    - name: Install pandoc-sidenote
+    - name: Render Book with Quarto
       run: |
-        # Fetch the latest Linux release URL for pandoc-sidenote
-        SIDENOTE_URL=$(curl -s https://api.github.com/repos/jez/pandoc-sidenote/releases/latest | grep "browser_download_url.*linux" | cut -d '"' -f 4)
-        if [ -z "$SIDENOTE_URL" ]; then
-          echo "Error: Could not find pandoc-sidenote Linux release URL."
-          exit 1
-        fi
-        echo "Downloading pandoc-sidenote from $SIDENOTE_URL"
-        wget -q "$SIDENOTE_URL" -O pandoc-sidenote
-        chmod +x pandoc-sidenote
-        sudo mv pandoc-sidenote /usr/local/bin/ # Add to PATH
-        echo "pandoc-sidenote installed to $(which pandoc-sidenote)"
-
-    - name: Clone Tufte Pandoc CSS repo and submodule
-      run: |
-        git clone https://github.com/jez/tufte-pandoc-css.git /tmp/tufte-build
-        cd /tmp/tufte-build
-        echo "Initializing submodules..."
-        git submodule update --init --recursive # Get tufte-css assets
-
-    - name: Build HTML using Makefile with TOC
-      run: |
-        echo "Copying BOOK.md to build directory..."
-        cp "$GITHUB_WORKSPACE/BOOK.md" /tmp/tufte-build/
-        cd /tmp/tufte-build
-        echo "Running make..."
-        # Add --toc via PANDOC_EXTRA_ARGS, make handles the rest
-        make BOOK.md PANDOC_EXTRA_ARGS="--toc"
-        echo "Build complete. Checking for BOOK.html..."
-        ls -l BOOK.html
-
-    - name: Organize output
-      run: |
-        echo "Creating dist directory..."
-        mkdir -p "$GITHUB_WORKSPACE/dist"
-        echo "Moving BOOK.html to dist/index.html..."
-        mv /tmp/tufte-build/BOOK.html "$GITHUB_WORKSPACE/dist/index.html"
-        echo "Output organized."
-        ls -l "$GITHUB_WORKSPACE/dist/"
-
+        quarto render
+        echo "Quarto render complete. Checking output..."
+        ls -l dist/
     - name: Commit generated index.html
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
