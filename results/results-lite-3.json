@@ -1,0 +1,402 @@
+[
+  {
+    "msg": "One popular rule of thumb range is 88-92% of Max HR. I'm sure the rest will chime in with better ideas.",
+    "usr": "jiggymeister"
+  },
+  {
+    "msg": "I assumed that most of us engaging in this discussion do have an appreciation for the nuance of these metrics, LT included. The two tests I see most often used and cited (but not saying these are the only and best ones) are either 1200m intervals on the track or 3 minute intervals on the treadmill. I’ve used both myself, but have also collected readings when doing tempo intervals, VO2 Max intervals, and 60-90 second hill repeats. I may have also poked myself after a few time trials, I’d have to check my data. All of that is to say, I was aware that what I was gathering was unique to me (just as spiroc stated about TSS and CTL values) and not necessarily generalizable to others without standardizing it. I’ve seen it discussed before that if the intensity was increased in smaller steps, the lactate curve would likely be a continuous exponential function that could be fitted for each athlete specifically of course. I think the same would hold true that if you extended each interval in duration, past a certain intensity level, the lactate readings would rise if you went long enough. This to me, is why standardizing is helpful, as it gives a consistent way to report data and then extrapolate for others to use and experiment with. I think we appreciate that most running metrics are multi-variate, so far as what is contributing to the output being achieved. I’d suggest that blood lactate isn’t only intensity and time dependent but also physiological in the sense of the athletes fiber make up. Meaning, I can’t seem to generate high values of lactate, relatively speaking. I’m VERY, seemingly, slow twitch dominant as well and from the data I’ve seen, this seems to perhaps be a characteristic of runners like myself. As opposed to the ones who are more middle distance oriented and can generate higher relative lactate values. Similar to heart rate, I thought of the lactate readings as 1) a source for some new data and 2) a different way to control effort and, perhaps, quantitatively know I wasn’t overdoing it in workouts. Having been there, done that. I think it’s helpful, but certainly not something that’s going to turn me into a world beater, as that’s not seemingly in my genetics. However, like everyone, I do have a maximum potential, so it’s interesting to try different approaches in the quest to reach that point and feel like I'm pursuing that purposefully and productively.",
+    "usr": "Hard2Find"
+  },
+  {
+    "msg": "Definitely keep us updated as you progress! I'd be especially interested how your 10 mile race goes. Maybe we can even start a new thread for us \"Norwegian\" influenced hobby joggers. Think Henrik will have some free time to train us after worlds for our fall and winter races? LOL",
+    "usr": "Hard2Find"
+  },
+  {
+    "msg": "I would do for Friels benchmark test, for LTHR. Run as hard as you can for 30 mins in a time trial, so pick a distance on Tinmans calculator as it as a wide range of distance conversion, that is closest to 30 mins. Crop from 10-30 mins and use that as your LTHR. He says to take that as your LTHR. Personally, I feel 98% of that is more accurate. It's always proven a great benchmark for me. Either way I'll be in the range of what a hobby jogger needs.",
+    "usr": "yet another fan of this thread"
+  },
+  {
+    "msg": "This is the interesting thing. Henrik is coaching possibly one of the greatest runners of all time, if he carries on his trajectory - and I doubt there's very little he'd change from some of the stuff being posted in this thread. What's amazing, is in general, hope open they are with their training. I know the double thresholds and the hill sessions/speed sessions things are a little more guesswork, but Kristoffer literally puts every run on Strava, with all splits, intervals as well as the lactate results. So it was so easy for me to roughly copy, very little guesswork.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "Anecdotally and to the point about blood lactate varying with intensity, but also duration at that intensity. It’s very similar for HR. I found when doing 1K-4K intervals for a total volume of 12K, my average HR on these intervals was near the HR I averaged in the marathon. However, my pace on these intervals was usually at or slightly slower than half marathon pace. I of course knew that when racing, the fact that it is continuous and a distance greater than the workout volume, my pace to HR was not going to match what I was doing in my workouts. In fact, I did a 18 mile tempo run at nearly the same pace I averaged for the marathon at an average HR of 155 bpm (80% HR_Max), in the marathon I averaged 163 bpm (84% HR_Max). Maybe I shouldn’t have tapered at all for that race? LOL. For reference, when I ran the half marathons, my HR averaged 91% Max_HR. I never approached this effort in my tempo interval sessions though (for the average of the interval). I was running high volume during this time, 10.5-11.5 hours per week most weeks and do feel the higher general volume contributes to the HR values staying lower. When I’m not running as much volume, say around 7.5-8.0 hours per week, my heart rate on tempo interval sessions will rise higher to about 90% HR_Max. I think this is pretty established though that the fitter you are aerobically, the harder it is to approach that higher HR in sessions, since it requires a more intense pace if the duration is not sufficiently long enough. Conversely, in a race, you can hold a higher percent of HR_Max since you are more aerobically fit.",
+    "usr": "Hard2Find"
+  },
+  {
+    "msg": "Sirpoc: You mentioned 17:27 as your 5k race time. This is a CV pace of about 03:38/km. You do easy at around 05:10/km which is 70%CV. Same as J. Ingebrigtsen. You mentioned: What paces are those 1k/2k/mile for you? You called it sub-threshold/sweetspot, but did you mean sub-CV? Can you clarify that?",
+    "usr": "lexel"
+  },
+  {
+    "msg": "Yeah Friels test is actually not bad. If you have a good HR strap and use it the Garmin calculation is actually really accurate as well",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "Which is more advisable for an 18 minute runner for a basic aerobic run 15 miles AM at 8:20 Or 10 miles AM and 5 miles PM at 8:20",
+    "usr": "121222"
+  },
+  {
+    "msg": "I don’t think he’s using CV as his anchor in the discussion generally",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "Agree with this as well. Friels test needs a shave since in my experience its a few beats high its more like a CV heartrate than LT",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "Hi Lexel, these are paces that keep my sub threshold state. So these were all tested with a lactate meter. The paces are kind of irrelevant, they just are to give an idea of what speeds I run for me, to keep my mmol in the desired range at a maximum of just below threshold or even a little under that. I just call it sub threshold in the sense it is pushing up my lactate from below, much like the success I had whilst cycling. I mean the best tool would be a real time lactate meter, I hear that actually one of Tadej Pogacar's coaches is very close to a prototype. The paces are all different of course, but with different lengths with the rests, when I spent a month or so testing them, they all got me to around about the same range of lactate. Plus it's nice to have some practises at different velocities and speeds. The training is boring enough as it is. But I would guess you could just stick to one set, if you really wanted to. Maybe Kristoffer is training for something longer again, as he much favours heavily the 3k repeats. Now I have new data and the fact I've gotten fitter based on a quicker 10k, relative to my 5k, I'll adjust my actual paces to back within the parameters I set. As this thread is still quite active I have a lactate meter I can borrow again and I'll buy some test strips and see. So I'll raise the actual pace for say 1k, but leave it relative to my 15 k pace and I *should* see the same sort of lactate levels, within the margins of error that is good enough for me.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "I've been a forum lurker for a long time. But Lexel I just don't understand why you always bring everything back to CV? You seem unhealthy obsessed with it which complicates things further. I dude posting made it clear right at the start those are just paces that gets him in a range of sub threshold. Sub threshold state is obviously going to be different depending on the length of the reps.",
+    "usr": "lurker69"
+  },
+  {
+    "msg": "Sorry Lexel, I forgot to add in what paces I actually ran (like I say, I need to update them based on yesterday) I had a hunch I was going to have to adjust them and do a good run yesterday, based on my HR being a few beats lower for these, in the last couple of weeks. 1ks I aimed for around 3:44. 1600 I aimed for 3:46 2k around 3:49 That usually always got me into around the same lactate range. All 60 seconds rest. I pretty much give myself a very small window.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "Maybe slightly under when you are starting out. Say 84-88% when you are dont have the efficiency at Threshold. As you progress, your LTHR will move up slightly, say to 88-92% of MAX. Obviously you also have to take into account if you have an accurate MAX HR value and the time of day you are doing your workout",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "Hi Sirpoc, thank you for all of your contributions and openness. How often are you running your park runs / racing? This sounds like the X factor of the Norwegian system, their hills, the element harder than threshold. How important do you think this stimulus has been for improvement, and what’s the longest stretch you’ve gone without racing, just running the threshold workouts, and what was your improvement like from beginning to end of that stretch?",
+    "usr": "Dreistreifen"
+  },
+  {
+    "msg": "You bring up a good point about standardization. Also, language. Tinman \"tempos\" are different than JD's \"tempos,\" which are different than Pfitz's \"tempo runs\" and Hanson's (which are basically goal MP). I wish running had a standard set of params that all methods could use.",
+    "usr": "jecht"
+  },
+  {
+    "msg": "I run them when I can. I'm a very fair weather runner, in the sense if it's raining there is 0% chance I'm going to park run 🤣 it varies. I've done 24 in a 2 and a bit years years running, so that is roughly once a month or every 5 weeks. Maybe if I look back in the last year , it looks like once every 4 weeks on average. But there's been 7-8 week gaps, then back to back weeks attending if I had friends to meet up with etc. FWIW it's an interesting point you raise, but considering about 75% of all my park runs ever have been PBs, it's hard to tell if how often gaps between them, affects performance. My biggest gap I Pb'd, I once did 3 in 4 weeks which is the biggest congregated together and my third out of those 3 was my worst performance, in relation to previous pb time. But I don't think there's enough to go on. So I'll certainly keep an eye on it, down the line as to if there are any patterns. Parkruns are really great for me, I can run to and from it from my house, it's timed, it's free, it's social and most importantly it gives me real data and feedback on how progress is going and if you adjust paces and move onto the next level.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "We ultimately train to race, so our race performance is the ultimate predictor of, well, our race performance LOL. I get what Lexel is saying in regard to having a standard pace that is then reported as a percentage of when structuring workouts. I think that has seemingly been what many tried to do with LT (defined as 60 minute race pace). I know Tinman has his reasons both bioenergetic and statistical that he thinks CV is better than LT (perhaps some of those are promotional too though), but depending on your physiological make up and race distance you’re training for, CV could be far off from your race pace say if you run the marathon as opposed to if you are racing 5km to 10km. So if you used LT (60 minute race pace) that would be closer to half marathon and marathon race pace and thus would likely come with a narrower window of predictive error. Point being, in either scenario, it’s an arbitrary lab value. As I’ve said before, we don’t seem to have a true understanding of the mechanism that underlines the variety of adaptions we see to a variety of athletes using a variety of training philosophies. No one seems to be able to know that CV is a good predictor of 5km performance simply because it is closer as a percentage, and thus physiological demand, to 5km race pace any more than because it holds some deeper physiological influence. We know the further up in distance you go, say from 5km to the marathon, the more overall volume contributes. Yes you can run good predictor workouts and have good lab metrics but that’s a lot different than running an actual race. I know from personal experience that I can run my 5 km best off about 7.5 hours per week (and possibly my 10km best too). But I fall off slightly for half and even more for full. If I reach 9.5 in singles, that’s basically me at my best for the half and full (correlates to what Lydiard suggested too btw). However, of interest, is that I’m no faster over 5km with that added volume and only marginally better at 10km, to the point it could just be some random factor on the day of the races/tests I’ve done. I think of this as an “adaptive threshold”. Whether it’s my body being able to only absorb so much or physically just not being able to run any faster than a certain percentage of say my 400m speed, is a curious discussion, but the reality of my performance doesn’t change. Not to belabor this point, but Daniels has said on various occasions that there is no physiological difference in training at marathon pace than at your easy pace, seemingly implying that you should stick to what he defines as T pace if you want to improve your LT. However, if I try to run Daniels T pace spot on, I always feel like I’m overreaching and can only handle one of those workouts a week and no more than 10km volume. However, if I slow down by just 4-8 seconds per 1600m, I can do 12km in volume, twice per week, and see race performance improvements relative to previous races where I did follow a Daniels approach. I also notice I always seem to over perform what my workouts would “predict”. I’m always slower in workouts than what race performances and calculators say I should be.",
+    "usr": "Hard2Find"
+  },
+  {
+    "msg": "Racing should be the priority for training, but that's harder to learn than it sounds. Sounds so simple and yet so very easy not to stick to. Im sure we all have stories from our past where our ego completely ran the show. Called being young mostly. To the Daniels point, i couldnt disagree with that more. Marathon pace for runners is essentially Zone 2/LT1 work. I think at this point there is a mountain of evidence that show very distinct adaptations and advantages to running in Zone 2 vs running Easy. Take two runners for instance in a summer build up to fall XC. One runner does only E runs according to Daniels and strides. Another runner does a variation with 3-4 days a week with higher Aerobic/Zone 2/LT1 work. Im putting my money on the Zone 2 runner to really be able to springboard into the harder work and racing in the fall I'd say this system works great when fueling and fat burning are not a higher consideration, basically 1500-HM (depending on how long you are on your feet for the HM). WHen you are talking full Marathon, you really need to think about the demands of that event, and the other considerations and adaptations youll need for 2:20-4:00 of work. There you definitely need the longer runs and you definitely need the LT1/Zone2 work to juice your fat burning capacity and spare as much glycogen as possible for as long as you possibly can to not bonk. In the Half, depending on how long it takes, same considerations. You really have to think about the limiting factors in the event. Like people keep popping in with previously \"oh you need VO2 work\". Id guess 98% of people running 5k-HM, their VO2 Max is not their biggest limiting factor to running faster, which is the goal here as you have stated. Not just putting up huge training numbers or physiological stats, but speed over a given distance.",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "I am (and have been) trying 2 workouts per week with Daniel's T-pace plus 3-8 seconds, depending on duration of intervals, plus a (sometimes progressie) long run. Unfortunately I got sick in the middle of this, so didn",
+    "usr": "vdot?"
+  },
+  {
+    "msg": "..so didn't really get to test the progress. It definitely feels doable to maintain for months, I will try to up the volume on the workouts. Maybe I will need to slow down a bit then. This thread makes me hopeful that this type of training might be a good approach.",
+    "usr": "vdot?"
+  },
+  {
+    "msg": "I am not obsessed with CV and i don't want to turn this thread into a CV discussion. However, CV has it's scientific place and value and it is a real metabolic threshold, which is not the case for the 60min threshold (TH60). The TH60 came from experience and pratice and is below CV. There are endless threads in this forum, were people talk about 'Threshold' running, without providing even a statement what they mean. That is subpar and can be avoided. There is a solution outside and cycling had exactly the same problem. In my next post you will see, why having a common base and language is relevant.",
+    "usr": "lexel"
+  },
+  {
+    "msg": "There’s a poster on here who is pretty adherent to Daniels approach or at least was. I know he’s had great results with it. Smoove is his username. May be worth checking out his posts if you’re following a Daniels approach.",
+    "usr": "Hard2Find"
+  },
+  {
+    "msg": "I see Daniels has been brought up. Here's my thoughts. My Daniels T pace that I *would* have been training at in the last few weeks, would have been 3:45. I'm around that on the 1k repeats. Just over 3 and a half minutes. I don't think I could manage much more time than that. Going up to by 2-3k repeats. Definitely slower. Let's take the 2ks as I do a lot of them. The fastest I tend to do is them is around at 3:49 and that is only under 8 minutes of work at a time. Even then at the end I'm right at around my threshold state, by the end of my last rep. I can't imagine being able to work at things like 2x15 like he prescribes at his T pace? I think from memory he has things like this as his sessions. I have his book somewhere. I could maybe throw throw that in once a week at that pace , but it would be pretty hard and hit me the next day. I know it doesn't sound like much more, but it really does mount up fast the recovery once you tip over that threshold. I kind of get what Lexel is saying as well. Don't get me wrong, I would love something standardized. But I don't need to know what my CV. Not for my own , individual training, I just need to know what gets me into that 90-98% state under LT2 that I know I can sustain and get benefits from. Anything I have posted up I think might be able to serve as a guide, to other people - but it's certainly not perfect and just what is working for me and seems others.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "Totally agree! It’s been discussed on these forums before but some of us really do seem to reach our best through volume and threshold workouts. I know that’s been the case for me. Also, I don’t want to appear to be bashing Daniels. I’ve read all his editions, still have the second that I bought about 12 years ago when I started running in college. He has a lot of good data and supposedly more he hasn’t even published. I just found his LT a little too intense for me, especially if using his 10% rule. I tend to think in his approach to breaking down training, people didn’t see paces for the continuous spectrum on which they lie but rather saw them as discrete points. I doubt even Daniels would suggest such a thing in practice. He comes off as very open minded and adaptable.",
+    "usr": "Hard2Find"
+  },
+  {
+    "msg": "In cycling, I'd be doing long intervals. More like 3x20 at sweetspot. So it would be a lot longer reps and for more time. % of FTP is obviously lower. But the lactate outcome and % of LTHR is very much the same, as what I am calling these sweetspot \"running\" intervals. I could obviously get myself into the same lactate mmol, in running, doing say 2x20 but it would be much, much slower than these % of CV, for the same amount of time spent.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "I always mixed him up with LateRunnerPhil, who was a Tinman guy. My experience this block has been using Tinman's calculator to gauge fitness/current workout paces off and adjusting accordingly. But this double-threshold/single adaptation seems like something I will try in the next block (next winter).",
+    "usr": "jecht"
+  },
+  {
+    "msg": "Thank you! Clearly not a big part of the program. I’ve seen 2:10 marathoners incorporate a hard VO2 session once every 5-6 weeks, and those were the only faster-than-threshold sessions in their programs. Curious about the optimal frequency of this stimuli to elicit gains without losing the essence of the threshold / “Norwegian” system.",
+    "usr": "Dreistreifen"
+  },
+  {
+    "msg": "I feel like what this thread is really uncovering is getting to the bottom of what training really is. We should all be individualizing more. There are certain shortcuts or benchmarks people use as a guide for how to train which are really quite false and bad but are very common: 1.) Using a race performance to modify training. It should be done in certain ways but not in other ways. Where this goes wrong is when the race performance is good and people use this as a reason to modify their training. Isn't that just crazy? Good races are often used as justification to increase training intensity or volume, like \"I need to update my training paces according to this new performance\" or \"I have achieved all the improvement I can get out of this training volume and now I need to increase it if I want to continue to improve.\" Both ideas are insane! But they are so common. If you have a good race, that is an indication that your training is effective as it is! Don't change it! It's only when you have a bad race that you might say \"I'm overtraining\" or if you have plateaued then you might say \"I'm undertraining.\" If you have a good race, your training is effective, don't significantly change it! Run the same volume at the same perceived effort. Paces and mileage will naturally increase without conscious effort. Keep doing that until improvements stop coming, and only then do you intervene. 2.) Comparing your training to someone else's. This is also crazy, especially when you tie it in to comparing your races and your training to someone else's races and training. Our ability to train is way too individualized, just like our ability to race. One untrained person can run a 17:00 5k while another runs a 23:00 5k. One untrained person can do training load X while another untrained person can do training load 2*X. It can really vary by that much such that it's not even close. And the two things (our natural ability to race and our natural ability to train) aren't related. The 17:00 5k runner might be that much faster in the 5k but they cannot handle anywhere near as big a training load as a slower 5k runner. In fact I'd guess that they're probably inversely related: the faster you can run with less training, the lighter your training should be and the more cautious you should be about increasing it. 3a.) Key workouts. People do \"indicator workouts\" or \"race simulator workouts\" which are totally unnecessary and completely break the optimization of training (in the sense that the amount of time they take to recover from is not worth the benefit they're providing). RACES are the thing which we try our hardest in and break the optimization of training to do. If you want to do hard efforts, then do a race! Don't race in training! People need to have confidence that their training is effective. Jakob has talked about this -- he doesn't need to prove anything to himself in a workout. He's 100% sure that the training he's doing is effective. His hardest efforts are reserved for races, where they matter. All the rest of his effort is used for optimal training, which doesn't involve maximum efforts. 3b.) Peak weeks and \"down weeks\". This is so high risk and is there really a reward? You're essentially overtraining on purpose. What if you don't fully recover? Your race performance will be ruined. What if you would've gained more fitness by just having two normal weeks? Marathoners will increase and increase their mileage and then have a huge marathon pace long run \"on tired legs\" for the peak of their training. Maybe, MAYBE, designing your training cycle with this kind of thing is optimal. But SO many people mess it up and it is absolutely not necessary. 99.9% of runners do not need to mess with this concept at all. Not every training week should be identical in nature (there's some training that's better done far away from your race and some that's better done closer to your race) but no one should be overtraining on purpose, even if they're scheduling extra recovery. My main takeaway from this thread is that having 3 quality days a week and running really truly easy on the other 4 days is a very effective foolproof template that everyone should try to follow. And in order to follow it, the quality days have to be easy enough to recover from that you actually recover and can sustain the training. And in order to do that, the easiest type of workout that you can do which is still effective is these easy threshold intervals, starting with as small a volume as you need to sustain it and building up to what Jakob does as a maximum volume. These sessions are what you can do on the days which precede 1 easy day. What you do for the 3rd quality day of the week, which precedes 2 easy days, can be a little more difficult and should cover a different aspect of physiological development (like doing hills / speed, or for a marathoner, a long run with some kind of tempo / fartlek). So as someone else mentioned, trial-and-error is very likely the best thing an individual can do. Doing some kind of fitness test, max heart rate test, monitoring heart rate or monitoring lactate, etc etc, should just give someone a starting point. And then it should be individual trial-and-error: can I do my 3 sessions a week indefinitely? Am I really staying on top of my recovery? That should be the top priority. Make it easy enough so that's a confident \"yes\". After that, you occasionally race. If your performances are improving, then change nothing (except what naturally changes by keeping the same perceived effort). If they plateau, then think about how you want to increase the stimulus so you can continue to improve: maybe your paces have slacked off a bit and should increase, or maybe you should increase volume a bit. Either way, make a small incremental change, make sure the training is still indefinitely sustainable, and race again in a few months. There's NO NEED to continuously compare your journey to anyone else's or to refer to a chart or any physiological measurements or anything. I understand that doing so has been massively helpful for Jakob and Gjert says it's essential, but they're attempting to reach absolutely 100% of Jakob's potential, setting literal world records. And copying them might not even work for our own physiologies. They've made no attempt to provide a universal blueprint that will work for any physiology. We should guide our own journeys. Start somewhere -- err on the side of the training being too easy -- and see if you improve or not. Get an idea for what you can handle and increase it only if necessary. Anyway, that's my takeaway. I personally have been the guy who runs relatively fast on little training, who has then taken cues from other peoples training (and not just on my own in some misguided and incorrect fashion -- I've received individualized training from coaches who have coached elites, and from elites who have gotten into coaching) in an attempt to get more serious and perhaps graduate from \"sub-elite\" to \"elite\", and then just ended up overtraining over and over and over again. If that rings a bell, I think this is a good lesson to learn. If that's not you, maybe my perspective isn't helpful. I'm too old now to ever be elite (well, there's always the masters category) but finding good training late in life is still a great gift, better late than never. I respect the people who are keen on comparing training and races in order to build general knowledge and understanding. It's an essential part of all of this. It's a worthy project and could eventually lead to comparisons actually being more useful than they are now. But for an individual just managing their own training, my strong opinion as someone who has been led astray so many times, is to use it as a starting point and then live in your own individual world. PS: I have a pet theory that a lot of sub-elites and low tier elites have been overtraining their whole lives, but not so bad that they don't improve, so they just keep doing it their whole careers. Then at some point they stop improving and they cannot possibly train any harder, so they think \"Well I hit my genetic peak. This is it.\" But they're wrong -- they could've hit a higher peak by training lighter along the way. Some of us can't improve while overtraining but I think a lot of people can and then they develop a totally warped idea about the relationship between training and performance, and that trickles down and permeates to everyone else, creating all kinds of false ideas about what kind of training is necessary to achieve a certain performance. I base this on the fact that (like I said earlier) people keep increasing their training loads before they plateau. They have so much fear about \"wasting\" a season of training by undertraining that they constantly err on the side of overtraining, but not so much that it's catastrophic, and then they end up spending their whole careers slightly overtraining, never actually training optimally. They burn out and/or plateau before they accumulate as many years of effective training (before getting too old and declining) as they could have.",
+    "usr": "slower runners"
+  },
+  {
+    "msg": "I trained as a kid just doing my own thing - had great results. In high school, everyone caught up and passed me because all we did was interval training. In college, we followed Lydiard - with good results post college - I just experimented = began taking one day off per week in college, so after college I took that to a whole nother level. I basically took 3 days of per week and had 4 quality days. Mileage fell to 25-40 per week. Results were very good. actually amazing. Because I had little expectation for each workout (which was essentially a steady state run 8-10 miles) I would just go whatever pace my body felt like on that day. Some days were quick 5:10 pace, other days no so much 5:40 pace...but it did not bother me either way. = the problem for me was after that 1 great year, I kept trying to replicate what had worked and got fairly good again a few times, but never the same. = my thinking is the base years in college allowed me to maximize training on low mileage, but I needed to go to the base training for a while to get results again (of low mileage). So my conclusion is low mileage training works, high mileage training work, high before low works best of all. too high expectations does not work trying to copy someone else's workouts does not work",
+    "usr": "dsfasfd"
+  },
+  {
+    "msg": "Great Post! So much to agree with here and a very nice higher level recap!",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "Lexel. You seem really confused by all this. You keep trying to bring this back to critical velocity. Have you ever trained with a lactate meter? This is a genuine question. The guy has clearly stated he's looking to get to 2.5-3.5 mmol and he's tested this. There is a ton of ways he can get to that, almost unlimited combinations of reps and paces. What that % of critical velocity is almost irrelevant to the thread and conversation. You keep bringing it up just doesn't make any sense. Obviously pace is higher, the shorter the reps. I do much longer reps mainly because the strips are expensive. So I have found 3x13 mins works great for me, at marathon pace. But I could get exactly the same response though from the lactate I am looking for, with 9x4 mins, for a completely different pace. The actual pace would be much different BUT IT DOESN'T MATTER. The different paces get you running and practicing I guess at different speeds, but the response it lactate you are eliciting from the body is the same. This thread is about getting as much training you can do, sub threshold. That's it. Nothing more. I personally think this is the best way to train and I've had great results myself. The pace is totally irrelevant. Maybe it shouldn't be mentioned. I think maybe it's confusing for people to read Spoc84 posts, as awesome as they are how he laid out the paces. They are not for you. Or for me. They are the paces he runs to get the lactate levels he is looking for.",
+    "usr": "lactate guy here"
+  },
+  {
+    "msg": "Hey guys. Wow what an amazing thread! I feel like I've read one of the best training books I've ever read, took me a day or so but finally read every post. It's kept flowing that well. I love the idea you can run a bunch of different paces but basically get the same sub threshold response. I think that is excellent for running economy. It also feels very controlled . Something I feel with my training, I seem out of control at times. One thing that stands out - maybe I have an opinion on this as I'm currently injured again, but virtually nobody has mentioned getting injured? There has been quite a few people all posting now in follow up to spoc84 superb first few posts, but a theme almost everyone has followed with is that 1. It feels sustainable, with people seemingly doing this all year round and 2. Really nobody has mentioned feeling tired or it breaking them down and feeling injured . That is huge. I don't think I've read many long threads on letsrun where it's been sustainable, it's not a miracle quick fix then you break down but most of all people are actually getting faster. Does anyone have a theory as to why? Is it simply the recovery is easier + the lack of vo2 max stuff? I feel that's what leaves me living in the edge and usually responsible for most of my breakdowns. Anyway keep it going. Spoc, unbelief, Hard2find, shirtboy, peekay. Sorry if I left anyone out, but this is an all time classic letsrun thread , reminds me of the old days where intelligent minds shared ideas and everyone just ignored the trolls.",
+    "usr": "injured runner 2023"
+  },
+  {
+    "msg": "Lol. I was tested by lactate and spiro at this time you was not even born. The training spoc mentioned is above 60min threshold not below, but it does not matter for you. If the intensity does not matter for you, than you can train all easy and have the same effect as above threshold. That is great, have fun with your thinking, and please don't post here :)",
+    "usr": "lexel"
+  },
+  {
+    "msg": "No suprise to find Lexel here. I remember his easy interval method thread. He has a strange habit of repeating stuff I'm sure he's heard somewhere else, then using it out of context or not actually understanding what he is actually saying. Having said that, I enjoyed the thread so far. It's well put together and to an makes sense. I do feel maybe I am the type of runner who probably roles his eyes at training like this, I accept that criticism. You have to understand, I think some of you guys are new to running or spoc84 who comes from a background in cycling with probably a much richer depth in embracing the science , or certainly much further down the road than runners are. With all that said, I'm not brave enough to take the plunge and polarise myself between virtually all my running at either really easy, or a narrow range of sub threshold . No vo2 max work I just can't get my head around. There's too much risk attached. You have to understand how crazy it seems to the old skool, damn I guess that's me, that he's running all his paces so controlled and that he's basically running at 5:05 /km or 3:44-50/ km . I will concede, however, that if someone was coming to me totally fresh with no running but sign of aerobic talent elsewhere, I'd seriously consider suggesting this thread to them.",
+    "usr": "skeptic!"
+  },
+  {
+    "msg": "Yet another thread on Norway training because one guy happens to be dominating at the moment. If u are running sun 70% of HR 4 out of 7 days I can already tell u aren't training hard enough. Next.",
+    "usr": "here we go again"
+  },
+  {
+    "msg": "Eat a D, clown",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "I kind of feel like unless you can afford and use a lactate meter to measure mmol, this whole “approach” really can be summed up as: “don’t race your workouts.” Easier said than done, but not a complex approach.",
+    "usr": "birdbeard"
+  },
+  {
+    "msg": "this ‘approach’ has been laid out 8 ways from sunday on how to do just that. a bit more in depth than just ‘dont race your workouts’ at this point",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "You’re never ‘over’, never under fueled or under recovered. That alone has a huge correlation to you being able to bang these sessions out and stay injury free. Stress is always UNDER estimated abd by consequence always UNDER managed. Even when youre younger, youre not getting away with it as much as you think you are Do this system until you really, really, really think you’ve plateaued. Then possibly consider something slightly harder",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "I guess I just don’t find the concept of leaving a rep or two on the table to avoid accumulated fatigue that crazy. Trying to distill and simplify this thread down: don’t train too hard so you can ensure you can make about 25% of your mileage marathon pace and quicker. If you have to back off the pace on the quicker stuff (speed work, VO2 max) to ensure recovery, do so.",
+    "usr": "birdbeard"
+  },
+  {
+    "msg": "On not getting injured/overtrained: My theory on injury is that sub threshold speed doesn't need as much force from the leg muscles as vo2max or faster intervals, you can warm into threshold speed. On overtraining perhaps because lactate production is low, therefore training weeks can be safely repeated and accumulated?",
+    "usr": "Another giver of +1"
+  },
+  {
+    "msg": "There is the neurological fatique i mentioned and referred a paper to it in this thread. It's seems to be not linear above some intensity. As faster and longer you train as more strain/forces to the body. Shorter intervals seems to be better to avoid/reduce muscle damages with running. Possible not so crucial with cycling. Fast twitch fibers need longer to recover, so the intensity matters. And there is some evidence that too often high intensity training hinders mitochondrial development.",
+    "usr": "lexel"
+  },
+  {
+    "msg": "I don't actually think you have read the thread properly. Or don't understand it. Its way more in depth that that. There's no reps left on the table, they are being specifically targeted to work up to and finish around a certain mmol of lactate. I don't think spoc84 who laid it all out on the table, runs anything marathon pace. It's quite a bit faster. In fact, some of it , maybe over half of it, is over threshold pace/velocity. But he's never going over threshold. This is very clever, measured and controlled. Him as well have laid out ways , potentially runners can measure this training load and perhaps examples of why it's working. I don't think spoc, Hard2find, shirtboy, or others pretend to be scientists, but there's been plenty of citation of guys who are. There is no backing off the quicker stuff. He doesn't do any apart from race. Again, it's not just a case of how most training works, where it's time to lay off the vo2 max stuff in training - there isn't any. At all. This isn't double threshold. It's different. The intensity is probably even a little higher but a fraction, but still not over LT2. I personally loved the thread and while like others have mentioned I'm not convinced I could adopt it over night, it's one of the best laid out and clever repeatable systems I think I've ever seen.",
+    "usr": "night owl!"
+  },
+  {
+    "msg": "I enjoy this thread. Very good. I have questions. You are hobby jogger, your times are better than a lot of lets run will run. I wonder, your age height and weight? It would give me idea of I think how good these times are. You say 17:27 and 35:50. I think this is quite impressive for times with no speedwork or vo2 specific sessions. I hope you still posting in this thread. I have second question, you never tired and have to skip session? Or do you just do it anyway?",
+    "usr": "question for spoc"
+  },
+  {
+    "msg": "I agree with the sentiments expressed by a few of the above posters, this has been a great thread to engage in and read! Many of the best coaches are not academically trained in exercise science and it hasn't stopped them from developing their approaches and sharing that with others. Regarding including VO2Max intervals or anything faster than LT (60 min race pace). I am not in line with sirpoc on that. I will include OCCASSIONAL workouts where I am running 5k-10k pace for 800m-1600m intervals, but this is usually when a few weeks out from a 5k-10k race and I have found that just 2-3 sessions are needed. Regarding doing the threshold workouts, I think a way that people can conceptualize them is as follows. If you think of doing strides, say 100m strides at 1500m pace, in that 100m you build up very little, if any, significant lactate above your baseline, even though you’re running at 1500m speed. So, if the goal is to keep your blood lactate below your 60 min threshold level, say 3.5-4.0 mmol, you could construct a variety of workouts at paces faster than LT but done in short enough intervals and with proper recovery where your blood lactate never rises above your threshold but you accumulated a high volume of work at a speed faster than it. I personally don’t take this approach as I find running at or slightly slower than LT is more productive for me, since I’m more 10k to marathon focused. However, it’s an idea to play around with for some, perhaps. Also, in the least matter of fact tone possible, correct night owl!, I’m not a physiologist, but I am actually a scientist LOL",
+    "usr": "Hard2Find"
+  },
+  {
+    "msg": "I really don't want to make this thread about me. I only really posted to serve as a guide of what works for me, now it seems to have taken on a life of its own. I didn't invent this training, I just laid it out in a way I think is probably understandable and doable, to an extent, even without a lactate meter. There will be guesswork involved, but for a hobby jogger I think you can get it good enough. For an elite, or sub elite, probably a little too much unknowns that I would only do it with a meter. But for 90+% of us, the way I laid out I think will yield good results. I combined how I trained as a cyclist to a pretty high level, to what I saw the older Ingebrigtsten brother doing. I didn't just make this up on the top of my head, it's a hybrid of stuff I've picked up over the years or just blatantly stolen, like how I came to the rep lengths for running. I'm 39, almost 40. I'm 173cm and 67kg. Have been that weight since lockdown +-1kg, no change. I know I could lose weight. Peak cycling I was 60kg, sometimes slightly less. But I like beer, pizza and McDonald's too much ha ha My local parkrun course has 3 dead turns and a long out and back stretch on gravel, if I can do sub 17 on this I'll be very happy. That's really my only training goal. The all time course record is a low 16 I think. I got my gun time for the 10k, was 35:41. So I would be quite happy with sub 35 maybe at some point as well as a target. And I always do 3 sessions a week, no matter what. The third session is replaced on the Saturday by parkrun, if I do it. I added it up how often I did them the other day in post. Sunday my first ever 10k, was the session and did the rest of the week normal. I just actually had a rare occasion an extra easy day in a row before the 10k. Yesterday, was back to normal , easy day post 10k race and today I'll be straight back in later on with 6x1600 ready and loaded on my Garmin 😊 There's plenty you can learn from this thread not from me. There's a bunch of other guys who really know what they are talking about and have more running background than me.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "And that VO2 work is probably a bit over rated for your average runner. Which brings you right back to the schedule, philosophy and setup behind what we've used 14 pages describing in detail",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "What would you recommend for a 6 days a week schedule? Still 3 Q? Sounds a lot.",
+    "usr": "Lactata"
+  },
+  {
+    "msg": "You probably could do 3Q for sure, but you could always slice that last Q up to be a long run with some faster pace in there Marathon/LT1 work. Q, E, Q, E, Q, E, OFF is certainly doable. I think it's been mentioned before, but give yourself a chance to build up to even this. It will take time to get the load and workouts correct and time for your body to adjust to the schedule. Controlled threshold 3x a week is certainly doable. Most people might want to start with 2 Threshold and progress from that with a Third floater day if they are feeling good.",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "Shirtboy has given a perfectly good answer. He knows what he's talking about for sure so I won't add too much more. Other than I would add, try and keep it in the 80/20 - 70/30 range of easy Vs sun threshold. I'm doing maybe 55 miles now I think at this point, but my sub threshold stuff has always been proportional to by easy work by somewhere between that ratio. I've mentioned before, I've accounted for this as time in zone. Not by sessions as Seiler has categorised 80/20. He flip-flaps on this himself these days and seems even himself to accept either generalisation. For elites doing doubles sessions is probably a good guide, for hobby joggers on singles doing time crunched, time in zone probably just about works",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "Bro, train like a runner. On 6 days just do , tempo, long run and some vo2. Whatever really on the rest. Wheel doesn't need to be reinvented with this trash in this thread.",
+    "usr": "train like a runner"
+  },
+  {
+    "msg": "yeah train like a real man! someone seething with resentment for not reaching his full potential! Dont listen to this actual trial and error, bro! Im still going through it myself because im going through it, too and need someone to talk about all the intense workouts and Strava accolades i once accumulated!",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "again, to the point of this whole thread, ‘tempo, long run and some vo2’ Why? why do you think that’s really worth your time? why do you need a long run or vo2? or for that matter a tempo run? start having some purpose to your runs and think about the actual demands of what your spending your time doing. Unnecessary long runs and vo2 workouts a great way to dig stupid holes for yourself to climb out of.",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "Yeah that is the big take away of the last 20 years. More volume slightly slower. That is the bigger deal than if you do 2 30 min sessions or 1 45 min session. I always found a very small volume of faster stuff (things like 200s at 1500m pace or even 15s hill sprints) once/week helped keep me feeling fast. But that didn't need to be a full workout. 4x200 at the end of a 30min temp or some hills after an easy run was enough.",
+    "usr": "fkkfkfkfkf"
+  },
+  {
+    "msg": "Probably the best thread in 15 years, maybe 20. I started reading LRC around 2001. I like the idea of gently pushing the envelope without getting hurt, and you can still get a LR in there for MP/HMP purposes.",
+    "usr": "jecht"
+  },
+  {
+    "msg": "Very informative and real-time training-based. Even for slower guys like me I can see the values of this, getting the 46 10k down to 42 or faster as a baseline with it over several months/years of training. And getting a 21 5k down to 18-19 and more competitive...",
+    "usr": "jecht"
+  },
+  {
+    "msg": "Glad I happened to visit LRC when this thread first popped up and have been following since. I've been reading more and more lately emphasising the importance of LT-pace training, and taking serious interest in the Bakken/Ingebrigtsen approach. This discussion has generated some great lightbulb moments for me. The talk of CTL, heart rate zones, maximising time at LT pace etc. has got me wanting to properly monitor changes in my own performance and fatigue metrics. Has anyone got any tips for how to get the most out of tools like Runalyze for this? I think it was sirpoc early on that mentioned he uses it.",
+    "usr": "data-nerd"
+  },
+  {
+    "msg": "Still a good track of your progress are time trials. Real performances. If you do that at different durations/distances you get a duration to speed profile.",
+    "usr": "lexel"
+  },
+  {
+    "msg": "Hi data nerd, your username suggests you have come to the correct thread 😂. I think there's quite a few people here who can help with different things, but I can definitely help with this. I don't use runalyze, but I hugely recommend either Golden Cheetah for the PC version or use intervals icu for mobile (it's browser based, but works fantastic in mobile brave on my android). This IMO will open things up to what is happening in your training. You'll start to see patterns and understand why you stagnate or when it's time to just do things like I suggested, like time to add on 5 mins here and there to easy runs before you add more reps. Intervals will also give you a visualisation and breakdown each week of your time in zone breakdown. This is hugely valuable. You can customise that breakdown in a number of ways. I would suggest using time in zone, pace as the main metric, with heart rate as back up and also if you have a reliable and more modern watch, select in the pace settings in intervals icu , gradient adjusted pace. You can use HR, I don't think it matters too much, you will see slightly different numbers. For me, it evens out (roughly) But the TSS per session seems slightly less for me in the easy runs by HR and slightly more in the workout sessions, than by pace. Overall, I mentioned the other day I have re evaluated the last few hundred runs and basically it ended up the same. Just stick to one though. Once you have picked , just stay with it. Obviously pace isn't as good as a power meter in cycling, which is the ultimate tool , but I can still use the PMC (it's under the fitness tab in intervals, but the same thing) to index my current fitness) roughly to my training load. The main takeaway in basic terms for me, I could only make it to maybe around a CTL (FITNESS score in intervals icu) of 50, training a more traditional running approach, on around 6.5-7 hours a week. It was only as I started to train like this for the same hours, which made my CTL increase, for no more hours. So obviously I could experiment with how to push the envelope and understand why I have gotten faster. You mention fatigue, FWIW, the fatigue/tsb score in general I've found quite accurate over the years. I once was cycling and really felt terrible from a training block, had a TSB of like -50. Over the years in cycling it gave me a pretty good idea of where I was at. I could train hard still on about -15 to -20 ish. So for me it was a good metric to use, as again I could index that score and use it for patterns over time. It was as good as telling me when I needed a break as my body. My issue was always I didn't want to believe my body, I was weak and could just push through. The numbers reigned me in. One more thing, training like this for running, you don't need to worry about this too much. I've never accumulated a fatigue score over -10, in intervals icu. That's primarily because this is so controlled, it's basically the same thing every week or at worst ramp it up a tiny bit. Cycling is a bit more variable, you might do some crazy 7 hours ride , it feels easy, but actually that load is huge under the hood and has trashed you in retrospect, more than your body initially tells you. You'd probably find this to be the case in running. That I could easy go out and run 75% of MHR for my long run, it might feel OK as an individual run in isolation, but actually if that becomes the easy standard over time, it will then grind you down (not horrifically I guess) but more than you realise. Just make sure you are 100% sure you know your threshold pace to begin with and that you know your LTHR. Also, keep those updated the second you clearly know you have improved, through a face or time trial or whatever you benchmarks are likely to be. Right, I was going to also post and bore everyone with what happened yesterday , as I got my wallet, bought some more lactate strips . Can't believe how expensive they have gotten 😭😂😂.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "I suspect I'm the runner spoc and others were talking about who hits workouts and easy runs to hard. He mentioned how he's often passed on easy runs by local guys he knows that he beats in local turkey trots. Well, I'm the guy who probably does that. It rang true with me because this comment is me often overtaking a 17 min guy on my easy run when he's on his. I'm a 19 guy, much like where spoc 84 was stagnated at. It's funny, I know this guy I often see on my morning run. He's the only one training that slow on his easy based on following guys on Strava locally, but has also the fastest master in the area. He's doing something like this I think. As he's often doing 6x mile and looking at his data on Strava its like 20 beats at least under his MHR from runs he's uploaded from races. I could never understand what on earth that would accomplish or why he wasn't doing those mile repeats if not all out, much harder. My guess was it looked like about his HM pace or slightly faster. Which I just couldn't understand. I think the problem is being a workout warrior is so engrained into the sport, weirdly so. Obsessions with 3-5k pace workouts. I hold my hands up I'm as guilty as anyone. If nothing else this thread as made me want to take baby steps to breaking this cycle.",
+    "usr": "thread hit a nerve with me"
+  },
+  {
+    "msg": "Have you heard of K.Blummenfelt, for a non-Ingebrigtsen example? Fool of a Took.",
+    "usr": "Anonononomymous"
+  },
+  {
+    "msg": "What was the damage for the strips? and where’d you get them from? Assuming you got Lactate Pro?",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "£42 for a box of 25 HaB a UK based website. It's not mine, but I have easy access to a friends Lactate 2 pro who works in a science department in education. Long term the cost just isn't viable me to always continue to test, but I just made a really big leap in performance this weekend that I want to test the new paces I've estimated in proportion to my 10k time, that I'm still in the right ballpark. I wasn't going to, but I figured I'm invested in this thread as well myself at this point that I would cough up for another box and test on first , middle and last reps of 10x1k, 6x1600m ( did this distance yesterday) and 5x2k. Maybe run this through twice in the next couple of weeks and do one lot in 25x400 and test that. That'll be this box of strips done. Then if I'm happy just stick to the pace ranges for a while with confidence. Obviously it won't be perfect, some days these paces might do say 2.5 mmol and some days 3mmol and I won't know exactly which one it is (just to use a random example)- maybe not that precise for a pro. But good enough for me that I'm within 98% confidence I'm somewhere under LT2 and in the desired range to keep pushing that threshold from below , which ultimately I believe will keep me progressing.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "Someone earlier mentioned renting a lactate meter - is that actually possible anywhere (US) ?",
+    "usr": "sans-culottes"
+  },
+  {
+    "msg": "You definitely can in the UK, a company called edge performance science (might be worth asking them if they would send to US?), as initially I was going to do that through them. By chance I just happened to ask my friend who works in the science industry in education if it was worth buying one and he had two lactate pros in a box in a lab that had never been used. I'd be surprised if there's isn't somewhere stateside you can rent from, as it's relatively common now to at least experiment with from sub elites upwards, across a range of sports.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "That was just the company i was going to recommend you get them from!",
+    "usr": "unbelief"
+  },
+  {
+    "msg": "I know $500-700 is a lot for a lot of people, but that’s how much you can spend on a lactate plus, control solution, and enough strips to learn how to test yourself. It’s a priceless experience, in my opinion.",
+    "usr": "Itestlactate"
+  },
+  {
+    "msg": "HaB a great company! Lactate testing is like organized crime -- just when you thought you were out! Let us know some of your data. would be very instructive for many im sure, especially for those interested in going to that step. Lactate testing is an extra expense, for sure, but people will buy 10 pairs of Vaporflys no problem. Especially in the states, $500 will get you going on Lactate no problem. Then it's mostly just spot testing any ways. The ramp tests are mostly for labs to grab your money and plot you a pretty curve. The curve is nice to have, for sure, but repeated field testing gives you way more reliable information, especially when you are doing similar/same workouts week in week out.",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "If someone( I guess most runners here) can`t afford lactate measuring equipment like this it`s very easy to outgo from Daniels VDOT and find correct threshold pace to outgo from. Then there is just a need to calibrate `exact`individual best threshold pace out from that pace with the help from time of rest needed between the threshold interval reps . As a good example running e.g 8-15 x 1000m at perfect threshold pace shouldn`t need more than 60 sec rest. If need for more rest the pace is too fast. -The Magic Coach of LRC-",
+    "usr": "M-A-G-I-C !"
+  },
+  {
+    "msg": "I offered you guys a calculation in %CV to replace the lactate measurement (or save some costs), but got downvoted for that. Not my problem! Some people here are in a clubs. What if you buy one for a club or community and everyone can rent it? Easy. In Europe the Lactate Pro 2 is available around 350.- Eur not too much in my opinion for a medical device. The stripes are about 2Eur.- No calibration needed for that device.",
+    "usr": "lexel"
+  },
+  {
+    "msg": "Another aspect of this is that many don`t like to take blood samples ( like me :) ) and this way by practical knowing how to handle perfect threshold training the runner doesn`t have to take blood samples.",
+    "usr": "M-A-G-I-C !"
+  },
+  {
+    "msg": "And what is his volume compared to those faster runners? The reality is few people are focused on running their fastest 5k. They have 3-4 hours/week to spend running and they do it in the way they enjoy. Few people running 19mins are serious enough to be doing repeat miles..",
+    "usr": "fkkfkfkfkf"
+  },
+  {
+    "msg": "You clearly haven't read the thread VDOT will not help. Threshold is a state, not a pace. Spoc clearly has shown he is running threshold state, but the pace is different depending on the length of the rep and the short rest. Why don't you actually open your mind up and contribute based on you could learn something new, like the rest of us?",
+    "usr": "coach js is dumb"
+  },
+  {
+    "msg": "The suggestion for working with spoc and trying to maybe standardise paces to CV was for lexel",
+    "usr": "coach js is still dumb"
+  },
+  {
+    "msg": "Well, I don´t care what most amateurs here proposes after I have coached several hundreds of runners at all levels over the world and all improved in the way I told.And I just gave an example of max rest when running threshold 1000s . You can call me dumb, but what I give here is always experienced knowledge out from reading thousands of scientific studies and practised running over 50 years , partly at national elite level, and now been an online coach for eight years.Try to learn , perfect threshold training is a pace but individual .",
+    "usr": "M-A-G-I-C !"
+  },
+  {
+    "msg": "I am running a 1/2 on Sunday and I can use that real-time data (JD or Tinman's calculators) to see equivalencies. I know we aren't using CV pace but even the threshold pace, based on my true HM race time, will then be the starting baseline for the training shirtboy and sirpoc84 have referenced here. I also thought about using the 30-minute TT to find LTHR.",
+    "usr": "jecht"
+  },
+  {
+    "msg": "Actually after re-reading this, is it smarter to use the HM as a TT to gauge baseline, or run it, rest for a few days, then do the 30-minute LTHR test to then derive the threshold paces and such to start training with (adjusted for MP efforts, rather than 1500-5k)?",
+    "usr": "jecht"
+  },
+  {
+    "msg": "Delete the double post? I am not sure how it posted twice.",
+    "usr": "jecht"
+  },
+  {
+    "msg": "Dude, you pollute this forum and you are so far out of your depth in this thread your lack of knowledge is LOL. You seem to think they are talking about threshold pace. READ THE THREAD. It's about creating Lactate at threshold state, well just below to be precise. Threshold Jack Daniels pace or VDOT pace HAS NOTHING TO DO WITH ANY OF THIS. It might happen to cross over at some length reps, but this is by chance not design. Like dude, are you a troll or do you actually not understand this?",
+    "usr": "js clown shoes"
+  },
+  {
+    "msg": "Something tells me there's a lot more disposable income on these forums than you are anticipating.",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "That's a great workout! 6 miles of work and to clock in under 3.5 mmol on LP2, so spot on. That 3-4 less than LTHR totally lines up with what i experience. If you are even at LTHR, you are probably closer to 4.0 mmol in my experience. When you are on that harder slope of the curve, things move so quickly with 3-5 bpm, its amazing to see.",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "Actually you are one of the amateurs I see)) I just tell about a very well and good alternative to expensive blood sample measuring that most of the runners here most likely want to know about, and the Daniels VDOT creating perfect Lactate at individual threshold pace has very much to do with the thread`s subject even if you don`t understand this.",
+    "usr": "M-A-G-I-C !"
+  },
+  {
+    "msg": "Hey mate, for sure. It's ramps up very quickly and when I played around and deliberately messed up and went too hard on the final interval once, HR was not hugely over LTHR but lactate was really high. I mentioned, I could really feel that 7-8 mins in my legs the next day in a way that was quite shocking, compared to normal. It's why I would encourage people to be extra cautious to not go over, if you are going to want to do this every other day. As per my example, whilst I wasn't testing I was probably mid 2 mmol possibly even around 2.1-2 the last couple of weeks, based on post workout analysis of heart rate - but was still getting fitter to allow myself to push up from below . Seems what we have seen is very similar, it shows there are definitely patterns there to learn from. As I've said before, what one persons pace is to get to the desired mmol, might be different to someone else's. The ones I posted now, way back on page 1, appear to be transferable now to the next level of fitness for me. But that doesn't mean they always will, or will even work as a starting point for the next person. It's why I'm not really worried too much about CV or its meaning. I just do what I can go get to that nice range you see on the meter 😊 That doesn't mean pace zones and guides won't work, as there is a good margin for error , especially the range under threshold. Like I've said, I haven't use a meter for months. But , I'll make it clear for the final (or not time ha ha) a lactate meter will give you the absolute best results.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "What has come up with so far is the solution. You want to maximize threshold work on low mileage. Something's got to give. And I am talking mileage. 30 mpw. This is what it looks like: M: tempo @ MP, 5mi (1mi warmup, 1mi cooldown) T: off W: tempo @ MP, 5mi (1mi warmup, 1mi cooldown) T: off F: 7mi easy S: 9mi Long Run This will keep you sharp year round and your potential for 5k to HM on low mileage.",
+    "usr": "RunSl1m"
+  },
+  {
+    "msg": "I just dont think \"marathon pace\" is going to get you the benefits you want if you are only deploying it twice a week. For your schedule, i would do MP everyday. Totally doable. MP here roughly equal to LT1/High Z2 ish effort",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "If you were to do that id chop it up a little differently: M: 7 mi 2 mi WU 4 x Mile at MP -10 second per mile w/1:00R, 1M CD or 7 mi 'long run' with 2mi WU, 4mi @ MP+20 second per mile progressing down, 1 mi CD T: OFF W: 7 mi 'long run' with 2mi WU, 4mi @ MP+20 second per mile progressing down, 1 mi CD Th: OFF F: 7 mi 2 mi WU 4 x Mile at MP -10 second per mile w/1:00R, 1M CD Sa: 9 mi 'long run' with 2mi WU, 5mi @ MP+20 second per mile progressing down, 2 mi CD Su: OFF",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "Totally doable or just scale it down to fit into 80/20, 70/30 or something like I mentioned before even. Maybe 7x1k and 3x2 k at around the paces I've spoken about . 2-3 easy runs all of the same length and a \"long\" run for the rest + a day or 2 off.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "If you want you can post here your half-marry time and tell us at what paces you are planning which intervals. I will have a look and respond. This board needs more %CV calculations :)",
+    "usr": "lexel"
+  },
+  {
+    "msg": "Man you suck. You are probably a big part of why a lot of people don't visit this forum anymore. I was loving this thread reminding me of the old days of LR, then you pop up. You have no idea what you are talking about. As usual. I have zero idea as other posters have said what Daniels vdot has anything to do with hitting these sub threshold intervals. Daniels is so far away from this discussion. You are always so arrogant, always caught out lying. There are other posters in this thread who know 100 times more than you, yet still admit they don't know everything. You literally know nothing, you are like a parrot who repeats what he has heard once a lifetime ago, yet you pretend like you actually have a clue. You are light years behind the main protagonists in this thread. Maybe you are just jealous. Or stupid. Or both. I don't know. I hope this doesn't distract others from the fact this is an all time classic thread, HOF worthy for hobby joggers.",
+    "usr": "is destroyer of threads"
+  },
+  {
+    "msg": "Thank you for this! My MP is 7:38 so good to know that in off-season training having these will keep my fitness up even if I'm time-constrained. Thanks to all who posted, except JS.",
+    "usr": "jecht"
+  },
+  {
+    "msg": "It doesn't help that people like you always starts to arguing with him. The best would be to ignore him, but for some reason you can't stay away from meaningless babble and then he gets what he wants: attention. I have spoken to several top Swedish coaches like Ulf Friberg and Per Syn erman, and they all confirm that he is a legitimate psycho case.",
+    "usr": "Steffe"
+  },
+  {
+    "msg": "Sirpoc, have you ever seen the \"Training Lactate Pulse-Rate\" table by Peter Jansen? Very interesting. Has HR mapping for 4.0/3.0/2.5/2.0/1.0 MMOL",
+    "usr": "shirtboy2022"
+  },
+  {
+    "msg": "Well, I guess hobby joggers are more interested to know about smart training methods when it comes to effective threshold training that don`t need costly blood sample measuring. I never lie here and just contribute with my long experience of proper training that my over 50 years experience and professional knowings verifies.That our experiences don`t match is just refreshing to the thread and makes it more interesting. Ps! As you mentioned, people used to be here avoid it , not because of my and others experience of course, more for the reason to risk be called lyers, dumb ,stupid and so on of anonymous lesser knowledge. Try to stay on topic in threads going forward without offending participants and you will contribute to LRC will be a better running social media again. Thank you!",
+    "usr": "M-A-G-l-C !"
+  },
+  {
+    "msg": "What rests do you guys do? My rests are 1/5th previous rep. Is this right? Too little. When Ive read Ingebrigtsen stuff it has said 1/3 or something like that. Is it better to do 1/3 then maybe can do more reps?",
+    "usr": "GeorgeIvan19"
+  },
+  {
+    "msg": "No I haven't. Do you have a link? I see there's a book from a quick Google search. Would be interested to see this for sure.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "No I haven't. Do you have a link? I see there's a book from a quick Google search. Would be interested to see this for sure.",
+    "usr": "sirpoc84"
+  },
+  {
+    "msg": "What race distances can be used to predict LTHR? And how? I uploaded my Garmin history into intervals.icu which determined my LTHR is 172 because in the last 20' of my most recent 10k I averaged 175 bpm, and intervals takes 98% of that as LTHR. However, I ran a 10-miler more recently and that didn't update my LTHR. I'm also running a 5k soon. which it sounds like won't be used to update my LTHR because it's too short. So can I only predict LTHR from races in the 30-40ish minute range. Or does someone have a good way to predict from other races? I'm not going to buy a lactate tester and strips and I'm assuming most people won't. So I think it's worth discussing how to monitor your effort more practically.",
+    "usr": "Training Stress?"
+  },
+  {
+    "msg": "Approximately 1/3 rest like the Ingebrigtsens seem to be good. but even better to let your body decide how much rest it needs after every rep and then rest walking easy back to pulse 120-125 as a good mark ( or 60 % of MHR ).",
+    "usr": "M-A-G-l-C !"
+  }
+]
