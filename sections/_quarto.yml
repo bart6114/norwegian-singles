@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: ../dist
+
+book:
+  title: Norwegian Singles
+  subtitle: An Approach To Running
+  chapters:
+    - index.md
+    - section1_core_principles.md
+    - section2_implementing_the_method.md
+    - section3_training_load.md
+    - section4_individualization_considerations.md
+    - section5_applicability_distances.md
+    - section6_benefits_monitoring.md
+    - section7_comparative_analysis.md
+  sharing:
+    - twitter
+    - linkedin
+  keyword: running, norwegian singles
+  license: MIT
+  url: https://github.com/bart6114/norwegian-singles/
+  navbar:
+    title: "Norwegian Singles: An Approach to Running"
+    search: true
+  downloads:
+    - pdf
+    - epub
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    number-sections: false

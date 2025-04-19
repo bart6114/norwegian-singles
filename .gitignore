@@ -137,3 +137,4 @@ dist
 
 storage/
 .DS_Store
+/.quarto/
