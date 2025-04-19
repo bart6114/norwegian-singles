@@ -32,3 +32,6 @@ format:
     theme: cosmo
     toc: false
     number-sections: false
+  pdf:
+    documentclass: scrreprt
+  epub: default

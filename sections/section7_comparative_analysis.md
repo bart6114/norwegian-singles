@@ -1,6 +1,6 @@
 # Norwegian Singles vs. Other Training Methodologies
 
-This section presents a concise comparison between Norwegian Singles and other established training approaches.
+This section presents a concise comparison between the "Norwegian Singles" approach (focused on 3x weekly sub-threshold sessions for recreational runners) and other established training methodologies. It's important to distinguish this from the traditional high-volume, double-threshold-day Norwegian method used by elite athletes like the Ingebrigtsens. The "singles" approach aims to adapt the core principle of controlled threshold work for lower-volume runners, often as an alternative to traditional amateur plans that frequently incorporate higher intensities (like VO2max work) which can lead to injury or burnout.
 
 ## vs. Daniels' Running Formula
 Norwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas Norwegian Singles maintains the same workout structure year-round with gradual progression.
@@ -11,8 +11,8 @@ Norwegian Singles employs a consistent year-round approach with sub-threshold as
 ## vs. Pfitzinger Method
 Norwegian Singles distributes quality evenly through the week (E-Q-E-Q-E-Q-LR) focusing primarily on sub-threshold work, while Pfitzinger incorporates medium-long midweek runs and uses more varied intensities (including VO2max and specific race-pace work). Pfitzinger's plans are explicitly designed with marathon-specific elements and feature more complex mesocycle periodization rather than Norwegian Singles' consistent weekly pattern.
 
-## vs. 80/20 Running
-Norwegian Singles dedicates ~20-25% of training to sub-threshold work (just below LT2), while 80/20 distributes 20% of training across a wider range of moderate-to-high intensities with significant work above LT2. The key difference is that Norwegian Singles concentrates quality in a narrow intensity band (high Zone 3/low Zone 4) rather than employing the polarized approach of 80/20 which emphasizes separation between easy (Zone 1-2) and hard (Zone 4-5) work.
+## vs. 80/20 Running (Polarized Training)
+Norwegian Singles dedicates ~20-25% of training *time* to sub-threshold work (just below LT2), while polarized models like 80/20 typically distribute the 20% "hard" training across a wider range of moderate-to-high intensities, often emphasizing work well above LT2 (Zone 5). The key difference is that Norwegian Singles concentrates quality in a narrow, controlled intensity band (high Zone 3/low Zone 4) to maximize sustainable load, whereas polarized training emphasizes a distinct separation between very easy (Zone 1-2) and very hard (Zone 4-5) work, often minimizing time spent near LT2. The "singles" approach seeks to avoid the potential pitfalls (injury, burnout, plateau) sometimes associated with the high-intensity component of traditional amateur plans.
 
 ## Key Differentiating Factors of Norwegian Singles
 What makes Norwegian Singles distinctive is its high frequency of quality sessions (3x weekly) at carefully controlled sub-threshold intensity, enabling consistency over long periods with minimal burnout risk. It emphasizes precise intensity control to maximize repeatability and sustainable progression, with less supplementary work (strides, hills, strength) than other systems. This approach is particularly suited for time-limited runners, slower recoverers, and those seeking long-term sustainable development.

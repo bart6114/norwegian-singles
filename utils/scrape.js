@@ -147,5 +147,15 @@ console.log(`Total results found: ${results.length}`);
 
 // Or save to a JSON file
 import fs from 'fs';
-fs.writeFileSync('results.json', JSON.stringify(results, null, 2));
-console.log('Results saved to results.json');
+import path from 'path'; // Import path module
+
+// Ensure the data directory exists (optional, but good practice)
+const dataDir = path.join('..', 'data');
+if (!fs.existsSync(dataDir)) {
+  fs.mkdirSync(dataDir, { recursive: true });
+  console.log(`Created directory: ${dataDir}`);
+}
+
+const outputPath = path.join(dataDir, 'results.json');
+fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
+console.log(`Results saved to ${outputPath}`);

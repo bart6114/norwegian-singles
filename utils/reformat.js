@@ -2,9 +2,9 @@ import fs from 'fs';
 import path from 'path';
 
 // Read the input JSON file
-fs.readFile('./results/results.json', 'utf8', (err, data) => {
+fs.readFile('../data/results.json', 'utf8', (err, data) => {
   if (err) {
-    console.error("Error reading results.json:", err);
+    console.error("Error reading ../data/results.json:", err);
     process.exit(1); // Exit with error code
   }
 
@@ -39,10 +39,14 @@ fs.readFile('./results/results.json', 'utf8', (err, data) => {
     }
   }).filter(item => item !== null); // Filter out any nulls added for invalid items
 
-  // Ensure the /results directory exists
-  const resultsDir = path.join('.', 'results');
-  if (!fs.existsSync(resultsDir)) {
-    fs.mkdirSync(resultsDir);
+  // Ensure the /data directory exists
+  const dataDir = path.join('..', 'data'); // Go up one level to find the data directory
+  if (!fs.existsSync(dataDir)) {
+    // It's generally better to ensure the directory exists where needed,
+    // but creating it might be unexpected. Let's assume it exists for now.
+    // If needed, we could add: fs.mkdirSync(dataDir, { recursive: true });
+    // For now, we'll just use the correct path.
+    console.warn(`Output directory ${dataDir} does not exist. Files may not be written.`);
   }
 
   // Split liteResults into chunks of 100
@@ -50,7 +54,7 @@ fs.readFile('./results/results.json', 'utf8', (err, data) => {
   for (let i = 0; i < liteResults.length; i += chunkSize) {
     const chunk = liteResults.slice(i, i + chunkSize);
     const fileIndex = Math.floor(i / chunkSize) + 1;
-    const outputPath = path.join(resultsDir, `results-lite-${fileIndex}.json`);
+    const outputPath = path.join(dataDir, `results-lite-${fileIndex}.json`); // Use dataDir
 
     // Write each chunk to its own file
     fs.writeFileSync(outputPath, JSON.stringify(chunk, null, 2), 'utf8');

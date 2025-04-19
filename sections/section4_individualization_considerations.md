@@ -1,7 +1,9 @@
 # Individualization & Considerations
 
-## Pace Setting
-Use *current* fitness. Erring slightly slower is safer than going too fast, especially initially. Some find the commonly suggested paces too fast and need to adjust significantly downwards based on lactate or HR, particularly if more fast-twitch dominant or less aerobically developed. Paces are guides; effort/internal load is the target.
+## Pace Setting & Tools
+Use *current* fitness. Erring slightly slower is safer than going too fast, especially initially. Some find commonly suggested paces too fast and need to adjust significantly downwards based on lactate or HR, particularly if more fast-twitch dominant or less aerobically developed.
+*   **Pace as a Guide:** Remember that paces are guides; the *internal effort/load* (monitored via lactate, HR, RPE) is the primary target. The relationship between pace and effort can vary daily due to factors like fatigue, weather, etc.
+*   **Calculators & Estimators:** Tools like VDOT calculators, race result predictors, or specific calculators (like the Excel sheet or HR calculator mentioned in the source document) can provide useful starting points for estimating appropriate sub-threshold paces or HR zones based on recent performance data. However, these are still estimates and should be validated with internal monitoring methods.
 
 ## Heat/Humidity
 Environmental conditions drastically affect performance. Significantly slow down paces in heat/humidity to maintain the correct sub-threshold effort. HR becomes less reliable as a guide in these conditions due to cardiac drift caused by heat stress. Focus on RPE and adjust pace downwards as needed.
@@ -9,8 +11,9 @@ Environmental conditions drastically affect performance. Significantly slow down
 ## Racing/Time Trials
 Frequent racing (e.g., parkruns) or time trials (e.g., 3k-5k every 4-8 weeks) are highly recommended. They provide neuromuscular stimulus, help break plateaus, allow practice at race effort ("remembering how to hurt"), and provide benchmarks to update training paces. Initial races after a long block of only sub-T work might feel flat or sluggish ("racing rust") before the body readjusts to higher intensities.
 
-## Adaptation Time & Stagnation
+## Adaptation Time, Stagnation & Consistency
 Expect 4-8 weeks (or longer, especially for FT types or those new to structured training) to adapt. Significant breakthroughs often occur after longer periods of consistent application (3-6+ months). Periods of apparent stagnation are common and often precede performance jumps. Consistency through these phases is crucial.
+*   **Case Study (Consistency):** The example of James Copeland (referenced in the source document via Strava links) illustrates the power of long-term consistency with this method, showing significant improvement over a year (e.g., progressing from an ~18:30 5k to a ~32:01 10k). This highlights that substantial gains often require sustained application over many months.
 
 ## Muscle Fiber Type
 The method appears very effective for slow-twitch (ST) dominant runners. More fast-twitch (FT) runners might still benefit significantly but may need careful load management, potentially slower paces initially, a longer adaptation period, or consider replacing one Q session with hills/strides if plateaus occur, though the core method is often sufficient even for FT types.

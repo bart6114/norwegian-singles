@@ -1,5 +1,7 @@
 # Applicability to Different Distances
 
+This method, focusing on sub-threshold work, is primarily designed for the **general preparation phase** of training, building a strong aerobic base. Its direct applicability varies slightly by race distance:
+
 ## 5k to Half Marathon
 This is the sweet spot where the method seems most directly applicable and has shown significant success for many hobby joggers. Regular racing/TTs provide sufficient speed stimulus.
 
@@ -23,3 +25,6 @@ Even more experimental. Requires very high volume and race-specific long runs (b
 
 ## Cadence/Form
 Running form, including cadence, is highly individual. While some proponents of this method exhibit very high cadence (e.g., >200 spm during races), it's generally considered an outcome of training and individual biomechanics rather than a specific target to manipulate. Focusing on consistent, controlled effort is more important than consciously altering form aspects like cadence, which may not be necessary or beneficial for all runners.
+
+## Note on Peaking
+While this method forms a strong base, specific race preparation ("peaking") might involve introducing higher intensity workouts (e.g., VO2max intervals, race pace work) closer to a key event, depending on the distance and individual needs. This is typically considered a separate phase built upon the foundation laid by consistent sub-threshold training.
