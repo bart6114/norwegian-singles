@@ -1,0 +1,37 @@
+# .github/workflows/build-book.yml
+name: Build Book HTML
+
+on:
+  push:
+    branches: [ main ]
+    # Or uncomment and adjust if only triggering on BOOK.md changes:
+    # paths:
+    #   - 'BOOK.md'
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push commits back
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Quarto
+      uses: quarto-dev/quarto-actions/setup@v2
+      # No specific version needed, defaults to latest
+
+    - name: Render Book with Quarto
+      run: |
+        quarto render
+        echo "Quarto render complete. Checking output..."
+        ls -l dist/
+    - name: Commit generated index.html
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "docs: Build index.html from BOOK.md [skip ci]"
+        file_pattern: dist/index.html
+        commit_user_name: github-actions[bot]
+        commit_user_email: github-actions[bot]@users.noreply.github.com
+        # repository: . # Optional: specify repository path if needed, defaults to current
