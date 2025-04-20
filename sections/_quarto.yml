@@ -34,6 +34,8 @@ format:
     theme: cosmo
     toc: false
     number-sections: false
+    include-in-header:
+      - text: <script data-goatcounter="https://norwegiansingles.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   pdf:
     documentclass: scrreprt
   epub: default
