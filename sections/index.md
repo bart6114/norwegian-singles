@@ -2,7 +2,7 @@ This guide introduces the "Norwegian Singles" training approach, adapted from th
 
 ## Contributing
 
-Please read up on how to contribute to this guide at [github.com/bart6114/norwegian-singles](https://github.com/bart6114/norwegian-singles).
+Please read up on how to contribute to this guide over at our [GitHub repo](https://github.com/bart6114/norwegian-singles).
 
 ## Background & conceptualization
 

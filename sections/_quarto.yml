@@ -20,6 +20,8 @@ book:
   keyword: running, norwegian singles
   license: MIT
   url: https://github.com/bart6114/norwegian-singles/
+  repo-url: https://github.com/bart6114/norwegian-singles/
+  favicon: icon.png
   navbar:
     title: "Norwegian Singles: An Approach to Running"
     search: true
