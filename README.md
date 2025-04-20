@@ -20,7 +20,7 @@ The `BOOK.md` file was separated into the sections in `/sections` again via the 
 
 ## Open Repository & Disclaimer
 
-This is an open repository. All contributions are very welcome and encouraged.
+This is an open repository. All contributions are very welcome and encouraged. The easiest way is just to create a PR to contribute your changes.
 
 Please note that this is by no means meant as an authoritative resource on the Norwegian Singles training method. It's primarily a way to gather and spread the knowledge that's currently scattered across various online sources.
 
