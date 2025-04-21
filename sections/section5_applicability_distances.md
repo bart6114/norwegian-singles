@@ -13,6 +13,7 @@ Likely requires more specific speed, power, and anaerobic capacity work than thi
 
 ## Marathon
 Applying the core 3x weekly sub-T structure requires adaptation for the marathon. Common strategies include:
+
 *   **Extending the Long Run:** Gradually increasing the duration, often towards 2-3 hours, primarily at an easy effort.
 *   **Incorporating Quality into the LR:** Some runners integrate sub-threshold or marathon pace (MP) work towards the end of the long run, such as `3 x 10 minutes @ HMP` with short rests, or a continuous `30-minute block @ MP`. This is often done instead of a mid-week quality session.
 *   **Longer Sub-Threshold Reps:** Replacing standard sessions with longer intervals like `3x5k`, `4x5k`, or even `5x5k` at sub-threshold effort, particularly in the later stages of the marathon block.
