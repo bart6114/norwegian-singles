@@ -154,7 +154,17 @@
     "href": "section4_individualization_considerations.html",
     "title": "Individualization & Considerations",
     "section": "",
-    "text": "Pace Setting & Tools\nUse current fitness. Erring slightly slower is safer than going too fast, especially initially. Some find commonly suggested paces too fast and need to adjust significantly downwards based on lactate or HR, particularly if more fast-twitch dominant or less aerobically developed. * Pace as a Guide: Remember that paces are guides; the internal effort/load (monitored via lactate, HR, RPE) is the primary target. The relationship between pace and effort can vary daily due to factors like fatigue, weather, etc. * Calculators & Estimators: Tools like VDOT calculators, race result predictors, or specific calculators (like the Excel sheet or HR calculator mentioned in the source document) can provide useful starting points for estimating appropriate sub-threshold paces or HR zones based on recent performance data. However, these are still estimates and should be validated with internal monitoring methods.",
+    "text": "Pace Setting & Tools\nUse current fitness. Erring slightly slower is safer than going too fast, especially initially. Some find commonly suggested paces too fast and need to adjust significantly downwards based on lactate or HR, particularly if more fast-twitch dominant or less aerobically developed.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Individualization & Considerations</span>"
+    ]
+  },
+  {
+    "objectID": "section4_individualization_considerations.html#pace-setting-tools",
+    "href": "section4_individualization_considerations.html#pace-setting-tools",
+    "title": "Individualization & Considerations",
+    "section": "",
+    "text": "Pace as a Guide: Remember that paces are guides; the internal effort/load (monitored via lactate, HR, RPE) is the primary target. The relationship between pace and effort can vary daily due to factors like fatigue, weather, etc.\nCalculators & Estimators: Tools like VDOT calculators, lactate threshold analyzers, race result predictors, or specific calculators (like the Excel sheet or HR calculator mentioned in the source document) can provide useful starting points for estimating appropriate sub-threshold paces or HR zones based on recent performance data. However, these are still estimates and should be validated with internal monitoring methods.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Individualization & Considerations</span>"
     ]
@@ -184,7 +194,7 @@
     "href": "section4_individualization_considerations.html#adaptation-time-stagnation-consistency",
     "title": "Individualization & Considerations",
     "section": "Adaptation Time, Stagnation & Consistency",
-    "text": "Adaptation Time, Stagnation & Consistency\nExpect 4-8 weeks (or longer, especially for FT types or those new to structured training) to adapt. Significant breakthroughs often occur after longer periods of consistent application (3-6+ months). Periods of apparent stagnation are common and often precede performance jumps. Consistency through these phases is crucial. * Case Study (Consistency): The example of James Copeland (referenced in the source document via Strava links) illustrates the power of long-term consistency with this method, showing significant improvement over a year (e.g., progressing from an ~18:30 5k to a ~32:01 10k). This highlights that substantial gains often require sustained application over many months.",
+    "text": "Adaptation Time, Stagnation & Consistency\nExpect 4-8 weeks (or longer, especially for FT types or those new to structured training) to adapt. Significant breakthroughs often occur after longer periods of consistent application (3-6+ months). Periods of apparent stagnation are common and often precede performance jumps. Consistency through these phases is crucial.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Individualization & Considerations</span>"
     ]
@@ -274,7 +284,7 @@
     "href": "section5_applicability_distances.html#marathon",
     "title": "Applicability to Different Distances",
     "section": "Marathon",
-    "text": "Marathon\nApplying the core 3x weekly sub-T structure requires adaptation for the marathon. Common strategies include: * Extending the Long Run: Gradually increasing the duration, often towards 2-3 hours, primarily at an easy effort. * Incorporating Quality into the LR: Some runners integrate sub-threshold or marathon pace (MP) work towards the end of the long run, such as 3 x 10 minutes @ HMP with short rests, or a continuous 30-minute block @ MP. This is often done instead of a mid-week quality session. * Longer Sub-Threshold Reps: Replacing standard sessions with longer intervals like 3x5k, 4x5k, or even 5x5k at sub-threshold effort, particularly in the later stages of the marathon block. * Marathon Pace Workouts: Introducing specific MP workouts, sometimes as tempos (e.g., 10k @ MP) within a medium-long run, especially closer to the race. * Fueling/Hydration Practice: These longer sessions are crucial for practicing race-day nutrition and hydration strategies. Consistency and high volume remain vital, but marathon-specific long runs and targeted MP work are generally considered necessary additions or modifications to the base ‘singles’ structure.",
+    "text": "Marathon\nApplying the core 3x weekly sub-T structure requires adaptation for the marathon. Common strategies include:\n\nExtending the Long Run: Gradually increasing the duration, often towards 2-3 hours, primarily at an easy effort.\nIncorporating Quality into the LR: Some runners integrate sub-threshold or marathon pace (MP) work towards the end of the long run, such as 3 x 10 minutes @ HMP with short rests, or a continuous 30-minute block @ MP. This is often done instead of a mid-week quality session.\nLonger Sub-Threshold Reps: Replacing standard sessions with longer intervals like 3x5k, 4x5k, or even 5x5k at sub-threshold effort, particularly in the later stages of the marathon block.\nMarathon Pace Workouts: Introducing specific MP workouts, sometimes as tempos (e.g., 10k @ MP) within a medium-long run, especially closer to the race.\nFueling/Hydration Practice: These longer sessions are crucial for practicing race-day nutrition and hydration strategies. Consistency and high volume remain vital, but marathon-specific long runs and targeted MP work are generally considered necessary additions or modifications to the base ‘singles’ structure.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
     ]
