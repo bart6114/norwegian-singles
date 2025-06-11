@@ -3,7 +3,7 @@
 ## Pace Setting & Tools
 Use *current* fitness. Erring slightly slower is safer than going too fast, especially initially. Some find commonly suggested paces too fast and need to adjust significantly downwards based on lactate or HR, particularly if more fast-twitch dominant or less aerobically developed.
 
-*   **Pace as a Guide:** Remember that paces are guides; the *internal effort/load* (monitored via lactate, HR, RPE) is the primary target. The relationship between pace and effort can vary daily due to factors like fatigue, weather, etc.
+*   **Pace as a Guide:** Remember that paces are guides; the *internal effort/load* (monitored via lactate, HR, power, RPE) is the primary target. The relationship between pace and effort can vary daily due to factors like fatigue, weather, etc.
 *   **Calculators & Estimators:** Tools like [VDOT calculators](https://lactrace.com/norwegian-singles), [lactate threshold analyzers](https://lactate.barts.space/), race result predictors, or specific calculators (like the Excel sheet or HR calculator mentioned in the source document) can provide useful starting points for estimating appropriate sub-threshold paces or HR zones based on recent performance data. However, these are still estimates and should be validated with internal monitoring methods.
 
 ## Heat/Humidity
