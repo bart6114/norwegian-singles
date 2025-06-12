@@ -28,6 +28,13 @@ Please note that this is by no means meant as an authoritative resource on the N
 
 If anyone is genuinely interested in building this project out further, please message me. I'm also open to transferring the domain name (if applicable) to someone who really wants to give this shape. My only goal here is to share the information compiled here.
 
+## Running Locally
+
+* Clone this repository
+* Install [quarto](https://quarto.org/docs/get-started/)
+* Change dir to `/sections`
+* Run `quarto preview`
+
 ## Acknowledgements
 
 A big thanks goes to sirpoc (username `sirpoc84` on letsrun.com) for sharing his ideas, philosophy, and experiences. Major thanks also go to the other resources mentioned; I tried to list them all in the Background section of the [full summary](https://norwegiansingles.run).

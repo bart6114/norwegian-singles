@@ -1,10 +1,18 @@
-# Introduction
+# Introduction {.unnumbered}
 
 This guide introduces the "Norwegian Singles" training approach, adapted from the high-volume Norwegian model often associated with double threshold sessions. This "singles" variant emphasizes frequent, *single* sub-threshold workouts per day, suitable for runners seeking sustainable improvement in aerobic capacity and performance over the long term, particularly those training 5-9 hours per week. The core idea is maximizing repeatable training load while managing fatigue.
+
+## Read offline
+
+Don't want to read the website? You can also download a `pdf` or `epub` via de the download icon in the sidebar.
 
 ## Contributing
 
 Please read up on how to contribute to this guide over at our [GitHub repo](https://github.com/bart6114/norwegian-singles).
+
+**Repository Contributors**
+
+<object type="image/svg+xml" data="https://contrib.nn.ci/api?repo=bart6114/norwegian-singles"></object>
 
 ## Background & conceptualization
 
