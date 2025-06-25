@@ -8,7 +8,7 @@
 *   **Demographics:** Notably effective for masters athletes seeking continued improvement.
 
 ## Cons
-Requires discipline to control intensity, can be monotonous for some, less focus on top-end speed/VO2max (may need occasional strides/races), adaptation takes time and may involve plateaus.
+This approach requires discipline to control intensity, it can be monotonous for some people, it places less focus on top-end speed/VO2max (may need occasional strides/races), the adaptation takes time, and it may involve plateaus.
 
 Around 8-9 hours per week, you might find that you're running out of low-risk headroom with this approach. Running three easy runs per week for more than an hour each statrs raising the injury risk, as does running more than 40-50 minutes or 10-12k for quality intervals. To spread out the risk, doubles might be a safer approach versus adding more time or distance to single runs.
 
