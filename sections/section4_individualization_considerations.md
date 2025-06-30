@@ -29,3 +29,30 @@ Adequate carbohydrate intake is important to support the 3x weekly quality sessi
 
 ## Cross-Training
 Can be used to supplement volume or substitute sessions during injury recovery, mimicking the E-Q-E-Q-E-Q-LR structure using modalities like cycling, elliptical, or arc trainer, focusing on similar durations and sub-threshold efforts.
+
+## Alternative Monitoring Methods
+
+For athletes who don't have access to lactate meters, several alternatives can help monitor sub-threshold training intensity:
+
+**Suunto ZoneSense** uses HRV and a proprietary DDFA algorithm to determine LT1/LT2 thresholds in real-time. Requires a recent Suunto watch (9 Peak or newer) paired with an RR interval chest strap (Polar H10, Garmin HRM). Works well for longer intervals (3+ minutes) but needs steady-state efforts for accuracy, making it less suitable for shorter intervals like 10x1k.
+
+**Tymewear VitalPro** (~$299) combines heart rate and respiratory rate monitoring to identify ventilatory thresholds (VT1/VT2), which correlate with LT1/LT2. Uses a 4-zone model where the top of zone 3/bottom of zone 4 represents the Norwegian Singles sweet spot. Requires smartphone app for data viewing and works best with post-workout analysis to refine pacing.
+
+**Critical Power (CP)** requires a running power meter (Stryd ~$200, or watch-based estimates from Garmin/Polar). Test CP using 3-min/12-min or 20-min protocols, then target 85-95% CP for sub-threshold intervals (shorter intervals ~90-95% CP, longer intervals ~80-85% CP). Power provides consistent guidance across varying conditions but accuracy varies between devices.
+
+**Talk Test** is a free method using breathing patterns and conversation ability. At sub-threshold pace, you should be able to speak 3-5 words between breaths with controlled but elevated breathing. It should feel "comfortably hard" - if unable to speak at all, intensity is too high.
+
+**Enhanced RPE** uses a detailed 1-10 scale: 4-5 (too easy), 5-6 (target "comfortably hard" zone), 6-7 (upper sustainable limit), 7+ (too hard, decrease pace). Best combined with regular time trials for calibration.
+
+**Training Apps** like TrainingPeaks, Strava Premium, or HRV4Training analyze workout data patterns over time to estimate threshold zones. Most effective when combined with periodic time trials for validation.
+
+**Comparison of Methods**
+
+| Method | Cost | Real-time | Accuracy | Ease of Use |
+|--------|------|-----------|----------|-------------|
+| Lactate Meter | $200-400 | No | Highest | Moderate |
+| Suunto ZoneSense | $400-600 | Yes | High | High |
+| Tymewear VitalPro | $299 | Limited | High | Moderate |
+| Power Meter | $200-400 | Yes | High | Moderate |
+| Talk Test | Free | Yes | Moderate | High |
+| Enhanced RPE | Free | Yes | Moderate | High |
