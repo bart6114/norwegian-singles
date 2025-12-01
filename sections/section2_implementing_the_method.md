@@ -36,6 +36,17 @@ One easy run might be longer (75-90 mins often sufficient for up to HM). A rest 
 *   **Volume:** Aim for total sub-threshold work to be 20-25% of your total weekly running *time*. Start conservatively (e.g., 20-25 mins total work per session) and build gradually. For lower weekly volumes (e.g., <5 hours), maintaining 3 sessions might mean shorter workout durations.
 *   **Time vs. Distance:** Using time-based intervals (e.g., 10 x 3 min) instead of distance (e.g., 10 x 1k) ensures consistent workout duration regardless of pace, which can be beneficial for consistency and comparing load across different ability levels. However, distance-based intervals are also common.
 *   **Pacing:** Remember LT2 is an *effort level* over time, not a fixed speed. Shorter intervals can be run slightly faster than longer intervals while maintaining the same sub-threshold physiological state. Use current fitness and monitoring tools (lactate, HR, power, RPE) to guide pace. Some athletes may also use specific calculators or guides, such as the [Lactrace paceguide](https://lactrace.com/norwegian-singles), to calculate optimal zones.
+*   **Example Time-Based Workouts (adjust reps/duration based on total weekly time target):**
+
+    | Time     | Repetitions | Pace Guide         | Rest    |
+    | :------- | :---        | :----------------- | :------ |
+    | 1 min    | 25          | 10k/CV pace        | 30s     |
+    | 3 min    | 10-12       | 15k pace           | 60s     |
+    | 5-6 min  | 6-8         | 15k pace           | 60s     |
+    | 6-8 min  | 5-6         | Half marathon pace | 60s     |
+    | 10-12min | 3-4         | HM - 30k pace      | 60-120s |
+    | 15min    | 3-4         | 30k pace           | 90-120s |
+    
 *   **Example Distance-Based Workouts (Paces are approximate guides, adjust based on individual LT2):**
 
     | Distance | Pace Guide        | Rest    |
@@ -45,13 +56,6 @@ One easy run might be longer (75-90 mins often sufficient for up to HM). A rest 
     | 1600m    | ~10 mile pace     | 60s-90s |
     | 1000m    | ~10k to <15k pace | 60s     |
 
-*   **Example Time-Based Workouts (adjust reps/duration based on total weekly time target):**
-    *   `10-12 x 3 min` (Rest: 60s) @ ~15k pace effort
-    *   `25 x 1 min` (Rest: 30s) @ ~10k/CV pace effort
-    *   `6-8 x 5-6 min` (Rest: 60s) @ ~10 mile pace effort
-    *   `5-6 x 6-8 min` (Rest: 60s) @ ~Half Marathon pace effort
-    *   `3-4 x 10-12 min` (Rest: 60-120s) @ ~Half Marathon to 30k pace effort
-    *   `3-4 x 15 min` (Rest: 90-120s) @ ~30k pace effort (often used in marathon builds)
 *   **Variety:** While consistency is key, rotating through different interval formats (e.g., 10x1k Tue, 5x2k Thu, 3x3k Sat) can provide slightly different stimuli and prevent monotony. The physiological benefit difference between formats at the same sub-threshold state is debated, but variety is often beneficial psychologically.
 
 ## Getting Started & Progression
