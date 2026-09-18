@@ -1,3 +1,26 @@
+/* Keep the planning prompt readable without horizontal scrolling. */
+#plan-with-an-agent div.sourceCode {
+  padding: 1.25rem;
+  border: 1px solid #d6dde4;
+  border-radius: 12px;
+  background: #fff;
+}
+
+#plan-with-an-agent pre.sourceCode {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+#plan-with-an-agent pre.sourceCode code {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font-size: 0.9rem;
+  line-height: 1.65;
+  color: #263442;
+}
+
 /* Keep wide schedules inside the page on narrow phones. */
 @media (max-width: 575px) {
   main table {

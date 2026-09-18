@@ -2,7 +2,7 @@
 
 # Norwegian Singles Training Guide
 
-This guide explains the Norwegian Singles running routine: three controlled sub-threshold sessions each week, with easy running between them and an easy longer run. It includes a two-session transition, complete workout instructions, and guidance for progression, recovery, and racing. Start with the running you already sustain and use the examples to plan a repeatable week.
+This guide explains the Norwegian Singles running routine: three controlled sub-threshold sessions each week, with easy running between them and an easy longer run. It includes a 30-minute introductory workout, examples for three or more running days, and guidance for progression, recovery, and racing. Start with the running you already sustain and use the examples to plan a repeatable week.
 
 ## Project Background & Motivation
 
@@ -37,13 +37,13 @@ If anyone is genuinely interested in building this project out further, please m
 
 ## Editing the guide
 
-The reading route starts with choosing a week and running the sessions, then covers effort, recovery, and race adaptations. Tools, load metrics, comparisons, and sources follow as optional reading. The existing chapter filenames are kept so published page URLs continue to work.
+The reading route explains effort first, then shows how to adapt an existing week, follow a complete workout, and adjust for recovery or races. Tools, load metrics, comparisons, and sources follow as optional reading. The existing chapter filenames are kept so published page URLs continue to work.
 
-Edit the Markdown in `sections/`. Week tables and session cards live in the implementation chapter; link to them instead of copying their numbers into other chapters. The historical scrape and `intermediary/BOOK.md` are source archives, not the current published guide. Quarto builds HTML, PDF, and EPUB from the same chapter files into the ignored `dist/` directory.
+Edit the Markdown in `sections/`. Week tables and session cards live in the implementation chapter; link to them instead of copying their numbers into other chapters. The historical scrape and `intermediary/BOOK.md` are source archives, not the current published guide. Quarto builds HTML, PDF, and EPUB from the same chapter files into the ignored `dist/` directory. The PDF-only filter in `utils/guide-pdf-layout.lua` reserves space for schedules and workout instructions so they stay together; check it when changing those blocks.
 
 For each content change:
 
-* Identify the reader's question and give an action they can take.
+* Identify the reader's question and give an action they can take. Keep the reader's existing days, rest days, and running time as the starting point. Explain terms before using them in instructions; label calendars as examples and keep session cards independent of weekdays.
 * Cite original descriptions for specific prescriptions. Label editorial examples and distinguish adaptations from the standard method. Do not turn a secondhand book quotation into an official rule without checking the passage and edition.
 * Check running minutes, quality minutes, and elapsed time separately. Recovery occurs between repetitions, not after the final repetition. Recalculate the whole week when changing a session.
 * Keep the tone plain and practical. Apply the Humanizer editorial process: flag formulaic writing, rewrite it, then check that no facts, numbers, qualifications, or citations changed unintentionally. Keep promotional language out of the guide; the homepage book reference belongs in its background section.

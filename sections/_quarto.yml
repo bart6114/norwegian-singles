@@ -9,15 +9,15 @@ project:
 book:
   title: Norwegian Singles
   subtitle: An Approach To Running
-  description: "A practical guide to Norwegian Singles running: choose a week, run controlled sub-threshold sessions, and adjust training for recovery and races."
+  description: "A practical guide to Norwegian Singles running: adapt your own week, run controlled intervals, and adjust training for recovery and races."
   open-graph: true
   twitter-card:
     card-style: summary
   image: logo.png
   chapters:
     - index.md
-    - section2_implementing_the_method.md
     - section1_core_principles.md
+    - section2_implementing_the_method.md
     - section6_benefits_monitoring.md
     - section5_applicability_distances.md
     - section4_individualization_considerations.md
@@ -61,4 +61,8 @@ format:
   pdf:
     documentclass: scrreprt
     toc-depth: 2
+    filters:
+      - ../utils/guide-pdf-layout.lua
+    include-in-header:
+      - text: \usepackage{needspace}
   epub: default

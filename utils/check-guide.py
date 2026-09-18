@@ -119,22 +119,23 @@ def main():
         r"Time check: (\d+) \+ \((\d+) x (\d+)\) \+ \((\d+) x (\d+)\) "
         r"\+ (\d+) = (\d+) minutes running; (\d+) minutes quality\."
     )
-    for letter in "ABC":
+    for letter in ("Intro", "A", "B", "C"):
         block = re.search(rf"^### {letter}:.*?(?=^### |^## |\Z)",
                           implementation, re.M | re.S)
         check(block is not None, f"Missing session {letter}")
         if block is None:
             continue
         matches = pattern.findall(block[0])
-        check(len(matches) == 3, f"Session {letter}: expected three time checks")
-        for variant, match in zip(("standard", "shorter", "larger"), matches):
+        variants = ("standard",) if letter == "Intro" else ("standard", "shorter", "larger")
+        check(len(matches) == len(variants), f"Session {letter}: expected {len(variants)} time checks")
+        for variant, match in zip(variants, matches):
             warm, reps, work, breaks, recovery, cool, total, quality = map(int, match)
             check(breaks == reps - 1, f"{letter} {variant}: recovery count")
             check(reps * work == quality, f"{letter} {variant}: quality total")
             check(warm + reps * work + breaks * recovery + cool == total,
                   f"{letter} {variant}: running total")
             cards[letter, variant] = total, quality
-    check(len(pattern.findall(implementation)) == 9, "Expected nine session budgets")
+    check(len(pattern.findall(implementation)) == 10, "Expected ten session budgets")
 
     week_count = 0
     days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
@@ -153,9 +154,9 @@ def main():
                 running += run
                 quality += work
                 check(0 <= work <= run, f"{name} {day}: invalid quality minutes")
-                if session.startswith(("A:", "B:", "C:")):
+                if session.startswith(("Intro:", "A:", "B:", "C:")):
                     variant = "larger" if "larger" in session else "shorter" if "shorter" in session else "standard"
-                    check(cards.get((session[0], variant)) == (run, work),
+                    check(cards.get((session.split(":", 1)[0], variant)) == (run, work),
                           f"{name} {day}: session differs from card {session}")
                 else:
                     check(work == 0, f"{name} {day}: unexpected quality minutes")
@@ -167,7 +168,7 @@ def main():
             check(float(hours) * 60 == running, f"{name}: hours do not match")
             check(abs(float(percentage) - 100 * quality / running) <= 0.05,
                   f"{name}: quality percentage does not match")
-    check(week_count == 5, "Expected five complete week tables")
+    check(week_count == 6, "Expected six complete week tables")
 
     for name, text in texts.items():
         for href in re.findall(r"\]\(([^\s)]+)\)", text):
