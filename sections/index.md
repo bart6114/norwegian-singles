@@ -1,51 +1,80 @@
-# Introduction {.unnumbered}
+---
+pagetitle: "Norwegian Singles training guide"
+description: "Learn the Norwegian Singles running method, choose a starting week, and follow complete sub-threshold sessions with practical effort and recovery guidance."
+format:
+  html:
+    code-copy: true
+---
 
-This guide introduces the "Norwegian Singles" training approach, adapted from the high-volume Norwegian model often associated with double threshold sessions. This "singles" variant emphasizes frequent, *single* sub-threshold workouts per day, suitable for runners seeking sustainable improvement in aerobic capacity and performance over the long term, particularly those training 5-9 hours per week. The core idea is maximizing repeatable training load while managing fatigue.
+# Start here {#start-here .unnumbered}
 
-```{=html}
-<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); border-radius: 16px; padding: 2rem; margin: 1.5rem 0; box-shadow: 0 10px 40px rgba(0,0,0,0.3); display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-  <a href="https://mybook.to/XzwWbK3" style="flex-shrink: 0; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05) rotate(-2deg)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://m.media-amazon.com/images/I/51rLnmI8ldL._SL1233_.jpg" alt="Norwegian Singles Method book cover" style="width: 180px; border-radius: 8px; box-shadow: 0 8px 30px rgba(0,0,0,0.4);">
-  </a>
-  <div style="flex: 1; min-width: 250px;">
-    <p style="color: #e94560; font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 2px; margin: 0 0 0.5rem 0;">From the Original Author</p>
-    <h3 style="color: #ffffff; font-size: 1.5rem; font-weight: 700; margin: 0 0 0.75rem 0; line-height: 1.3;">Norwegian Singles Method: Subthreshold Running Kept Simple</h3>
-    <p style="color: #b8b8b8; font-size: 0.85rem; margin: 0 0 0.75rem 0; line-height: 1.5;">Since this website was created, James Copeland (sirpoc) — the original creator of the Norwegian Singles method — has published his own comprehensive book.</p>
-    <p style="color: #a0a0a0; font-size: 0.9rem; margin: 0 0 1.25rem 0;">Foreword by Marius Bakken MD</p>
-    <a href="https://mybook.to/XzwWbK3" style="display: inline-block; background: linear-gradient(135deg, #e94560 0%, #ff6b6b 100%); color: white; padding: 0.75rem 1.75rem; border-radius: 50px; text-decoration: none; font-weight: 600; font-size: 0.95rem; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(233, 69, 96, 0.4);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(233, 69, 96, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(233, 69, 96, 0.4)'">Get the Book</a>
-  </div>
-</div>
+Norwegian Singles is a way of organizing running around controlled workouts and easy runs. In a workout, you alternate a few minutes of purposeful running with a short easy jog. You finish while you could still do more, so you can recover for the next run.
+
+The full routine has three of these workouts each week, with easy running between them and a longer easy run. “Singles” means one workout on a workout day. You can learn the approach with fewer workouts, using the running days and rest days you already have.
+
+## Start from the running you do now
+
+Think of a recent ordinary week that you could comfortably repeat. Write down which days you ran and for how long. This is the week you will adapt. The calendars later in the guide are examples for different runners; their weekdays and hours are not requirements.
+
+If you are new to running, returning after a break, or struggling to recover from your current runs, keep building a comfortable easy routine first. This guide is for runners learning a training method, rather than a plan for starting running from scratch.
+
+If you already run regularly but have never done intervals, begin by changing one existing run into a controlled workout that fits within its usual time. Keep your other runs easy and your rest days free. The [three-day example](section2_implementing_the_method.md#first-workout-week) shows exactly how that can look. Adding a second or third workout is a later decision, based on how you recover.
+
+## Follow the guide in this order
+
+1. [Learn how the running should feel](section1_core_principles.md#control-effort). Understand easy running, controlled effort, and the short recovery jogs between repetitions. You can start with a timer and these effort checks.
+2. [Plan your own week](section2_implementing_the_method.md#choose-your-week). Keep your usual days and total running time, then choose a suitable example and workout length.
+3. [Follow a complete workout](section2_implementing_the_method.md#session-cards). Each set of instructions includes the warm-up, repetitions, recovery jogs, and cool-down.
+4. [Review and adjust](section6_benefits_monitoring.md#adjust-your-week). Record how it felt and decide what to do if you are tired, miss a run, or have less time.
+
+These chapters are enough to begin. Read the race chapter when you have an event to plan around. The later chapters on equipment, training scores, and other methods are optional.
+
+A recent race result can help estimate pace, but you do not need to race before trying a workout. A heart-rate watch, lactate meter, and paid training platform are optional too.
+
+## Build a training plan with your agent {#plan-with-an-agent}
+
+Copy this prompt into an AI agent that can open links. It points to the [complete guide](https://norwegiansingles.run/llms-full.txt):
+
+```{.default .code-overflow-wrap}
+Read https://norwegiansingles.run/llms-full.txt and help me build a
+sustainable training plan for the coming weeks and months.
+
+First ask about my goals, race dates, availability, experience, and
+recovery. Ask what activity data I already have, such as watch/app
+history or a training log, and review it with me. Use recent weeks
+and months to understand my consistency, weekly running time,
+longest runs, harder sessions, and recovery. Ask about gaps rather
+than guessing.
+
+Agree a manageable starting week that fits this foundation,
+preserves my rest days, and initially keeps total running time
+stable. Then outline how to progress, when to reassess together
+using new activity data and how I feel, and when to hold or reduce
+training.
+
+Give complete workouts and effort guidance, plus adjustments for
+fatigue, missed runs, and races. Treat the guide's calendars as
+examples and explain unfamiliar terms.
 ```
-
-## Read offline
-
-Don't want to read the website? You can also download a `pdf` or `epub` via de the download icon in the sidebar.
-
-## Contributing
-
-Please read up on how to contribute to this guide over at our [GitHub repo](https://github.com/bart6114/norwegian-singles).
-
-**Repository Contributors**
-
-<object type="image/svg+xml" data="https://contrib.nn.ci/api?repo=bart6114/norwegian-singles"></object>
 
 ## Background & conceptualization
 
-This section provides some additional context on the origins and popularization of the "Norwegian Singles" training method, particularly within the online running community.
+This guide grew out of the LetsRun discussion about adapting Norwegian threshold training to recreational running. James Copeland, known as sirpoc84, shared his training and helped popularize the singles approach in that community. His account drew on his own experiments and observations of Kristoffer Ingebrigtsen's running.
 
-The method is an adaptation of principles popularized by Norwegian athletes, modified to exclude the use of lactate meters. The core idea involves performing three sub-threshold workouts per week, supplemented only by easy running.
+The full routine described here uses three controlled workouts per week. Marius Bakken's work on lactate-controlled training is part of its background; his double-threshold model and the different Ingebrigtsen routines have their own schedules and context.
 
-The popularization within the online community, particularly on platforms like Letsrun and Strava, was significantly driven by the user "sirpoc." His journey reportedly began by analyzing the Strava data of Kristoffer Ingebrigtsen (a non-professional, hobby-jogging member of the Ingebrigtsen family known for their elite running success) and experimenting with replicating aspects of that training.
+- James Copeland's book, [Norwegian Singles Method: Subthreshold Running Kept Simple](https://mybook.to/XzwWbK3), has a foreword by Marius Bakken.
+- Marius Bakken's [The Norwegian Method Applied](https://www.amazon.com/dp/8269471100) covers threshold training and intensity control. [Sample pages](https://online.fliphtml5.com/loping/TheNorwegianMethodApplied/) are available online.
+- The [original LetsRun thread](https://www.letsrun.com/forum/flat_read.php?thread=12130781) contains the discussion from which this guide began.
+- The [Strava group](https://strava.app.link/QyAqunp07Pb) and [r/NorwegianSinglesRun](https://www.reddit.com/r/NorwegianSinglesRun/) host ongoing community discussion.
+- The [LacTrace pace guide](https://lactrace.com/norwegian-singles) provides starting estimates from current fitness.
 
-A key figure in promoting this approach is the online running personality known as "sirpoc." He documented his significant improvements as a masters runner (improving from a 19-minute 5k runner to achieving times in the mid-to-low 15s for 5k, mid-31s for 10k, and a 1:10 half marathon) using this method after the age of 40.
+See [Sources & background](sources.md#sources-and-background) for more references and how this guide uses them.
 
-Further discussion and details can be found in the following resources:
+## Read offline
 
-*   **The Book:** James Copeland (sirpoc) has written the definitive guide to the method, with a foreword by Marius Bakken MD. [Norwegian Singles Method: Subthreshold Running Kept Simple](https://mybook.to/XzwWbK3)
-*   **Original Letsrun Thread:** A very long but often informative thread detailing the development and discussion of the method. Sirpoc's early posts and a summary on page 80 are particularly relevant. [https://www.letsrun.com/forum/flat_read.php?thread=12130781](https://www.letsrun.com/forum/flat_read.php?thread=12130781) (Note: The user suggests skipping posts by certain individuals for a more focused read).
-*   **Strava Group:** A dedicated group for discussion and community around the training method. [https://strava.app.link/QyAqunp07Pb](https://strava.app.link/QyAqunp07Pb) (Sirpoc is an admin).
-*   **Reddit Sub:** A very active subreddit for support, success stories, and other topics related to this training. [r/NorwegianSinglesRun](https://www.reddit.com/r/NorwegianSinglesRun/) (Sirpoc is a moderator).
-*   **Pace Guide:** Lactrace.com now hosts a pace guide based on sirpoc's recommendations. [https://lactrace.com/norwegian-singles](https://lactrace.com/norwegian-singles)
-*   **Executive Summary Document:** "The Norwegian single approach" - [https://docs.google.com/document/d/1OUk4lHlMzLkYzJAhlJAeaoj9OQNJH6g7uS31fl1To4Q/edit?tab=t.0](https://docs.google.com/document/d/1OUk4lHlMzLkYzJAhlJAeaoj9OQNJH6g7uS31fl1To4Q/edit?tab=t.0)
-*   **Training Calculator:** Spreadsheet for calculating reps, times, paces - [https://docs.google.com/spreadsheets/d/1Ah9qBF5zBvXh0-eWefJKUQUbWS6IWfrXm4D3dfvXuBA/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1Ah9qBF5zBvXh0-eWefJKUQUbWS6IWfrXm4D3dfvXuBA/edit?gid=0#gid=0)
-*   **Summary Website:** [https://sites.google.com/view/sub-threshold/home](https://sites.google.com/view/sub-threshold/home)
+Download the PDF or EPUB from the sidebar. Both contain the same schedules and session instructions as the website.
+
+## Contributing
+
+Corrections and practical examples are welcome through the [GitHub repository](https://github.com/bart6114/norwegian-singles). Include the source for a specific training recommendation and check any changed time totals.
