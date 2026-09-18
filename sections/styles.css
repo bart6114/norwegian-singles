@@ -1,0 +1,8 @@
+/* Keep wide schedules inside the page on narrow phones. */
+@media (max-width: 575px) {
+  main table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+}

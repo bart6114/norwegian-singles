@@ -1,5 +1,6 @@
 on:
   workflow_dispatch:
+  pull_request:
   push:
     branches: main
 
@@ -17,12 +18,24 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
+          version: '1.10.18'
           tinytex: true
 
-      - name: Render and Publish
+      - name: Check guide arithmetic and source links
+        run: python3 utils/check-guide.py
+
+      - name: Render all formats
+        run: quarto render sections --to all
+
+      - name: Check rendered links and discovery files
+        run: python3 utils/check-guide.py --rendered
+
+      - name: Publish checked output
+        if: github.event_name != 'pull_request'
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
           path: sections
+          render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

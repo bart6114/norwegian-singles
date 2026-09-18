@@ -2,7 +2,7 @@
 
 # Norwegian Singles Training Guide
 
-This guide introduces the "Norwegian Singles" training approach, adapted from the high-volume Norwegian model often associated with double threshold sessions. This "singles" variant emphasizes frequent, *single* sub-threshold workouts per day, suitable for runners seeking sustainable improvement in aerobic capacity and performance over the long term, particularly those training 5-9 hours per week. The core idea is maximizing repeatable training load while managing fatigue.
+This guide explains the Norwegian Singles running routine: three controlled sub-threshold sessions each week, with easy running between them and an easy longer run. It includes a two-session transition, complete workout instructions, and guidance for progression, recovery, and racing. Start with the running you already sustain and use the examples to plan a repeatable week.
 
 ## Project Background & Motivation
 
@@ -31,9 +31,43 @@ If anyone is genuinely interested in building this project out further, please m
 ## Running Locally
 
 * Clone this repository
-* Install [quarto](https://quarto.org/docs/get-started/)
+* Install [Quarto 1.10.18 or newer](https://quarto.org/docs/get-started/). The publishing workflow pins 1.10.18, the latest stable release checked on 18 September 2026.
 * Change dir to `/sections`
 * Run `quarto preview`
+
+## Editing the guide
+
+The reading route starts with choosing a week and running the sessions, then covers effort, recovery, and race adaptations. Tools, load metrics, comparisons, and sources follow as optional reading. The existing chapter filenames are kept so published page URLs continue to work.
+
+Edit the Markdown in `sections/`. Week tables and session cards live in the implementation chapter; link to them instead of copying their numbers into other chapters. The historical scrape and `intermediary/BOOK.md` are source archives, not the current published guide. Quarto builds HTML, PDF, and EPUB from the same chapter files into the ignored `dist/` directory.
+
+For each content change:
+
+* Identify the reader's question and give an action they can take.
+* Cite original descriptions for specific prescriptions. Label editorial examples and distinguish adaptations from the standard method. Do not turn a secondhand book quotation into an official rule without checking the passage and edition.
+* Check running minutes, quality minutes, and elapsed time separately. Recovery occurs between repetitions, not after the final repetition. Recalculate the whole week when changing a session.
+* Keep the tone plain and practical. Apply the Humanizer editorial process: flag formulaic writing, rewrite it, then check that no facts, numbers, qualifications, or citations changed unintentionally. Keep promotional language out of the guide; the homepage book reference belongs in its background section.
+* Check related chapters for contradictions. Keep one progression section and link to it from other pages.
+
+From the repository root, run:
+
+```sh
+python3 utils/check-guide.py
+quarto render sections --to all
+python3 utils/check-guide.py --rendered
+```
+
+The checker validates session arithmetic, weekly totals, links between source chapters, and rendered HTML/EPUB links. Also inspect the website at desktop and phone widths, PDF tables and page breaks, and EPUB navigation. PDF rendering needs a LaTeX installation; the publishing workflow installs TinyTeX.
+
+Keep the three editorial releases reviewable: starting weeks and session instructions; progression, recovery, and racing; then tools and background. Review all formats before merging to `main`, since a push there triggers the existing GitHub Pages publishing workflow. Generated files in `dist/` should not be committed.
+
+## Search and AI-readable output
+
+Quarto 1.10.18 has [native `llms.txt` support](https://quarto.org/docs/websites/website-llms.html), including a Markdown companion for each HTML page. No third-party extension is needed. The post-render script combines those companions into `llms-full.txt` in book order, adds canonical links and WebPage/WebSite structured data, and keeps the sitemap homepage URL consistent. All of these files are regenerated from the guide.
+
+Each chapter has a distinct page title and description. Quarto supplies social previews and a sitemap; the post-render script supplies an explicit crawl policy and links to the Markdown alternatives. The footer records the editorial update date; change it when revising the published content. Keep structured data consistent with the visible text, without inventing reviews, credentials, or claims about results.
+
+The `--rendered` check covers these discovery files as well as book links. After deployment, check the public homepage, sitemap, `robots.txt`, `llms.txt`, and `llms-full.txt`. Search Console submission and traffic monitoring happen separately from the local build. AI-readable files help tools consume the guide; they do not guarantee search rankings or AI citations. [Google's guidance](https://developers.google.com/search/docs/appearance/ai-features) applies the same search fundamentals to its AI features.
 
 ## Acknowledgements
 

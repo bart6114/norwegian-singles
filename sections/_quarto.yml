@@ -1,19 +1,29 @@
+quarto-required: ">=1.10.18"
+
 project:
   type: book
   output-dir: ../dist
+  post-render:
+    - python3 ../utils/finish-site.py
 
 book:
   title: Norwegian Singles
   subtitle: An Approach To Running
+  description: "A practical guide to Norwegian Singles running: choose a week, run controlled sub-threshold sessions, and adjust training for recovery and races."
+  open-graph: true
+  twitter-card:
+    card-style: summary
+  image: logo.png
   chapters:
     - index.md
-    - section1_core_principles.md
     - section2_implementing_the_method.md
-    - section3_training_load.md
-    - section4_individualization_considerations.md
-    - section5_applicability_distances.md
+    - section1_core_principles.md
     - section6_benefits_monitoring.md
+    - section5_applicability_distances.md
+    - section4_individualization_considerations.md
+    - section3_training_load.md
     - section7_comparative_analysis.md
+    - sources.md
   sharing:
     - twitter
     - linkedin
@@ -23,25 +33,32 @@ book:
     background: "#F5F5F5"
     logo: logo.png
     search: true
-  url: https://github.com/bart6114/norwegian-singles/
+  site-url: https://norwegiansingles.run
   repo-url: https://github.com/bart6114/norwegian-singles/
+  repo-subdir: sections
+  repo-actions: [edit, issue]
+  page-footer: "A community guide. Updated 18 September 2026. [Sources](sources.html) · [Contribute](https://github.com/bart6114/norwegian-singles)"
   favicon: icon.png
-  # navbar:
-  #   title: "Norwegian Singles: An Approach to Running"
-  #   search: true
   downloads:
     - pdf
     - epub
 
+# Quarto 1.10.18's book adapter does not forward llms-txt to website settings.
+website:
+  llms-txt: true
+  description: "Practical Norwegian Singles schedules, session instructions, effort guidance, recovery decisions, and source references."
+  image-alt: "Norwegian Singles running guide logo"
+
 format:
   html:
+    css: styles.css
     respect-user-color-scheme: true
     theme:
       light: cosmo
     backgroundcolor: "#F5F5F5"  
-    # number-sections: false
     include-in-header:
       - text: <script data-goatcounter="https://norwegiansingles.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   pdf:
     documentclass: scrreprt
+    toc-depth: 2
   epub: default
