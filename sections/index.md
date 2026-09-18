@@ -32,6 +32,7 @@ This guide grew out of the LetsRun discussion about adapting Norwegian threshold
 The version described here uses three single quality sessions per week. Marius Bakken's work on lactate-controlled training is part of its background; his double-threshold model and the different Ingebrigtsen routines have their own schedules and context.
 
 - James Copeland's book, [Norwegian Singles Method: Subthreshold Running Kept Simple](https://mybook.to/XzwWbK3), has a foreword by Marius Bakken.
+- Marius Bakken's [The Norwegian Method Applied](https://www.amazon.com/dp/8269471100) covers threshold training and intensity control. [Sample pages](https://online.fliphtml5.com/loping/TheNorwegianMethodApplied/) are available online.
 - The [original LetsRun thread](https://www.letsrun.com/forum/flat_read.php?thread=12130781) contains the discussion from which this guide began.
 - The [Strava group](https://strava.app.link/QyAqunp07Pb) and [r/NorwegianSinglesRun](https://www.reddit.com/r/NorwegianSinglesRun/) host ongoing community discussion.
 - The [LacTrace pace guide](https://lactrace.com/norwegian-singles) provides starting estimates from current fitness.

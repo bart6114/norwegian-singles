@@ -27,6 +27,8 @@ Links point to the relevant forum page, with post numbers supplied to help locat
 
 [Marius Bakken's original account](https://www.mariusbakken.com/the-norwegian-model.html) describes the development of his lactate-controlled training, including individual differences in threshold readings. His [2026 article on double threshold](https://www.mariusbakken.com/double-threshold-training.html) provides further context. These are the author's accounts of practice, not controlled trials of this guide's singles week.
 
+His book, [The Norwegian Method Applied](https://www.amazon.com/dp/8269471100), covers threshold training and intensity control. An [online preview](https://online.fliphtml5.com/loping/TheNorwegianMethodApplied/) provides sample pages.
+
 The [translated and annotated Kristoffer Ingebrigtsen description at Running Writings](https://runningwritings.com/2025/07/kristoffer-ingebrigtsen-norwegian-single-threshold-training.html) is another account to read alongside the original discussion. It is a translation with commentary, and should not be treated as Copeland's identical prescription.
 
 ## Tools and community resources
