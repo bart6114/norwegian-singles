@@ -1,0 +1,19 @@
+# Norwegian Singles
+
+> A practical guide to Norwegian Singles running: adapt your own week, run controlled intervals, and adjust training for recovery and races.
+
+## Pages
+
+- [Start here](https://norwegiansingles.run/index.llms.md): Learn the Norwegian Singles running method, choose a starting week, and follow complete sub-threshold sessions with practical effort and recovery guidance.
+- [Control your effort](https://norwegiansingles.run/section1_core_principles.llms.md): Set Norwegian Singles effort using current fitness, pace, heart rate and perceived exertion. Learn how to run easy days and adjust for heat, hills and fatigue.
+- [Plan your week & run the workouts](https://norwegiansingles.run/section2_implementing_the_method.llms.md): Adapt your existing running week to Norwegian Singles, with three- and four-day examples, complete interval workouts, and clear progression decisions.
+- [Adjust your week](https://norwegiansingles.run/section6_benefits_monitoring.llms.md): Adjust your Norwegian Singles week for missed runs, fatigue, illness or limited time. Use a simple training log and practical recovery checks.
+- [Race adaptations](https://norwegiansingles.run/section5_applicability_distances.llms.md): Adapt Norwegian Singles for races and marathon preparation. See what workouts to replace, how to allow recovery, and how to scale longer sessions by time.
+- [Tools & optional additions](https://norwegiansingles.run/section4_individualization_considerations.llms.md): Choose useful training tools and understand their limits. Fit optional strength, strides or cross-training around a repeatable Norwegian Singles routine.
+- [Training load: optional metrics](https://norwegiansingles.run/section3_training_load.llms.md): Understand CTL and TSS as optional training-load estimates. Use consistent inputs and recovery notes to interpret trends without chasing a fitness score.
+- [Comparing approaches](https://norwegiansingles.run/section7_comparative_analysis.llms.md): Compare Norwegian Singles with other running approaches by weekly structure, intensity definitions and race preparation, with links to original sources.
+- [Sources & background](https://norwegiansingles.run/sources.llms.md): Find original Norwegian Singles discussions, books, community tools and research references. See how this guide distinguishes practice from worked examples.
+
+## Complete guide
+
+- [Full guide](https://norwegiansingles.run/llms-full.txt): All chapters in reading order.

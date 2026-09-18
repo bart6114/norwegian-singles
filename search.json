@@ -4,29 +4,39 @@
     "href": "index.html",
     "title": "Norwegian Singles",
     "section": "",
-    "text": "Introduction\nThis guide introduces the “Norwegian Singles” training approach, adapted from the high-volume Norwegian model often associated with double threshold sessions. This “singles” variant emphasizes frequent, single sub-threshold workouts per day, suitable for runners seeking sustainable improvement in aerobic capacity and performance over the long term, particularly those training 5-9 hours per week. The core idea is maximizing repeatable training load while managing fatigue.",
+    "text": "Start here\nNorwegian Singles is a way of organizing running around controlled workouts and easy runs. In a workout, you alternate a few minutes of purposeful running with a short easy jog. You finish while you could still do more, so you can recover for the next run.\nThe full routine has three of these workouts each week, with easy running between them and a longer easy run. “Singles” means one workout on a workout day. You can learn the approach with fewer workouts, using the running days and rest days you already have.",
     "crumbs": [
-      "Introduction"
+      "Start here"
     ]
   },
   {
-    "objectID": "index.html#read-offline",
-    "href": "index.html#read-offline",
+    "objectID": "index.html#start-from-the-running-you-do-now",
+    "href": "index.html#start-from-the-running-you-do-now",
     "title": "Norwegian Singles",
-    "section": "Read offline",
-    "text": "Read offline\nDon’t want to read the website? You can also download a pdf or epub via de the download icon in the sidebar.",
+    "section": "Start from the running you do now",
+    "text": "Start from the running you do now\nThink of a recent ordinary week that you could comfortably repeat. Write down which days you ran and for how long. This is the week you will adapt. The calendars later in the guide are examples for different runners; their weekdays and hours are not requirements.\nIf you are new to running, returning after a break, or struggling to recover from your current runs, keep building a comfortable easy routine first. This guide is for runners learning a training method, rather than a plan for starting running from scratch.\nIf you already run regularly but have never done intervals, begin by changing one existing run into a controlled workout that fits within its usual time. Keep your other runs easy and your rest days free. The three-day example shows exactly how that can look. Adding a second or third workout is a later decision, based on how you recover.",
     "crumbs": [
-      "Introduction"
+      "Start here"
     ]
   },
   {
-    "objectID": "index.html#contributing",
-    "href": "index.html#contributing",
+    "objectID": "index.html#follow-the-guide-in-this-order",
+    "href": "index.html#follow-the-guide-in-this-order",
     "title": "Norwegian Singles",
-    "section": "Contributing",
-    "text": "Contributing\nPlease read up on how to contribute to this guide over at our GitHub repo.\nRepository Contributors",
+    "section": "Follow the guide in this order",
+    "text": "Follow the guide in this order\n\nLearn how the running should feel. Understand easy running, controlled effort, and the short recovery jogs between repetitions. You can start with a timer and these effort checks.\nPlan your own week. Keep your usual days and total running time, then choose a suitable example and workout length.\nFollow a complete workout. Each set of instructions includes the warm-up, repetitions, recovery jogs, and cool-down.\nReview and adjust. Record how it felt and decide what to do if you are tired, miss a run, or have less time.\n\nThese chapters are enough to begin. Read the race chapter when you have an event to plan around. The later chapters on equipment, training scores, and other methods are optional.\nA recent race result can help estimate pace, but you do not need to race before trying a workout. A heart-rate watch, lactate meter, and paid training platform are optional too.",
     "crumbs": [
-      "Introduction"
+      "Start here"
+    ]
+  },
+  {
+    "objectID": "index.html#plan-with-an-agent",
+    "href": "index.html#plan-with-an-agent",
+    "title": "Norwegian Singles",
+    "section": "Build a training plan with your agent",
+    "text": "Build a training plan with your agent\nCopy this prompt into an AI agent that can open links. It points to the complete guide:\nRead https://norwegiansingles.run/llms-full.txt and help me build a\nsustainable training plan for the coming weeks and months.\n\nFirst ask about my goals, race dates, availability, experience, and\nrecovery. Ask what activity data I already have, such as watch/app\nhistory or a training log, and review it with me. Use recent weeks\nand months to understand my consistency, weekly running time,\nlongest runs, harder sessions, and recovery. Ask about gaps rather\nthan guessing.\n\nAgree a manageable starting week that fits this foundation,\npreserves my rest days, and initially keeps total running time\nstable. Then outline how to progress, when to reassess together\nusing new activity data and how I feel, and when to hold or reduce\ntraining.\n\nGive complete workouts and effort guidance, plus adjustments for\nfatigue, missed runs, and races. Treat the guide's calendars as\nexamples and explain unfamiliar terms.",
+    "crumbs": [
+      "Start here"
     ]
   },
   {
@@ -34,429 +44,439 @@
     "href": "index.html#background-conceptualization",
     "title": "Norwegian Singles",
     "section": "Background & conceptualization",
-    "text": "Background & conceptualization\nThis section provides some additional context on the origins and popularization of the “Norwegian Singles” training method, particularly within the online running community.\nThe method is an adaptation of principles popularized by Norwegian athletes, modified to exclude the use of lactate meters. The core idea involves performing three sub-threshold workouts per week, supplemented only by easy running.\nThe popularization within the online community, particularly on platforms like Letsrun and Strava, was significantly driven by the user “sirpoc.” His journey reportedly began by analyzing the Strava data of Kristoffer Ingebrigtsen (a non-professional, hobby-jogging member of the Ingebrigtsen family known for their elite running success) and experimenting with replicating aspects of that training.\nA key figure in promoting this approach is the online running personality known as “sirpoc.” He documented his significant improvements as a masters runner (improving from a 19-minute 5k runner to achieving times in the mid-to-low 15s for 5k, mid-31s for 10k, and a 1:10 half marathon) using this method after the age of 40.\nFurther discussion and details can be found in the following resources:\n\nThe Book: James Copeland (sirpoc) has written the definitive guide to the method, with a foreword by Marius Bakken MD. Norwegian Singles Method: Subthreshold Running Kept Simple\nOriginal Letsrun Thread: A very long but often informative thread detailing the development and discussion of the method. Sirpoc’s early posts and a summary on page 80 are particularly relevant. https://www.letsrun.com/forum/flat_read.php?thread=12130781 (Note: The user suggests skipping posts by certain individuals for a more focused read).\nStrava Group: A dedicated group for discussion and community around the training method. https://strava.app.link/QyAqunp07Pb (Sirpoc is an admin).\nReddit Sub: A very active subreddit for support, success stories, and other topics related to this training. r/NorwegianSinglesRun (Sirpoc is a moderator).\nPace Guide: Lactrace.com now hosts a pace guide based on sirpoc’s recommendations. https://lactrace.com/norwegian-singles\nExecutive Summary Document: “The Norwegian single approach” - https://docs.google.com/document/d/1OUk4lHlMzLkYzJAhlJAeaoj9OQNJH6g7uS31fl1To4Q/edit?tab=t.0\nTraining Calculator: Spreadsheet for calculating reps, times, paces - https://docs.google.com/spreadsheets/d/1Ah9qBF5zBvXh0-eWefJKUQUbWS6IWfrXm4D3dfvXuBA/edit?gid=0#gid=0\nSummary Website: https://sites.google.com/view/sub-threshold/home",
+    "text": "Background & conceptualization\nThis guide grew out of the LetsRun discussion about adapting Norwegian threshold training to recreational running. James Copeland, known as sirpoc84, shared his training and helped popularize the singles approach in that community. His account drew on his own experiments and observations of Kristoffer Ingebrigtsen’s running.\nThe full routine described here uses three controlled workouts per week. Marius Bakken’s work on lactate-controlled training is part of its background; his double-threshold model and the different Ingebrigtsen routines have their own schedules and context.\n\nJames Copeland’s book, Norwegian Singles Method: Subthreshold Running Kept Simple, has a foreword by Marius Bakken.\nMarius Bakken’s The Norwegian Method Applied covers threshold training and intensity control. Sample pages are available online.\nThe original LetsRun thread contains the discussion from which this guide began.\nThe Strava group and r/NorwegianSinglesRun host ongoing community discussion.\nThe LacTrace pace guide provides starting estimates from current fitness.\n\nSee Sources & background for more references and how this guide uses them.",
     "crumbs": [
-      "Introduction"
+      "Start here"
+    ]
+  },
+  {
+    "objectID": "index.html#read-offline",
+    "href": "index.html#read-offline",
+    "title": "Norwegian Singles",
+    "section": "Read offline",
+    "text": "Read offline\nDownload the PDF or EPUB from the sidebar. Both contain the same schedules and session instructions as the website.",
+    "crumbs": [
+      "Start here"
+    ]
+  },
+  {
+    "objectID": "index.html#contributing",
+    "href": "index.html#contributing",
+    "title": "Norwegian Singles",
+    "section": "Contributing",
+    "text": "Contributing\nCorrections and practical examples are welcome through the GitHub repository. Include the source for a specific training recommendation and check any changed time totals.",
+    "crumbs": [
+      "Start here"
     ]
   },
   {
     "objectID": "section1_core_principles.html",
     "href": "section1_core_principles.html",
-    "title": "1  Core Principles",
+    "title": "1  Control your effort",
     "section": "",
-    "text": "1.1 Sub-Threshold Focus\nThe primary goal is to shift the lactate curve rightward, allowing higher speeds at lower lactate concentrations. Quality training primarily occurs just below the second lactate threshold (LT2), often termed “sweetspot” or high Zone 3/low Zone 4 (in a 5-zone model). This intensity provides significant aerobic stimulus with manageable fatigue, forming the bulk (~20-25% of weekly time) of the training load. High-intensity VO2max work is generally avoided or minimized in this phase due to its high cost-to-benefit ratio for general preparation.",
+    "text": "1.1 What the workout terms mean\nAn interval workout alternates periods of purposeful running with easy recovery breaks. In this guide, a repetition is one period of that purposeful running. For example, “6 x 3 minutes” means six separate three-minute repetitions, with a recovery jog between each pair. It does not mean six runs in a day.\nThe technical name for the intended work effort is sub-threshold: below the second lactate threshold, often called LT2. That threshold marks an intensity beyond which the effort becomes difficult to sustain. You do not need to measure it to start using the practical checks below; those checks guide effort but cannot confirm your exact threshold.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Core Principles</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Control your effort</span>"
+    ]
+  },
+  {
+    "objectID": "section1_core_principles.html#sub-threshold-focus",
+    "href": "section1_core_principles.html#sub-threshold-focus",
+    "title": "1  Control your effort",
+    "section": "",
+    "text": "Term\nWhat you do\n\n\n\n\nEasy running\nRun at an effort that lets you hold a comfortable conversation. This includes the longer easy run.\n\n\nQuality work\nRun the controlled repetitions described below. “Quality” is just the guide’s name for this part of a workout; easy running matters too.\n\n\nRecovery jog\nJog very easily between repetitions, so you can begin the next one smoothly.\n\n\nWarm-up and cool-down\nRun easily before the first repetition and after the last one. These minutes are part of the workout’s total time.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Control your effort</span>"
     ]
   },
   {
     "objectID": "section1_core_principles.html#intensity-control",
     "href": "section1_core_principles.html#intensity-control",
-    "title": "1  Core Principles",
-    "section": "1.2 Intensity Control",
-    "text": "1.2 Intensity Control\nThis is crucial. Avoid exceeding LT2 during quality sessions. Precise control allows for frequent, repeatable quality work. Erring slightly slower is safer than going too fast. Monitoring methods include:\n\nLactate Meter (Ideal): Target levels are typically between 2.0-4.0 mmol/L, ensuring you remain below LT2. Many practitioners recommend aiming for the lower end, potentially capping efforts around 2.5-3.0 mmol/L, to ensure sustainability and avoid creeping over the threshold, though individual responses vary. Consistent monitoring helps ensure levels don’t consistently exceed LT2 towards the end of the final reps. Requires understanding of personal lactate curve and consistent testing protocol. Lactate testing provides the most direct measure of internal load.\nHeart Rate (Proxy): Use a reliable Lactate Threshold Heart Rate (LTHR) estimate (e.g., Friel’s 30-min test). Aim for sub-threshold zones, perhaps capping effort around 90-92% of Max HR or just below LTHR. Be mindful of HR lag, drift (especially in heat/humidity), and external factors (sleep, stress). The correlation between HR and lactate can vary significantly day-to-day and between individuals; HR is often better used as a ceiling than a precise target, especially as fitness increases or in variable conditions. LTHR itself is generally stable for trained runners.\nPace (Proxy): Use paces derived from current race fitness (e.g., recent 5k/10k time trials or races, ideally within 4-8 weeks). Paces need adjustment based on interval duration (faster for shorter reps, slower for longer reps) and conditions (heat, humidity, wind, terrain). VDOT or Tinman calculators can provide starting points, but individual responses vary. Consistency of terrain (track, flat road, treadmill) improves pace reliability.\nPower (Proxy): Running power meters (like Stryd or watch-based estimates) offer another intensity gauge, more responsive than HR and potentially accounting for grade. Critical Power (CP) estimates can correlate well with LT2. Accuracy and consistency across devices/conditions (especially wind) are still evolving and may vary between individuals.\nPerceived Exertion (RPE): Sessions should feel “comfortably hard” (e.g., RPE 5-6/10) – challenging but sustainable, allowing conversation in short bursts. You should feel capable of doing another rep but adhere to the plan. RPE can be skewed by previous training habits or external factors.",
+    "title": "1  Control your effort",
+    "section": "1.2 How hard should it feel?",
+    "text": "1.2 How hard should it feel?\nDuring a repetition, breathe more deeply than on an easy run but keep enough breath to say a short phrase. Aim for roughly 5-6 out of 10, where 1 is very light and 10 is your hardest possible effort. Finish feeling that you could complete another repetition at the same effort.\nThe opening repetition should feel restrained. If you are gasping, straining, or counting down just to survive it, slow down. If the effort keeps rising from one repetition to the next, slow down even if you are still hitting the planned pace. You are practising a workout you can recover from and repeat later in the week.\n\n1.2.1 Choose a starting pace\nIf you have no recent race result, begin by effort. Start the first repetition only a little faster than your easy jog, let your breathing settle, and use the checks above. It is fine for an early attempt to be too easy. Do not speed up just to reach a particular effort score; record how the whole session felt and use that experience next time.\nIf you have a recent race result that reflects your current fitness, the LacTrace Norwegian Singles calculator can suggest a pace. Its race-result option is labelled VDOT: enter the race time and distance, then select Analyze. Use the suggestion appropriate to your repetition length. Pace means how long you take to run a kilometre or mile; a larger minutes-per-kilometre number means slower running. Treat the result as a starting estimate and check it against your breathing and effort.\nAn old personal best or a goal time is not a measure of your current fitness. If the calculator is unavailable or its options are unclear, use the effort instructions above. You can learn the workouts without another tool.\n\n\n1.2.2 During each workout\n\nRun the easy warm-up before starting the repetitions.\nBegin the first repetition at a restrained effort, even when a watch shows a low heart rate.\nJog very easily for the listed recovery time. Repeat the work and recovery until you have completed the planned number of repetitions, or stop the work earlier if needed.\nSlow down in heat, wind, or on hills, or whenever the work becomes too demanding. If slowing does not restore control, finish with easy running. Stop for pain or illness symptoms that make continuing inappropriate.\nAfter the last repetition, go straight into the easy cool-down. There is no sprint finish and no extra recovery break to add.\n\nRecord how the workout felt and whether your next easy run felt normal. The session cards supply the minutes for each part.\nIn the original discussion, sirpoc describes using pace estimates and checking the response over the workout, with heart rate rising during the early repetitions. His numbers describe his own training, not everyone’s limits. Original account, post #450.\n\n\n1.2.3 Why not chase heart rate in the first repetition?\nHeart rate takes time to respond. Speeding up to reach a number immediately can make the opening repetitions too hard. Begin at the planned controlled pace and assess the trend as the workout develops. An unusually low reading can also be a sensor problem; it is not a reason to accelerate blindly.\nIf you have a credible individual threshold-heart-rate estimate, use it as a check on the later repetitions. An age-based maximum-heart-rate formula or a watch’s default zone is not a precise personal threshold. You can run these sessions using pace and effort while you learn your response.\n\n\n1.2.4 Why are short repetitions faster than long ones?\nThe pace estimate belongs to a particular work duration and recovery. A three-minute repetition and a twelve-minute repetition need not use the same pace. Another calculator’s continuous threshold pace is answering a different question. Compare the whole session before comparing the numbers.\nIf you use a pace calculator, use the same guide consistently, and slow down if its estimate feels too demanding. A recovery break does not guarantee that a fast repetition stays below threshold. The session cards keep work duration, recovery, and weekly dose together.\n\n\n1.2.5 Do you need to measure lactate?\nNo. There is no universal blood-lactate value that guarantees you are below LT2: Bakken describes substantial individual differences. Testing needs an individual reference and a consistent sampling procedure. See Tools & optional additions if you want to explore this later.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Core Principles</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Control your effort</span>"
     ]
   },
   {
     "objectID": "section1_core_principles.html#easy-recovery",
     "href": "section1_core_principles.html#easy-recovery",
-    "title": "1  Core Principles",
-    "section": "1.3 Easy Recovery",
-    "text": "1.3 Easy Recovery\nNon-quality runs must be genuinely easy to facilitate recovery. Aim for efforts below 70% of Max HR or ~65% of Maximal Aerobic Speed (MAS). Monitor for low cardiac drift after the initial warm-up period. Slow down as needed, even walking hills; recovery is paramount. This allows for the high frequency of quality sessions.",
+    "title": "1  Control your effort",
+    "section": "1.3 How to run the easy days",
+    "text": "1.3 How to run the easy days\nRun slowly enough to talk comfortably in full sentences, with relaxed breathing. Keep the longer run at this same easy effort. “Longer” means longer than your other runs, not faster, and its duration should stay within what you already handle comfortably.\nEasy days should leave you ready for the next workout. If you are unusually tired, shorten the run or rest. Keep existing rest days when adapting the example weeks; an easy run is still training.\nThe practice described by sirpoc uses roughly 70% of maximum heart rate as an upper guide for easy running. That percentage depends on a credible maximum and a reliable measurement. His early explanation, post #170, describes how he used it in his own training. There is no single easy pace that follows from a 5 km result for every runner.\n\n\n\nWhat you notice\nWhat to do on this run\n\n\n\n\nHeart rate rises on a hill\nSlow down or walk the steep part. Choose flatter routes when possible.\n\n\nHeat makes the usual pace harder\nReduce pace and, if needed, duration. Compare effort with similar conditions.\n\n\nThe reading suddenly jumps\nCheck sensor fit and compare with breathing and effort before changing pace.\n\n\nEasy running feels awkwardly slow\nCheck the maximum-heart-rate estimate and sensor first. Try flatter ground or short walk breaks; shorten the run if the movement remains uncomfortable.\n\n\nYou feel unrecovered from quality work\nShorten the run or rest. Reconsider the next quality session using Adjust your week.\n\n\n\nWithout heart-rate data, use comfortable conversation and relaxed breathing, then check how you feel later that day and before the next workout.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Core Principles</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Control your effort</span>"
     ]
   },
   {
     "objectID": "section1_core_principles.html#consistency-repeatability",
     "href": "section1_core_principles.html#consistency-repeatability",
-    "title": "1  Core Principles",
-    "section": "1.4 Consistency & Repeatability",
-    "text": "1.4 Consistency & Repeatability\nThe system’s effectiveness stems from consistent application over months and years, leading to a higher sustainable training load, which correlates strongly with performance improvements. Workouts are designed to be repeatable weekly with minimal burnout or injury risk if intensity is controlled.",
+    "title": "1  Control your effort",
+    "section": "1.4 Consistency & repeatability",
+    "text": "1.4 Consistency & repeatability\nKeep the week stable long enough to learn how you respond. You should be recovering between workouts, with easy runs continuing to feel easy. Progression explains how to change the amount of training without changing everything at once.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Core Principles</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Control your effort</span>"
     ]
   },
   {
     "objectID": "section2_implementing_the_method.html",
     "href": "section2_implementing_the_method.html",
-    "title": "2  Implementing the Method",
+    "title": "2  Plan your week & run the workouts",
     "section": "",
-    "text": "2.1 Weekly Structure\nThe standard recommendation is 3 quality (sub-threshold) sessions per week, interspersed with 3-4 easy runs, following a pattern like E-Q-E-Q-E-Q-LR(Easy).\nOne easy run might be longer (75-90 mins often sufficient for up to HM). A rest day can replace an easy day if needed (E-Q-E-Q-R-Q-LR), but the 7-day structure maximizes consistent load. Combining quality work into the long run is generally discouraged as it disrupts the load/recovery balance (though marathon adaptations exist). For higher volumes (e.g., 9+ hours/week), adding easy doubles on easy days is often preferred over extending single runs or adding volume around Q sessions initially.\nExample Weekly Structures:",
+    "text": "2.1 Keep your own running days\nStart with a recent ordinary week you could comfortably repeat. Use your actual running time, rather than the hours you hope to train eventually. If you are new to intervals, first read how the effort should feel.\nFor example, if your usual run is 30 minutes, use the 30-minute introductory workout. Do not extend it to 40 or 50 minutes just because another table uses that length. If even the introductory workout is beyond your current running, continue with easy runs while establishing a comfortable routine.\nThe examples below show how this planning works. You can move their weekdays to match your life, while keeping easy or rest days between workouts. There is no requirement to progress through every table or to reach seven running days.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Implementing the Method</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Plan your week & run the workouts</span>"
     ]
   },
   {
-    "objectID": "section2_implementing_the_method.html#weekly-structure",
-    "href": "section2_implementing_the_method.html#weekly-structure",
-    "title": "2  Implementing the Method",
+    "objectID": "section2_implementing_the_method.html#choose-your-week",
+    "href": "section2_implementing_the_method.html#choose-your-week",
+    "title": "2  Plan your week & run the workouts",
     "section": "",
-    "text": "E: Easy workout\nQ: Quality workout (sub-threshold intervals)\nLR: Long Run (Easy pace)\nR: Rest day\n\n\n\n\nBeginner/Lower Volume:\n\nMon: Easy\nTue: SubT (e.g., 1 x 3000m)\nWed: Easy\nThu: SubT (e.g., 2 x 2000m, 90s rest)\nFri: Easy\nSat: SubT (e.g., 4 x 1000m, 60s rest)\nSun: Rest or Easy/Long Run\n\nAdvanced/Higher Volume:\n\nMon: Easy\nTue: SubT (e.g., 3 x 3000m, 120s rest)\nWed: Easy (+/- double easy)\nThu: SubT (e.g., 4 x 2000m, 90s rest)\nFri: Easy (+/- double easy)\nSat: SubT (e.g., 8-10 x 1000m, 60s rest)\nSun: Long Run (Easy)",
+    "text": "Write down your running days, the minutes you usually run on each, and your rest days. For now, keep those days and time limits.\nChoose an existing run to replace with a controlled workout. If you are new to intervals, start with one. If you already handle controlled workouts comfortably, the two-workout example may fit. The full routine has three, but you do not need to begin there.\nLeave at least one easy or rest day between workouts, including across the end of the week. If you already do a hard group run, hills, or a race, replace or remove that demanding session when introducing these workouts.\nChoose a complete workout that fits the time available on that day. Its warm-up, recovery jogs, and cool-down are included. Keep the other runs easy, and keep your longest run at a duration you already handle.\n\n\n\n\n2.1.1 Choose the example closest to your current routine\n\n\n\nYour current running\nWhere to look\n\n\n\n\nRegular easy runs; little or no interval experience\nThree days, introducing one workout\n\n\nAlready comfortable with controlled workouts; about three hours over four days\nFour days with two workouts\n\n\nAlready used to three workouts; about four hours over six days\nSix days with a rest day\n\n\nAbout five hours over seven days, with experience recovering between workouts\nFull three-workout routine\n\n\nAlready sustaining seven hours and three controlled workouts\nLarger week\n\n\n\nThese are examples written for this guide, not individual prescriptions or schedules copied from a book. Their repetition structure draws on sirpoc’s discussion of pacing and scaling work to weekly running. The introductory workout and smaller weeks show ways to learn the approach before considering the full routine.\n\n\n2.1.2 How to read the tables\nAll times are minutes. Running includes Quality: a 40-minute workout with 18 minutes of quality work takes 40 minutes in total, not 58. The remaining minutes are easy running. Rest means no running.\nIntro, A, B, and C link to the workout instructions later in this chapter. A, B, and C each have a shorter (40-minute), standard (50-minute), and larger (60-minute) version. Choose only the version named in your week. The percentages in the total rows describe the examples; you do not need to reach them.\n\n\n2.1.3 Three days: introduce one workout\nSuppose you already run easily for 30 minutes on Monday, Wednesday, and Saturday, and recover comfortably. Keep all three days and their duration. Change Wednesday to the introductory workout; Monday and Saturday stay easy. Your four rest days stay free. None of your runs needs to get longer to try this.\n\n\n\nDay\nSession\nRunning\nQuality\n\n\n\n\nMonday\nEasy\n30\n0\n\n\nTuesday\nRest\n0\n0\n\n\nWednesday\nIntro: first workout\n30\n12\n\n\nThursday\nRest\n0\n0\n\n\nFriday\nRest\n0\n0\n\n\nSaturday\nEasy\n30\n0\n\n\nSunday\nRest\n0\n0\n\n\nTotal\n1.5 hours; 13.3% quality\n90\n12\n\n\n\nBefore the change, all 90 minutes were easy. Afterward, 12 of those same 90 minutes are controlled repetitions. You have changed the effort of part of one run, without adding running time or another day.\nAfter Wednesday, note whether the repetitions stayed controlled. On Saturday, check whether your usual easy run feels normal. If you still feel unusually tired, shorten it or rest, and make the next planned workout easy. Repeat this one-workout arrangement while learning how you respond; one successful session is not a reason to add another immediately.\n\n\n2.1.4 Four days: two controlled workouts\nThis example is for someone already comfortable running 40 minutes on Monday, Wednesday, and Friday, plus 60 minutes on Sunday. They have experience with controlled intervals and recover well enough to consider two workouts. It is a different starting routine from the three-day example, not the next week’s target.\nReplace Monday’s run with shorter A and Friday’s with shorter B. Keep Wednesday and Sunday easy, with the same rest days and the same three-hour total. If you are new to intervals, make Friday an easy 40 minutes and try just Monday’s workout first; that gives 18 quality minutes for the week instead of 36.\n\n\n\nDay\nSession\nRunning\nQuality\n\n\n\n\nMonday\nA: shorter\n40\n18\n\n\nTuesday\nRest\n0\n0\n\n\nWednesday\nEasy\n40\n0\n\n\nThursday\nRest\n0\n0\n\n\nFriday\nB: shorter\n40\n18\n\n\nSaturday\nRest\n0\n0\n\n\nSunday\nLonger easy\n60\n0\n\n\nTotal\n3 hours; 20% quality\n180\n36\n\n\n\nUse A and B again when repeating this week; there is no need to rotate in C or fit in a third workout. If Sunday’s run leaves you tired on Monday, shorten Sunday or make Monday easy. Separation on a calendar does not guarantee that you have recovered.\n\n\n2.1.5 Six days: keep a rest day\nThis four-hour example is for someone already used to six running days and three controlled workouts. Friday stays free. It is not an introductory week for someone who has only done easy runs. If you need fewer workouts, make Saturday easy instead, or use the smaller examples above.\n\n\n\nDay\nSession\nRunning\nQuality\n\n\n\n\nMonday\nEasy\n30\n0\n\n\nTuesday\nA: shorter\n40\n18\n\n\nWednesday\nEasy\n30\n0\n\n\nThursday\nB: shorter\n40\n18\n\n\nFriday\nRest\n0\n0\n\n\nSaturday\nC: shorter\n40\n18\n\n\nSunday\nLonger easy\n60\n0\n\n\nTotal\n4 hours; 22.5% quality\n240\n54\n\n\n\n\n\n2.1.6 Full routine: five hours over seven days\nThis illustrates the full three-workout routine for someone already comfortable with about five hours over seven days and experienced in recovering between controlled workouts. Use the standard 50-minute versions of A, B, and C.\n\n\n\nDay\nSession\nRunning\nQuality\n\n\n\n\nMonday\nEasy\n30\n0\n\n\nTuesday\nA: short repetitions\n50\n24\n\n\nWednesday\nEasy\n30\n0\n\n\nThursday\nB: medium repetitions\n50\n24\n\n\nFriday\nEasy\n30\n0\n\n\nSaturday\nC: long repetitions\n50\n24\n\n\nSunday\nLonger easy\n60\n0\n\n\nTotal\n5 hours; 24% quality\n300\n72\n\n\n\nIf you already run this much but are learning the workouts, keep Saturday easy for a two-workout week, or keep Thursday and Saturday easy for a one-workout week. Running time remains 300 minutes; quality time becomes 48 or 24 minutes respectively. You can also use the shorter workout versions and accept a smaller weekly total.\n\n\n2.1.7 Larger week: seven hours\nFor someone who already sustains about seven hours and recovers well from three controlled workouts. Use the larger version of each card. This is a separate example, not a target to reach after the five-hour week.\n\n\n\nDay\nSession\nRunning\nQuality\n\n\n\n\nMonday\nEasy\n50\n0\n\n\nTuesday\nA: larger\n60\n30\n\n\nWednesday\nEasy\n50\n0\n\n\nThursday\nB: larger\n60\n30\n\n\nFriday\nEasy\n50\n0\n\n\nSaturday\nC: larger\n60\n30\n\n\nSunday\nLonger easy\n90\n0\n\n\nTotal\n7 hours; 21.4% quality\n420\n90\n\n\n\nWhen building toward a larger weekly total, add easy running before enlarging workouts. See Progression for what to change and what to hold steady.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Implementing the Method</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Plan your week & run the workouts</span>"
     ]
   },
   {
-    "objectID": "section2_implementing_the_method.html#quality-workouts-sub-threshold",
-    "href": "section2_implementing_the_method.html#quality-workouts-sub-threshold",
-    "title": "2  Implementing the Method",
-    "section": "2.2 Quality Workouts (Sub-Threshold)",
-    "text": "2.2 Quality Workouts (Sub-Threshold)\n\nFormat: Intervals with relatively short rest. Rest can be standing, walking, or slow jogging. The key is maintaining the sub-threshold effort during the work interval.\nVolume: Aim for total sub-threshold work to be 20-25% of your total weekly running time. Start conservatively (e.g., 20-25 mins total work per session) and build gradually. For lower weekly volumes (e.g., &lt;5 hours), maintaining 3 sessions might mean shorter workout durations.\nTime vs. Distance: Using time-based intervals (e.g., 10 x 3 min) instead of distance (e.g., 10 x 1k) ensures consistent workout duration regardless of pace, which can be beneficial for consistency and comparing load across different ability levels. However, distance-based intervals are also common.\nPacing: Remember LT2 is an effort level over time, not a fixed speed. Shorter intervals can be run slightly faster than longer intervals while maintaining the same sub-threshold physiological state. Use current fitness and monitoring tools (lactate, HR, power, RPE) to guide pace. Some athletes may also use specific calculators or guides, such as the Lactrace paceguide, to calculate optimal zones.\nExample Time-Based Workouts (adjust reps/duration based on total weekly time target):\n\n\n\nTime\nRepetitions\nPace Guide\nRest\n\n\n\n\n1 min\n25\n10k/CV pace\n30s\n\n\n3 min\n10-12\n15k pace\n60s\n\n\n5-6 min\n6-8\n15k pace\n60s\n\n\n6-8 min\n5-6\nHalf marathon pace\n60s\n\n\n10-12min\n3-4\nHM - 30k pace\n60-120s\n\n\n15min\n3-4\n30k pace\n90-120s\n\n\n\nExample Distance-Based Workouts (Paces are approximate guides, adjust based on individual LT2):\n\n\n\nDistance\nPace Guide\nRest\n\n\n\n\n3000m\n~25k-30k pace\n120s\n\n\n2000m\n~21.1k-25k pace\n90s\n\n\n1600m\n~10 mile pace\n60s-90s\n\n\n1000m\n~10k to &lt;15k pace\n60s\n\n\n\nVariety: While consistency is key, rotating through different interval formats (e.g., 10x1k Tue, 5x2k Thu, 3x3k Sat) can provide slightly different stimuli and prevent monotony. The physiological benefit difference between formats at the same sub-threshold state is debated, but variety is often beneficial psychologically.",
+    "objectID": "section2_implementing_the_method.html#session-cards",
+    "href": "section2_implementing_the_method.html#session-cards",
+    "title": "2  Plan your week & run the workouts",
+    "section": "2.2 Run your chosen workout",
+    "text": "2.2 Run your chosen workout\nA “session card” is simply a complete set of workout instructions. Use the card and version you chose for your own week. You do one version of one card on a workout day.\nRun the repetitions at a controlled effort: breathing more deeply than on an easy run, still able to say a short phrase, and finishing with enough left for another repetition. A recent race can help estimate pace, but you can start by effort alone. Use the pace and effort instructions for either route.\nJog very easily during the breaks; their purpose is to recover before the next repetition. Warm-up and cool-down times are included in each total. If you need more time to warm up, leave out some work or choose an easier run so the session still fits your day. There is no need to complete every repetition if the effort becomes strained.\n\n2.2.1 Intro: a 30-minute first workout\nFor a regular runner who comfortably handles 30-minute easy runs and wants to learn controlled repetitions. This is the workout used in the three-day example.\n\nRun easily for 10 minutes.\nRun for 3 minutes at a restrained, controlled effort, then jog very easily for 1 minute.\nRepeat that three-minute run and one-minute jog twice more. You have now done three repetitions and three recovery jogs.\nRun a fourth three-minute repetition, then go straight into 5 minutes of easy running to cool down.\n\nTime check: 10 + (4 x 3) + (3 x 1) + 5 = 30 minutes running; 12 minutes quality.\nThat is what “4 x 3 minutes with 1-minute recoveries” means: four work periods with three breaks between them. If you lose control of breathing or effort, slow down. If it still feels too hard, stop the repetitions and finish easily if comfortable. The aim of the first attempt is to learn the effort, not to prove you can finish all four.\n\n\n2.2.2 A: short repetitions\nA is the first workout in the example weeks. Its short repetitions give you frequent breaks to check your effort. Use it on whichever day you planned; the weekday does not change the workout.\nThe numbered instructions are the 50-minute version. If your week says “shorter” or “larger,” use that version below instead.\n\nRun easily for 10 minutes.\nRun 8 repetitions of 3 minutes at a controlled effort, using your starting pace estimate if you have one. Jog easily for 1 minute between repetitions.\nRun easily for 9 minutes to cool down.\n\nTime check: 10 + (8 x 3) + (7 x 1) + 9 = 50 minutes running; 24 minutes quality.\nShorter version: 40 minutes total. Warm up for 10 minutes, run 6 x 3 minutes with five 1-minute jogs, and cool down for 7 minutes.\nTime check: 10 + (6 x 3) + (5 x 1) + 7 = 40 minutes running; 18 minutes quality.\nLarger version: 60 minutes total. Warm up for 12 minutes, run 10 x 3 minutes with nine 1-minute jogs, and cool down for 9 minutes.\nTime check: 12 + (10 x 3) + (9 x 1) + 9 = 60 minutes running; 30 minutes quality.\nIf you are straining to finish the early repetitions or need longer breaks to hold the pace, slow down. Stop the work early if control does not return; keep the cool-down easy if you are well enough to continue.\n\n\n2.2.3 B: medium repetitions\nB is the second workout in the example weeks. Each repetition lasts six minutes, so you may need a slower pace than for A to keep the same controlled effort.\nThe numbered instructions are the 50-minute version. Use the shorter or larger version only when that is what you planned.\n\nRun easily for 12 minutes.\nRun 4 repetitions of 6 minutes at a controlled effort, with 1 minute of easy jogging between them.\nRun easily for 11 minutes to cool down.\n\nTime check: 12 + (4 x 6) + (3 x 1) + 11 = 50 minutes running; 24 minutes quality.\nShorter version: 40 minutes total. Warm up for 10 minutes, run 3 x 6 minutes with two 1-minute jogs, and cool down for 10 minutes.\nTime check: 10 + (3 x 6) + (2 x 1) + 10 = 40 minutes running; 18 minutes quality.\nLarger version: 60 minutes total. Warm up for 12 minutes, run 5 x 6 minutes with four 1-minute jogs, and cool down for 14 minutes.\nTime check: 12 + (5 x 6) + (4 x 1) + 14 = 60 minutes running; 30 minutes quality.\nIf each repetition becomes noticeably harder at the same pace, slow down before the next one. You should finish feeling able to do another repetition.\n\n\n2.2.4 C: long repetitions\nC is the third workout in the three-workout examples. “Long” refers to each repetition; this is different from your longer easy run. You may need a slower pace than for A or B to keep the effort controlled.\nThe numbered instructions are the 50-minute version. If using a pace estimate, choose it for the repetition length in your version: nine, ten, or twelve minutes.\n\nRun easily for 12 minutes.\nRun 2 repetitions of 12 minutes at a controlled effort, with 1 minute of easy jogging between them.\nRun easily for 13 minutes to cool down.\n\nTime check: 12 + (2 x 12) + (1 x 1) + 13 = 50 minutes running; 24 minutes quality.\nShorter version: 40 minutes total. Warm up for 10 minutes, run 2 x 9 minutes with a 1-minute jog between them, and cool down for 11 minutes.\nTime check: 10 + (2 x 9) + (1 x 1) + 11 = 40 minutes running; 18 minutes quality.\nLarger version: 60 minutes total. Warm up for 12 minutes, run 3 x 10 minutes with two 2-minute jogs, and cool down for 14 minutes.\nTime check: 12 + (3 x 10) + (2 x 2) + 14 = 60 minutes running; 30 minutes quality.\nIf the first block already feels like a race effort, slow down or end the quality work. The recovery should let you restart smoothly; it does not make an excessive pace appropriate.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Implementing the Method</span>"
-    ]
-  },
-  {
-    "objectID": "section2_implementing_the_method.html#getting-started-progression",
-    "href": "section2_implementing_the_method.html#getting-started-progression",
-    "title": "2  Implementing the Method",
-    "section": "2.3 Getting Started & Progression",
-    "text": "2.3 Getting Started & Progression\n\nBeginners: If new to structured intensity, start with 2 quality sessions per week instead of 3. Focus first on building consistent weekly volume you can sustain, then gradually increase the duration/reps of the quality sessions or add the third session.\nIncrease the duration or number of sub-threshold reps slowly.\nIncrease overall weekly running time (mostly via easy runs) proportionally to maintain the ~75/25 easy/quality split.\nRegularly update target paces/HR zones based on recent (within 4-8 weeks) races or time trials.\nMonitor Training Load (see below) and listen to your body.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Implementing the Method</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Plan your week & run the workouts</span>"
     ]
   },
   {
     "objectID": "section2_implementing_the_method.html#progression",
     "href": "section2_implementing_the_method.html#progression",
-    "title": "2  Implementing the Method",
-    "section": "2.4 Progression",
-    "text": "2.4 Progression\n\nIncrease the duration or number of sub-threshold reps slowly.\nIncrease overall weekly running time (mostly via easy runs) proportionally to maintain the ~75/25 easy/quality split.\nRegularly update target paces/HR zones based on recent (within 4-8 weeks) races or time trials.\nMonitor Training Load (see below) and listen to your body.",
+    "title": "2  Plan your week & run the workouts",
+    "section": "2.3 Progression",
+    "text": "2.3 Progression\nKeep your chosen week while you learn how you respond. Staying with one or two workouts is a valid choice. Before considering more running or more work, look for these signs across repeated weeks:\n\nYou finish the repetitions under control, with enough left for another.\nYour usual easy runs feel easy again, without unusual fatigue carrying into the next workout.\nSoreness is not accumulating, and your sleep and energy in daily life are normal for you.\nThe routine fits your available time without repeatedly cutting recovery or missing runs.\n\nOne good workout is not enough to judge all of this. If any of these checks are missing, repeat a smaller week or replace a workout with easy running. There is no required date for moving on.\n\n2.3.1 Change one thing at a time\n\n\n\n\n\n\n\n\nWhat you want to change\nWhat to do\nWhat stays the same\n\n\n\n\nRun a little more\nAdd some easy time to one existing run, then check recovery\nWorkout count, repetitions, and pace\n\n\nDo a little more controlled work\nReplace some easy minutes in your week with controlled work, then repeat and assess\nWeekly running time, other workouts, and pace\n\n\nAdd another workout\nReplace an existing easy run only after the present routine is consistently manageable\nTotal running time and the other workouts\n\n\nUpdate pace after a representative race\nTry the revised estimate, checking breathing and effort\nRepetition count and weekly time\n\n\nRecover from a difficult week\nShorten a workout, make it easy, or rest\nNo requirement to increase anything\n\n\n\nFor example, a runner comfortable with the four-day week might extend Wednesday’s easy run from 40 to 45 minutes. The total becomes 185 minutes, with the same 36 quality minutes. Repeat that arrangement and check recovery before changing anything else. Five extra minutes illustrates one small change; it is not a weekly increase rule.\nFor an example of adding work while keeping weekly running time unchanged, suppose a runner is comfortable with the introductory workout and has four extra minutes available on that workout day. They might change its four three-minute repetitions to five. Keep the 10-minute warm-up, use four one-minute recovery jogs, and finish with 5 minutes easy. The session now takes 34 minutes, including 15 quality minutes. In the three-day example, shortening Saturday’s easy run from 30 to 26 minutes keeps the week at 90 minutes. This is an optional later adjustment, not a required next step. If the workout day has a firm 30-minute limit, keep the original version.\nAdding an entire workout is a bigger change. In the five-hour example, changing Saturday from easy to standard C raises quality time from 48 to 72 minutes, even though total running time stays at 300. Do not treat unchanged weekly minutes as unchanged difficulty. Use less work first if needed, or remain on two workouts.\nA cool day after weeks of heat can produce faster running at the same effort without proving a new fitness level. Compare similar conditions and repeated sessions before changing a pace estimate. A race used to check fitness replaces a workout and needs recovery.\nIf progress stalls, work through the recovery and execution checks before adding training.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Implementing the Method</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Plan your week & run the workouts</span>"
     ]
   },
   {
-    "objectID": "section3_training_load.html",
-    "href": "section3_training_load.html",
-    "title": "3  Training Load (CTL/TSS)",
-    "section": "",
-    "text": "3.1 Concept\nTraining Stress Score (TSS) or similar metrics attempt to quantify the stress of a single workout based on duration and intensity relative to your threshold. Chronic Training Load (CTL) is a rolling average (often 42 days, exponentially weighted) of daily TSS, representing your fitness or sustainable load.",
+    "objectID": "section2_implementing_the_method.html#count-the-time",
+    "href": "section2_implementing_the_method.html#count-the-time",
+    "title": "2  Plan your week & run the workouts",
+    "section": "2.4 Understanding the time totals",
+    "text": "2.4 Understanding the time totals\nFor a basic log, record total running minutes and the minutes spent on work repetitions. Quality minutes are already included in running minutes. You do not need a percentage calculation to run the workouts.\nFor readers comparing plans, quality share means quality minutes divided by total running minutes. The full five-hour example has 72 quality minutes out of 300 running minutes: 72 / 300 x 100 = 24%. Easy runs, warm-ups, cool-downs, and jogging recoveries all count as running.\nAround 20-25% is a planning range discussed in the method, not a minimum to meet or a guarantee that a week suits you. Introductory weeks can sit below it. These percentages also differ from a watch’s time-in-heart-rate-zones report. Sirpoc discusses the balance in post #478.\n\n2.4.1 If you walk or stand during recoveries\nThe example cards assume jogging recoveries. A set of eight repetitions has seven breaks, followed immediately by the cool-down. If you walk or stand for those breaks, the clock still runs, but this guide does not count those minutes as running.\nFor example, standard A still takes 50 minutes from start to finish if you stand for all seven one-minute breaks. It then has 43 minutes running and 24 minutes quality. Record the actual running time if comparing weekly totals. For planning your diary, reserve the full 50 minutes either way.\nRaces and faster workouts also affect recovery, even though their hard minutes are not sub-threshold work. Log them separately and adjust the week, rather than trying to preserve the usual quality percentage.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training Load (CTL/TSS)</span>"
-    ]
-  },
-  {
-    "objectID": "section3_training_load.html#application-correlation-with-performance",
-    "href": "section3_training_load.html#application-correlation-with-performance",
-    "title": "3  Training Load (CTL/TSS)",
-    "section": "3.2 Application & Correlation with Performance",
-    "text": "3.2 Application & Correlation with Performance\nThis method allows for accumulating a high Chronic Training Load (CTL) due to the repeatability of sub-threshold work. Research and anecdotal evidence strongly suggest a correlation between the highest sustained CTL an athlete can manage and their race performance potential (as illustrated conceptually in the provided document’s graph showing Critical Power vs. Sustained CTL). While not a perfect predictor, and absolute CTL values aren’t directly comparable between individuals, tracking your own CTL trend is a key indicator of fitness progression. The goal is to maximize sustainable load over time.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training Load (CTL/TSS)</span>"
-    ]
-  },
-  {
-    "objectID": "section3_training_load.html#intensity-management-equivalent-stress",
-    "href": "section3_training_load.html#intensity-management-equivalent-stress",
-    "title": "3  Training Load (CTL/TSS)",
-    "section": "3.3 Intensity Management & Equivalent Stress",
-    "text": "3.3 Intensity Management & Equivalent Stress\n\nBalancing Load: The aim is to find the “green zone” (as conceptualized in the provided document) – a level of weekly sub-threshold work that maximizes stimulus without inducing excessive fatigue or hindering recovery for subsequent sessions. This allows for consistent high-quality training week after week.\nEquivalent Stress: Different sub-threshold workout structures (e.g., varying interval length, rest, and pace slightly) can be designed to elicit a similar overall training stress or stimulus (as explored in the document’s ANNEX A). This allows for variety in training while maintaining a consistent load on the body. For example, a session of 10x1000m with shorter rest might be physiologically similar in stress to 3x3000m with longer rest, provided both are executed at the appropriate sub-threshold intensity for that duration.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training Load (CTL/TSS)</span>"
-    ]
-  },
-  {
-    "objectID": "section3_training_load.html#tracking-tools",
-    "href": "section3_training_load.html#tracking-tools",
-    "title": "3  Training Load (CTL/TSS)",
-    "section": "3.4 Tracking Tools",
-    "text": "3.4 Tracking Tools\nTools like Intervals.icu, TrainingPeaks, or Runalyze calculate TSS/CTL. Consistent data input (accurate threshold values, chosen metric) is key. Pace-based TSS (rTSS) is often preferred for consistency if running routes/conditions are stable, but requires accurate threshold pace updates. Heart rate-based TSS (hrTSS) or power-based TSS can also be used, depending on your primary intensity monitoring method.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training Load (CTL/TSS)</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html",
-    "href": "section4_individualization_considerations.html",
-    "title": "4  Individualization & Considerations",
-    "section": "",
-    "text": "4.1 Pace Setting & Tools\nUse current fitness. Erring slightly slower is safer than going too fast, especially initially. Some find commonly suggested paces too fast and need to adjust significantly downwards based on lactate or HR, particularly if more fast-twitch dominant or less aerobically developed.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#pace-setting-tools",
-    "href": "section4_individualization_considerations.html#pace-setting-tools",
-    "title": "4  Individualization & Considerations",
-    "section": "",
-    "text": "Pace as a Guide: Remember that paces are guides; the internal effort/load (monitored via lactate, HR, power, RPE) is the primary target. The relationship between pace and effort can vary daily due to factors like fatigue, weather, etc.\nCalculators & Estimators: Tools like VDOT calculators, lactate threshold analyzers, race result predictors, or specific calculators (like the Excel sheet or HR calculator mentioned in the source document) can provide useful starting points for estimating appropriate sub-threshold paces or HR zones based on recent performance data. However, these are still estimates and should be validated with internal monitoring methods.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#heathumidity",
-    "href": "section4_individualization_considerations.html#heathumidity",
-    "title": "4  Individualization & Considerations",
-    "section": "4.2 Heat/Humidity",
-    "text": "4.2 Heat/Humidity\nEnvironmental conditions drastically affect performance. Significantly slow down paces in heat/humidity to maintain the correct sub-threshold effort. HR becomes less reliable as a guide in these conditions due to cardiac drift caused by heat stress. Focus on RPE and adjust pace downwards as needed.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#racingtime-trials",
-    "href": "section4_individualization_considerations.html#racingtime-trials",
-    "title": "4  Individualization & Considerations",
-    "section": "4.3 Racing/Time Trials",
-    "text": "4.3 Racing/Time Trials\nFrequent racing (e.g., parkruns) or time trials (e.g., 3k-5k every 4-8 weeks) are highly recommended. They provide neuromuscular stimulus, help break plateaus, allow practice at race effort (“remembering how to hurt”), and provide benchmarks to update training paces. Initial races after a long block of only sub-T work might feel flat or sluggish (“racing rust”) before the body readjusts to higher intensities.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#adaptation-time-stagnation-consistency",
-    "href": "section4_individualization_considerations.html#adaptation-time-stagnation-consistency",
-    "title": "4  Individualization & Considerations",
-    "section": "4.4 Adaptation Time, Stagnation & Consistency",
-    "text": "4.4 Adaptation Time, Stagnation & Consistency\nExpect 4-8 weeks (or longer, especially for FT types or those new to structured training) to adapt. Significant breakthroughs often occur after longer periods of consistent application (3-6+ months). Periods of apparent stagnation are common and often precede performance jumps. Consistency through these phases is crucial.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#muscle-fiber-type",
-    "href": "section4_individualization_considerations.html#muscle-fiber-type",
-    "title": "4  Individualization & Considerations",
-    "section": "4.5 Muscle Fiber Type",
-    "text": "4.5 Muscle Fiber Type\nThe method appears very effective for slow-twitch (ST) dominant runners. More fast-twitch (FT) runners might still benefit significantly but may need careful load management, potentially slower paces initially, a longer adaptation period, or consider replacing one Q session with hills/strides if plateaus occur, though the core method is often sufficient even for FT types.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#long-run",
-    "href": "section4_individualization_considerations.html#long-run",
-    "title": "4  Individualization & Considerations",
-    "section": "4.6 Long Run",
-    "text": "4.6 Long Run\n75-90 mins easy is often adequate for 5k-HM focus. Its role is primarily recovery and contributing to overall volume, rather than being a key high-stress workout itself. Marathon training requires longer runs (see below).",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#speed-workstridesstrength",
-    "href": "section4_individualization_considerations.html#speed-workstridesstrength",
-    "title": "4  Individualization & Considerations",
-    "section": "4.7 Speed Work/Strides/Strength",
-    "text": "4.7 Speed Work/Strides/Strength\nThe core method often excludes specific speed work or strength training. Neuromuscular stimulus comes from sub-T paces and occasional races/TTs. Strides (e.g., 6-8 x 15-30s) can be added 1-2 times per week after easy runs if desired, typically without compromising recovery. Some FT athletes might benefit more from strides or occasional short hill sprints (e.g., 6-10 x 8-10s). Strength training is debated; some find it beneficial for injury prevention or power, while others find it adds too much fatigue and compromises the 3x weekly quality sessions. Sirpoc’s success without strength/strides is notable. If included, keep it light and ensure it doesn’t impede recovery for running workouts.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#fueling",
-    "href": "section4_individualization_considerations.html#fueling",
-    "title": "4  Individualization & Considerations",
-    "section": "4.8 Fueling",
-    "text": "4.8 Fueling\nAdequate carbohydrate intake is important to support the 3x weekly quality sessions and prevent glycogen depletion. Fuel well before and particularly in the hours after sub-T sessions. Increased training load may require increased overall caloric intake.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#cross-training",
-    "href": "section4_individualization_considerations.html#cross-training",
-    "title": "4  Individualization & Considerations",
-    "section": "4.9 Cross-Training",
-    "text": "4.9 Cross-Training\nCan be used to supplement volume or substitute sessions during injury recovery, mimicking the E-Q-E-Q-E-Q-LR structure using modalities like cycling, elliptical, or arc trainer, focusing on similar durations and sub-threshold efforts.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section4_individualization_considerations.html#alternative-monitoring-methods",
-    "href": "section4_individualization_considerations.html#alternative-monitoring-methods",
-    "title": "4  Individualization & Considerations",
-    "section": "4.10 Alternative Monitoring Methods",
-    "text": "4.10 Alternative Monitoring Methods\nFor athletes who don’t have access to lactate meters, several alternatives can help monitor sub-threshold training intensity:\nSuunto ZoneSense uses HRV and a proprietary DDFA algorithm to determine LT1/LT2 thresholds in real-time. Requires a recent Suunto watch (9 Peak or newer) paired with an RR interval chest strap (Polar H10, Garmin HRM). Works well for longer intervals (3+ minutes) but needs steady-state efforts for accuracy, making it less suitable for shorter intervals like 10x1k.\nTymewear VitalPro (~$299) combines heart rate and respiratory rate monitoring to identify ventilatory thresholds (VT1/VT2), which correlate with LT1/LT2. Uses a 4-zone model where the top of zone 3/bottom of zone 4 represents the Norwegian Singles sweet spot. Requires smartphone app for data viewing and works best with post-workout analysis to refine pacing.\nCritical Power (CP) requires a running power meter (Stryd ~$200, or watch-based estimates from Garmin/Polar). Test CP using 3-min/12-min or 20-min protocols, then target 85-95% CP for sub-threshold intervals (shorter intervals ~90-95% CP, longer intervals ~80-85% CP). Power provides consistent guidance across varying conditions but accuracy varies between devices.\nTalk Test is a free method using breathing patterns and conversation ability. At sub-threshold pace, you should be able to speak 3-5 words between breaths with controlled but elevated breathing. It should feel “comfortably hard” - if unable to speak at all, intensity is too high.\nEnhanced RPE uses a detailed 1-10 scale: 4-5 (too easy), 5-6 (target “comfortably hard” zone), 6-7 (upper sustainable limit), 7+ (too hard, decrease pace). Best combined with regular time trials for calibration.\nTraining Apps like TrainingPeaks, Strava Premium, or HRV4Training analyze workout data patterns over time to estimate threshold zones. Most effective when combined with periodic time trials for validation.\nComparison of Methods\n\n\n\nMethod\nCost\nReal-time\nAccuracy\nEase of Use\n\n\n\n\nLactate Meter\n$200-400\nNo\nHighest\nModerate\n\n\nSuunto ZoneSense\n$400-600\nYes\nHigh\nHigh\n\n\nTymewear VitalPro\n$299\nLimited\nHigh\nModerate\n\n\nPower Meter\n$200-400\nYes\nHigh\nModerate\n\n\nTalk Test\nFree\nYes\nModerate\nHigh\n\n\nEnhanced RPE\nFree\nYes\nModerate\nHigh",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
-    ]
-  },
-  {
-    "objectID": "section5_applicability_distances.html",
-    "href": "section5_applicability_distances.html",
-    "title": "5  Applicability to Different Distances",
-    "section": "",
-    "text": "5.1 5k to Half Marathon\nThis method, focusing on sub-threshold work, is primarily designed for the general preparation phase of training, building a strong aerobic base. Its direct applicability varies slightly by race distance:\nThis is the sweet spot where the method seems most directly applicable and has shown significant success for many hobby joggers. Regular racing/TTs provide sufficient speed stimulus.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
-    ]
-  },
-  {
-    "objectID": "section5_applicability_distances.html#mmile",
-    "href": "section5_applicability_distances.html#mmile",
-    "title": "5  Applicability to Different Distances",
-    "section": "5.2 1500m/Mile",
-    "text": "5.2 1500m/Mile\nThe strong aerobic base built is highly beneficial. May be sufficient on its own, with races providing speed stimulus. Some suggest adding strides, weekly hill sprints (e.g., 10x30s), or replacing a Q session with faster reps (e.g., 300s/400s at race pace) periodically or in a pre-competition phase.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
-    ]
-  },
-  {
-    "objectID": "section5_applicability_distances.html#m",
-    "href": "section5_applicability_distances.html#m",
-    "title": "5  Applicability to Different Distances",
-    "section": "5.3 800m",
-    "text": "5.3 800m\nLikely requires more specific speed, power, and anaerobic capacity work than this method provides. While the aerobic base is helpful, dedicated 800m training approaches are probably more suitable.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
-    ]
-  },
-  {
-    "objectID": "section5_applicability_distances.html#marathon",
-    "href": "section5_applicability_distances.html#marathon",
-    "title": "5  Applicability to Different Distances",
-    "section": "5.4 Marathon",
-    "text": "5.4 Marathon\nApplying the core 3x weekly sub-T structure requires adaptation for the marathon. Common strategies include:\n\nExtending the Long Run: Gradually increasing the duration, often towards 2-3 hours, primarily at an easy effort.\nIncorporating Quality into the LR: Some runners integrate sub-threshold or marathon pace (MP) work towards the end of the long run, such as 3 x 10 minutes @ HMP with short rests, or a continuous 30-minute block @ MP. This is often done instead of a mid-week quality session.\nLonger Sub-Threshold Reps: Replacing standard sessions with longer intervals like 3x5k, 4x5k, or even 5x5k at sub-threshold effort, particularly in the later stages of the marathon block.\nMarathon Pace Workouts: Introducing specific MP workouts, sometimes as tempos (e.g., 10k @ MP) within a medium-long run, especially closer to the race.\nFueling/Hydration Practice: These longer sessions are crucial for practicing race-day nutrition and hydration strategies. Consistency and high volume remain vital, but marathon-specific long runs and targeted MP work are generally considered necessary additions or modifications to the base ‘singles’ structure.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
-    ]
-  },
-  {
-    "objectID": "section5_applicability_distances.html#ultramarathons",
-    "href": "section5_applicability_distances.html#ultramarathons",
-    "title": "5  Applicability to Different Distances",
-    "section": "5.5 Ultramarathons",
-    "text": "5.5 Ultramarathons\nEven more experimental. Requires very high volume and race-specific long runs (back-to-backs, runs with significant elevation). Some might experiment with double-threshold days (e.g., AM track session, PM uphill treadmill session) but this significantly increases load and risk. Logistics like fueling, hydration, and gear become critical.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
-    ]
-  },
-  {
-    "objectID": "section5_applicability_distances.html#cadenceform",
-    "href": "section5_applicability_distances.html#cadenceform",
-    "title": "5  Applicability to Different Distances",
-    "section": "5.6 Cadence/Form",
-    "text": "5.6 Cadence/Form\nRunning form, including cadence, is highly individual. While some proponents of this method exhibit very high cadence (e.g., &gt;200 spm during races), it’s generally considered an outcome of training and individual biomechanics rather than a specific target to manipulate. Focusing on consistent, controlled effort is more important than consciously altering form aspects like cadence, which may not be necessary or beneficial for all runners.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
-    ]
-  },
-  {
-    "objectID": "section5_applicability_distances.html#note-on-peaking",
-    "href": "section5_applicability_distances.html#note-on-peaking",
-    "title": "5  Applicability to Different Distances",
-    "section": "5.7 Note on Peaking",
-    "text": "5.7 Note on Peaking\nWhile this method forms a strong base, specific race preparation (“peaking”) might involve introducing higher intensity workouts (e.g., VO2max intervals, race pace work) closer to a key event, depending on the distance and individual needs. This is typically considered a separate phase built upon the foundation laid by consistent sub-threshold training.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Plan your week & run the workouts</span>"
     ]
   },
   {
     "objectID": "section6_benefits_monitoring.html",
     "href": "section6_benefits_monitoring.html",
-    "title": "6  Benefits and Monitoring",
+    "title": "3  Adjust your week",
     "section": "",
-    "text": "6.1 Pros",
+    "text": "3.1 Start with a simple log\nAfter each run, record how many minutes you ran, how many of those were controlled repetitions, and how the run felt. Note anything that affected it, such as heat or poor sleep. The counting convention applies here too. A notebook is enough.\nThis log follows the three-day example. Add the recovery note the next day; you cannot know it at the end of the workout.\nLook for patterns across sessions. A single pace, heart-rate reading, or dashboard colour cannot tell you whether the week is working. Optional load metrics can add context once the basic log is useful.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Benefits and Monitoring</span>"
-    ]
-  },
-  {
-    "objectID": "section6_benefits_monitoring.html#pros",
-    "href": "section6_benefits_monitoring.html#pros",
-    "title": "6  Benefits and Monitoring",
-    "section": "",
-    "text": "Physiological: Delays the onset of acidosis, expands aerobic capacity, shifts lactate curve rightward.\nPerformance: High sustainable training load potential, leading to consistent PBs across various distances (especially 5k-HM).\nSustainability: Reduced injury risk and burnout compared to traditional high-intensity or VO2max-focused plans (assuming intensity is properly controlled).\nPracticality: Effective for time-crunched runners (5-9 hours/week often cited), repeatable and relatively simple structure.\nDemographics: Notably effective for masters athletes seeking continued improvement.",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Benefits and Monitoring</span>"
-    ]
-  },
-  {
-    "objectID": "section6_benefits_monitoring.html#cons",
-    "href": "section6_benefits_monitoring.html#cons",
-    "title": "6  Benefits and Monitoring",
-    "section": "6.2 Cons",
-    "text": "6.2 Cons\nThis approach requires discipline to control intensity, it can be monotonous for some people, it places less focus on top-end speed/VO2max (may need occasional strides/races), the adaptation takes time, and it may involve plateaus.\nAround 8-9 hours per week, you might find that you’re running out of low-risk headroom with this approach. Running three easy runs per week for more than an hour each starts raising the injury risk, as does running more than 40-50 minutes or 10-12k for quality intervals. To spread out the risk, doubles might be a safer approach versus adding more time or distance to single runs.",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Benefits and Monitoring</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adjust your week</span>"
     ]
   },
   {
     "objectID": "section6_benefits_monitoring.html#monitoring",
     "href": "section6_benefits_monitoring.html#monitoring",
-    "title": "6  Benefits and Monitoring",
-    "section": "6.3 Monitoring",
-    "text": "6.3 Monitoring\nUse regular (4-8 weeks) races or time trials (e.g., 5k) to gauge fitness and update training zones/paces. Track CTL to monitor load progression relative to your history. Listen to your body for signs of excessive fatigue or needing to adjust intensity down (RPE, motivation, recovery between sessions, sleep quality).\nIf training by power, executing regular critical power (CP) tests can be done in place of races. To get a valid CP representing your current fitness, testing in the 2-3 minute, 8-12 minute, and 20-40 minute domains is recommended. Common tests are the 3-min/12-min CP test and 20-min time trial. An increased CP over time is evidence of progress.",
+    "title": "3  Adjust your week",
+    "section": "",
+    "text": "Entry\nExample\n\n\n\n\nSession\nWednesday, introductory workout\n\n\nRunning / quality\n30 minutes total, including 12 minutes of repetitions\n\n\nEffort\nControlled early; harder in the last two repetitions\n\n\nConditions\nWarmer than usual\n\n\nRecovery\nPoor sleep; legs still heavy the next morning\n\n\nNext decision\nKeep Thursday as rest; check recovery before Saturday’s easy run",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Benefits and Monitoring</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adjust your week</span>"
+    ]
+  },
+  {
+    "objectID": "section6_benefits_monitoring.html#adjust-your-week",
+    "href": "section6_benefits_monitoring.html#adjust-your-week",
+    "title": "3  Adjust your week",
+    "section": "3.2 Adjust your week",
+    "text": "3.2 Adjust your week\n\n3.2.1 You missed a session\nKeep the next run as planned, provided you have recovered. In the three-day example, missing Wednesday’s introductory workout means Saturday stays easy. There is no need to catch up on the repetitions.\nIn a week with more workouts, the same rule applies: if Tuesday’s workout is missed, keep Wednesday easy and do Thursday’s planned workout only if you feel ready. Moving Tuesday’s work to Wednesday would put two workouts on consecutive days.\nAfter several missed days, begin with easy running that feels comfortable now. Reintroduce a workout when those runs feel normal, using a smaller week if needed.\n\n\n3.2.2 Your legs feel unusually heavy\nReview what changed: faster repetitions, more running, a race, heat, strength work, or less sleep. Make the next quality day easy or rest, then reassess. If normal easy running still feels unusually hard, keep reducing the load until easy running feels normal again.\nFor example, in the five-hour week, replacing Thursday’s 50-minute quality session with 30 minutes easy produces 280 minutes running and 48 minutes quality. Saturday is conditional on recovery; cancel or shorten it if the fatigue persists. This is a worked adjustment, not a requirement to complete the remaining quality minutes.\n\n\n3.2.3 You have pain or are ill\nStop a session if pain changes how you run or worsens as you continue. Rest when illness makes training inappropriate, and seek medical advice for persistent or concerning symptoms. Do not use a lower calculated pace as permission to train through them. When returning, begin with comfortable easy running and rebuild from what you can do now. Missed work does not need to be recovered.\n\n\n3.2.4 You have less time this week\nFor example, if Friday becomes unavailable in the four-day week, skip Friday’s B workout. Keep Monday’s A, Wednesday easy, and Sunday easy if recovered. Your week becomes 140 running minutes, including 18 quality minutes. Saturday remains a rest day; you do not need to move the missed workout there.\nRemove a quality session before trying to fit several demanding days together. A shorter version of a session is another option when there is enough time to warm up and cool down. Reduce the week as a whole if necessary; running fewer minutes is preferable to compressing the entire schedule into consecutive hard days.\n\n\n3.2.5 A good dashboard disagrees with how you feel\nAct on the poor recovery. Check recent pace and volume changes, then replace the next workout with easy running or rest. A training-load score estimates the amount of training you have recorded; it does not measure whether your legs, sleep, and daily life are coping with it.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adjust your week</span>"
+    ]
+  },
+  {
+    "objectID": "section6_benefits_monitoring.html#stagnation",
+    "href": "section6_benefits_monitoring.html#stagnation",
+    "title": "3  Adjust your week",
+    "section": "3.3 When progress stalls",
+    "text": "3.3 When progress stalls\nBefore adding training, compare like with like. A hot race on a hilly route is a poor test of progress against a cool, flat one. Review whether the recent result reflects comparable conditions and preparation.\nThen check the routine. Are easy days easy enough? Have repetitions become faster than the plan? Did you add quality work, long-run time, and strength work together? Have sleep or meals become less consistent? Correct the problem you find and repeat a manageable week before making another change.\nIf your workouts and recovery look good, keep the same amount of training for now. Use a later race or time trial to assess progress, with recovery planned around it. A prolonged unexplained decline or persistent fatigue warrants further assessment.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adjust your week</span>"
+    ]
+  },
+  {
+    "objectID": "section6_benefits_monitoring.html#recovery",
+    "href": "section6_benefits_monitoring.html#recovery",
+    "title": "3  Adjust your week",
+    "section": "3.4 Food, sleep, and life outside running",
+    "text": "3.4 Food, sleep, and life outside running\nMake room for regular meals and enough food to support the running you do. Carbohydrate-containing meals and snacks around demanding days can help you arrive fueled and replenish afterward. Practise eating and drinking during longer runs before relying on a strategy in a race.\nAllow enough time for sleep regularly and account for work, caring responsibilities, and other demands when choosing a week. If these demands increase, holding or reducing training is a practical adjustment. Weight loss and calorie restriction are not part of this guide’s training progression. The IOC consensus on low energy availability provides background on the risks when intake does not meet exercise demands.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adjust your week</span>"
+    ]
+  },
+  {
+    "objectID": "section6_benefits_monitoring.html#pros",
+    "href": "section6_benefits_monitoring.html#pros",
+    "title": "3  Adjust your week",
+    "section": "3.5 What to expect",
+    "text": "3.5 What to expect\nThe appeal of this approach is a familiar routine with controlled workouts and modest equipment needs. Repetition can also become monotonous, and keeping effort under control takes practice. There is no promised date for a personal best, and the schedule cannot guarantee freedom from injury.\nUse Progression when your current week meets its recovery checks, or Race adaptations when preparing for an event.\nYou now have the instructions needed to plan a week, run a workout, and decide what to do afterward. The chapters on tools, training scores, and comparisons are optional; return to them if you have a question they can help answer.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adjust your week</span>"
+    ]
+  },
+  {
+    "objectID": "section5_applicability_distances.html",
+    "href": "section5_applicability_distances.html",
+    "title": "4  Race adaptations",
+    "section": "",
+    "text": "4.1 A race replaces a workout\nThe ordinary week is repeatable training. When you enter a race or run a hard time trial (a timed effort to test your fitness), it becomes a demanding session with its own recovery needs. Replace planned quality work and adjust the following days. If you follow a smaller week, adapt your own calendar. A race can fall on a usual rest day: let it replace an ordinary run that week, remove nearby workouts as needed, and allow recovery afterward. The table below does not require you to adopt all of its running days.\nHere is an editorial example for an established runner doing a Saturday 5 km race. It illustrates the change from the standard week, not a universal taper (a reduction in training before a race). Thursday becomes easy, and the race replaces Saturday’s card C. The remaining workout uses shorter card A.\nRunning time is 155 minutes plus the race duration, or 185 minutes plus the race duration if you run on Sunday. Only 18 minutes are planned sub-threshold work; log the race separately as hard running. These are alternatives, not a fixed weekly total or a normal quality-share target.\nResume quality work when easy running feels normal again. A longer race may require substantially more recovery than this example. Use the result to update the pace guide only if it represents current fitness, accounting for terrain, weather, and how you paced it.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Race adaptations</span>"
+    ]
+  },
+  {
+    "objectID": "section5_applicability_distances.html#race-week",
+    "href": "section5_applicability_distances.html#race-week",
+    "title": "4  Race adaptations",
+    "section": "",
+    "text": "Day\nPlan\n\n\n\n\nMonday\n30 minutes easy\n\n\nTuesday\nShorter card A: 40 minutes total, 18 minutes sub-threshold work\n\n\nWednesday\n30 minutes easy\n\n\nThursday\n30 minutes easy instead of card B\n\n\nFriday\nRest\n\n\nSaturday\n15 minutes easy warm-up, the 5 km race, then 10 minutes easy cool-down if comfortable\n\n\nSunday\nRest, or 30 minutes easy if recovered; no obligation to complete the usual longer run",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Race adaptations</span>"
+    ]
+  },
+  {
+    "objectID": "section5_applicability_distances.html#5k-to-half-marathon",
+    "href": "section5_applicability_distances.html#5k-to-half-marathon",
+    "title": "4  Race adaptations",
+    "section": "4.2 5 km to half marathon",
+    "text": "4.2 5 km to half marathon\nThe singles routine is commonly used for these distances. The longer easy run still needs to fit the runner and event. A runner preparing for a first half marathon may need a different endurance build-up from someone who already handles the distance comfortably.\nKeep routine racing within the week’s workload. A race every weekend is a recurring change to the method, since it replaces one of the controlled quality days. For a priority event, allow recovery before it and plan the return afterward.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Race adaptations</span>"
+    ]
+  },
+  {
+    "objectID": "section5_applicability_distances.html#marathon",
+    "href": "section5_applicability_distances.html#marathon",
+    "title": "4  Race adaptations",
+    "section": "4.3 Marathon",
+    "text": "4.3 Marathon\nTreat a marathon block as a separate adaptation. Start with regular running, experience recovering from longer runs, and enough preparation time to extend them gradually. If the normal singles week is already difficult to recover from, stabilize it before adding marathon demands.\nA longer run consumes part of the week’s time and recovery budget. Lengthen it gradually from what you already tolerate, while holding back or reducing other work. Practise the food and drink you expect to use in the race during suitable longer runs. Choose pace from current endurance and recent training, not just a target finishing time.\n\n4.3.1 Which marathon pace should you use?\n\nSub-threshold repetition pace belongs to the repetition length and recovery in the session guide.\nCurrent marathon pace is an estimate of what your present endurance supports over the marathon distance. A short-race prediction needs to be considered alongside your longer-run preparation.\nGoal marathon pace is an aspiration. It becomes useful for training only when your current preparation supports it.\n\nIf a marathon-paced block starts to feel like hard threshold work, reduce the pace or make the rest easy. Do not force goal pace after illness or a break simply because it appears in a plan.\n\n\n4.3.2 A complete week with a longer run\nThis editorial example keeps the larger week’s seven-hour budget. It is for a runner who has already built up to a comfortable two-hour easy run. Tuesday and Thursday use the standard cards, Saturday becomes easy, and Sunday’s longer run becomes the main endurance session of the week instead of a third interval workout.\n\n\n\nDay\nSession\nRunning\nQuality\n\n\n\n\nMonday\nEasy\n50\n0\n\n\nTuesday\nA: short repetitions\n50\n24\n\n\nWednesday\nEasy\n50\n0\n\n\nThursday\nB: medium repetitions\n50\n24\n\n\nFriday\nEasy\n50\n0\n\n\nSaturday\nEasy\n50\n0\n\n\nSunday\nLonger easy; practise fueling\n120\n0\n\n\nTotal\n7 hours; 11.4% quality\n420\n48\n\n\n\nKeeping the same total minutes does not make a two-hour run equivalent to spreading that time over the week. Build toward it separately, and shorten other sessions further if recovery requires it. This is an example of redistributing a week, not a complete marathon plan or a requirement to stop long-run progression at two hours.\nIf a marathon plan includes stretches at marathon pace within the long run, those stretches replace other demanding work. In the example above, Saturday’s quality session is already removed; the remaining midweek work may also need reduction. Avoid adding long stretches at marathon pace to this example without the progression and recovery described by the plan you are following. Pfitzinger’s coaching guidance is one source for marathon-specific planning; its approach is distinct from the ordinary singles routine.\n\n\n4.3.3 Scale the time, not just the distance\nA 5 km repetition takes 20 minutes at 4:00/km and 30 minutes at 6:00/km. Five such repetitions would be 100 or 150 minutes of work before warm-up and recovery. Copying the distance can therefore produce a very different session.\nCheck work duration, total session time, and what the workout replaces in the week. Use a time-scaled version only within a plan that supports that dose. These calculations explain why a large workout discussed online may be far too much for your week. Do not add it to your ordinary workouts.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Race adaptations</span>"
+    ]
+  },
+  {
+    "objectID": "section5_applicability_distances.html#1500mmile",
+    "href": "section5_applicability_distances.html#1500mmile",
+    "title": "4  Race adaptations",
+    "section": "4.4 800 m, 1500 m, and the mile",
+    "text": "4.4 800 m, 1500 m, and the mile\nThe controlled routine can help build endurance, but these events also call for practice at faster race speeds. A dedicated event plan may replace a quality session with speed, hills, or race-pace work. Treat that as a deliberate change with recovery needs, not an extra session to fit into every singles week.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Race adaptations</span>"
+    ]
+  },
+  {
+    "objectID": "section5_applicability_distances.html#ultramarathons",
+    "href": "section5_applicability_distances.html#ultramarathons",
+    "title": "4  Race adaptations",
+    "section": "4.5 Ultramarathons",
+    "text": "4.5 Ultramarathons\nLong duration, terrain, elevation, fueling, and equipment become central to event preparation. The standard singles week does not cover all of those demands. Use an event-specific plan to redistribute running time and quality work; adding double-threshold days is not a default solution.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Race adaptations</span>"
+    ]
+  },
+  {
+    "objectID": "section4_individualization_considerations.html",
+    "href": "section4_individualization_considerations.html",
+    "title": "5  Tools & optional additions",
+    "section": "",
+    "text": "5.1 Start with what you have\nThis chapter is optional. A timer, effort checks, and a simple log are enough to begin; use the sections below if you want to understand a tool you already have or an addition you are considering. Use Control your effort for the instructions during a run. Extra data are useful when they help answer a question about pacing or recovery.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Tools & optional additions</span>"
+    ]
+  },
+  {
+    "objectID": "section4_individualization_considerations.html#pace-setting-tools",
+    "href": "section4_individualization_considerations.html#pace-setting-tools",
+    "title": "5  Tools & optional additions",
+    "section": "",
+    "text": "Tool\nWhat it helps you decide\nMain limitation\n\n\n\n\nPace\nWhether you are near the estimate for this repetition length\nTerrain, weather, and GPS error affect the reading\n\n\nEffort and breathing\nWhether the work still feels controlled\nFatigue, experience, and expectations affect judgment\n\n\nHeart rate\nWhether the response is becoming unusually high as work continues\nResponds slowly, can rise during steady running, and can be misread by a sensor\n\n\nBlood lactate\nHow a sampled effort compares with your own tested response\nSampling technique, timing, and personal thresholds matter\n\n\nRunning power\nWhether output is consistent within a familiar device setup\nDevice estimates and threshold models differ\n\n\nZoneSense\nHow the recorded response develops during steady work\nNeeds a compatible heart-rate belt and time to respond\n\n\nTraining-load scores\nHow recorded load changes against your history\nCannot determine recovery or predict a race on their own\n\n\n\n\n5.1.1 Pace and effort\nIf you use a calculator, use the same Norwegian Singles pace guide across the session cards. A recent race gives it a starting point; effort tells you whether that estimate fits today. When heat or hills make it harder, let the pace slow. Review the run afterward with the conditions noted.\n\n\n5.1.2 Heart rate and lactate\nHeart rate is the number of heartbeats per minute. During longer repetitions, look at how it develops at a steady pace. If the response is unusually high and the effort is rising too, slow down. If the reading seems implausible, check the sensor instead of accelerating or braking to follow it.\nA lactate meter measures lactate in a small blood sample. It can help a runner who understands when and how to take samples and how to interpret their own response. A fixed reading such as 4 mmol/L (the units used for blood lactate) does not define everyone’s threshold. Bakken’s account describes this individuality; his sessions should also be read in the context of his own training.\n\n\n5.1.3 Running power\nA running-power device estimates your output in watts. Its readings can be another reference within a consistent setup, especially when pace varies with terrain. Check it against effort and recent sessions before using a new target. Do not transfer watts or percentages blindly between devices.\nSome devices use critical power (CP), a calculated boundary between more sustainable and less sustainable efforts, to set training targets. That is a different estimate from LT2 (the second lactate threshold) or maximal lactate steady state (MLSS, the highest tested effort at which blood lactate stays stable). These measures come from different definitions and testing procedures. Treating them as identical can give misleading targets. A review of CP and MLSS examines why their estimates differ. Follow the testing protocol for the tool you use, and count a hard test as a demanding session that replaces other work.\n\n\n5.1.4 ZoneSense\nZoneSense is a Suunto feature that estimates exercise intensity from the time between heartbeats. Suunto’s ZoneSense FAQ describes a ten-minute initial period without intensity results and a delayed response to changes in effort. It requires a belt that records the time between individual heartbeats, often called beat-to-beat data. Steady efforts are easier to interpret than short bursts.\nA reassuring colour during the opening repetitions is not a reason to increase pace. Use the session’s pace and effort checks, and review the recording afterward. Check the manufacturer’s current compatibility information before buying equipment.\n\n\n5.1.5 Training platforms\nA platform can collect the log and show trends. Paid analysis is optional. Start with what to record, then read Training load if you want to use scores alongside it.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Tools & optional additions</span>"
+    ]
+  },
+  {
+    "objectID": "section4_individualization_considerations.html#speed-workstridesstrength",
+    "href": "section4_individualization_considerations.html#speed-workstridesstrength",
+    "title": "5  Tools & optional additions",
+    "section": "5.2 Core routine and optional additions",
+    "text": "5.2 Core routine and optional additions\nThe core routine is easy running and controlled quality sessions. You can begin without adding strides, hills, or strength training. If you choose an addition, decide where it fits and what you will reduce if recovery suffers.\n\n\n\n\n\n\n\n\nAddition\nPurpose and placement\nRecovery decision\n\n\n\n\nStrides\nBrief, relaxed faster running after an easy run; allow full easy recovery between efforts\nStop before speed or form deteriorates; omit them when tired\n\n\nStrength\nBuild strength with familiar movements such as a squat or split squat, hip hinge, and calf raise\nStart with a manageable session after running, leaving time to assess soreness before the next quality day\n\n\nHills or faster intervals\nPrepare for a particular event or develop speed during a period of training for that purpose\nReplace a quality session and reassess the following days\n\n\n\nFor strength work, choose a small number of exercises you can perform comfortably, finish sets before technique fails, and learn unfamiliar movements with appropriate instruction. Begin with one modest session and see whether it affects the next runs before adding more. Record its duration separately in the log; strength work is not part of your running-minute total. Research on strength training and running economy is listed in the background sources; it does not prescribe one strength routine for everyone.\nA known runner’s choice to omit strength or strides is not a universal prohibition. If your results have stopped improving, that does not automatically mean you need harder training. First check execution and recovery.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Tools & optional additions</span>"
+    ]
+  },
+  {
+    "objectID": "section4_individualization_considerations.html#cross-training",
+    "href": "section4_individualization_considerations.html#cross-training",
+    "title": "5  Tools & optional additions",
+    "section": "5.3 Cross-training",
+    "text": "5.3 Cross-training\nCycling, swimming, or an elliptical can provide another way to train when running is limited. Record it separately: an hour cycling is not an interchangeable hour of running for the schedules or their quality percentages. If cross-training is part of injury recovery, choose the activity and dose around the injury rather than assuming every alternative is suitable.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Tools & optional additions</span>"
+    ]
+  },
+  {
+    "objectID": "section3_training_load.html",
+    "href": "section3_training_load.html",
+    "title": "6  Training load: optional metrics",
+    "section": "",
+    "text": "6.1 What CTL and TSS describe\nThis chapter explains the load scores shown in some training apps. You can skip it and use a simple running log instead. “Training load” combines how long and how hard you trained into an estimate of the work you did.\nTraining Stress Score (TSS) estimates a workout’s load using its duration, intensity, and your app’s threshold setting. Chronic Training Load (CTL) summarizes daily scores over recent weeks. A common model uses a 42-day time scale, giving more weight to recent days. Neither score directly measures fitness or predicts your next race time. TrainingPeaks explains the model.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Training load: optional metrics</span>"
+    ]
+  },
+  {
+    "objectID": "section3_training_load.html#application-correlation-with-performance",
+    "href": "section3_training_load.html#application-correlation-with-performance",
+    "title": "6  Training load: optional metrics",
+    "section": "6.2 How to use a trend",
+    "text": "6.2 How to use a trend\nCompare changes with your own history. A rise may reflect more running, harder running, or a change in how the app scores activities. Check which happened before deciding what to do next.\nA fall during a rest week is expected; you do not need extra workouts to bring it back up. A higher score does not prove you have recovered. If recovery is poor, adjust the next session, even when the chart looks reassuring.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Training load: optional metrics</span>"
+    ]
+  },
+  {
+    "objectID": "section3_training_load.html#tracking-tools",
+    "href": "section3_training_load.html#tracking-tools",
+    "title": "6  Training load: optional metrics",
+    "section": "6.3 Keep the inputs consistent",
+    "text": "6.3 Keep the inputs consistent\nPlatforms such as Intervals.icu, TrainingPeaks, and Runalyze offer load estimates. Check whether yours uses pace, heart rate, power, or another input, and keep its threshold settings current. Changing the device, scoring method, or settings can change the score without changing your running.\nEqual scores from different workouts do not mean equal recovery needs, and another runner’s CTL is not your target. Plan with running time and workout structure; use scores as supporting information.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Training load: optional metrics</span>"
     ]
   },
   {
     "objectID": "section7_comparative_analysis.html",
     "href": "section7_comparative_analysis.html",
-    "title": "7  Norwegian Singles vs. Other Training Methodologies",
+    "title": "7  Comparing approaches",
     "section": "",
-    "text": "7.1 vs. Daniels’ Running Formula\nThis section presents a concise comparison between the “Norwegian Singles” approach (focused on 3x weekly sub-threshold sessions for recreational runners) and other established training methodologies. It’s important to distinguish this from the traditional high-volume, double-threshold-day Norwegian method used by elite athletes like the Ingebrigtsens. The “singles” approach aims to adapt the core principle of controlled threshold work for lower-volume runners, often as an alternative to traditional amateur plans that frequently incorporate higher intensities (like VO2max work) which can lead to injury or burnout.\nNorwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas Norwegian Singles maintains the same workout structure year-round with gradual progression.",
+    "text": "7.1 Compare the whole plan\nYou can skip this chapter when first trying the workouts. It is for readers comparing plans or deciding whether advice from another method fits their week.\nNorwegian Singles offers a repeatable structure with three controlled quality sessions each week. Other approaches vary the mix of workouts or organize them into phases around a race. The useful comparison is what a week asks you to do, how it fits your experience, and how you recover from it.\nBefore combining advice from different systems, check:\nA workout that fits one plan can be too much when added to another. Check what it would replace in your week before trying it.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Norwegian Singles vs. Other Training Methodologies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing approaches</span>"
     ]
   },
   {
-    "objectID": "section7_comparative_analysis.html#vs.-lydiard-method",
-    "href": "section7_comparative_analysis.html#vs.-lydiard-method",
-    "title": "7  Norwegian Singles vs. Other Training Methodologies",
-    "section": "7.2 vs. Lydiard Method",
-    "text": "7.2 vs. Lydiard Method\nNorwegian Singles employs a consistent year-round approach with sub-threshold as the primary quality intensity, while Lydiard uses sequential training phases (aerobic base → hills → speed → race-specific). Norwegian Singles maintains moderate long runs (75-90 mins for 5k-HM) at easy pace, whereas Lydiard emphasizes very long aerobic runs during base phase followed by increasing anaerobic work in later phases.",
+    "objectID": "section7_comparative_analysis.html#compare-the-whole-plan",
+    "href": "section7_comparative_analysis.html#compare-the-whole-plan",
+    "title": "7  Comparing approaches",
+    "section": "",
+    "text": "How each plan defines intensity. A numbered zone, threshold pace, or percentage may refer to a different model.\nWhether total running time includes warm-ups and recoveries, and whether percentages refer to the number of sessions or the minutes spent running.\nWhich session a race, long run, or faster workout replaces.\nHow the plan develops toward the event and allows recovery afterward.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Norwegian Singles vs. Other Training Methodologies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing approaches</span>"
     ]
   },
   {
-    "objectID": "section7_comparative_analysis.html#vs.-pfitzinger-method",
-    "href": "section7_comparative_analysis.html#vs.-pfitzinger-method",
-    "title": "7  Norwegian Singles vs. Other Training Methodologies",
-    "section": "7.3 vs. Pfitzinger Method",
-    "text": "7.3 vs. Pfitzinger Method\nNorwegian Singles distributes quality evenly through the week (E-Q-E-Q-E-Q-LR) focusing primarily on sub-threshold work, while Pfitzinger incorporates medium-long midweek runs and uses more varied intensities (including VO2max and specific race-pace work). Pfitzinger’s plans are explicitly designed with marathon-specific elements and feature more complex mesocycle periodization rather than Norwegian Singles’ consistent weekly pattern.",
+    "objectID": "section7_comparative_analysis.html#different-emphases",
+    "href": "section7_comparative_analysis.html#different-emphases",
+    "title": "7  Comparing approaches",
+    "section": "7.2 Different emphases",
+    "text": "7.2 Different emphases\nDaniels’ Running Formula describes several training intensities and uses them for different purposes. A continuous threshold pace from another system should not automatically become the pace for every singles repetition. Use the session-specific guide when following this routine.\nLydiard-style training uses phases, often called periodization: first building endurance through easy running, then moving toward hill work and race preparation. The singles examples here instead keep the same weekly structure until you deliberately choose an event-specific adaptation. Neither description means that every runner should keep an identical schedule all year.\nPfitzinger’s plans emphasize endurance from mileage and long runs alongside lactate-threshold training. A marathon plan includes the preparation around those sessions. Compare that full build-up with the marathon adaptation, not just a single interval workout.\nPower-based plans such as Palladino’s use their own testing and intensity prescriptions. A hard fitness test or faster workout would replace work in a singles week. Power targets and lactate thresholds use different definitions; see the power explanation.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Norwegian Singles vs. Other Training Methodologies</span>"
-    ]
-  },
-  {
-    "objectID": "section7_comparative_analysis.html#vs.-palladino-power-project",
-    "href": "section7_comparative_analysis.html#vs.-palladino-power-project",
-    "title": "7  Norwegian Singles vs. Other Training Methodologies",
-    "section": "7.4 vs. Palladino Power Project",
-    "text": "7.4 vs. Palladino Power Project\nNorwegian Singles are strictly sub-threshold intensities with very short recoveries, while Steve Palladino incorporates supra-threshold and V̇O₂ max workouts with longer recoveries averaging two to three minutes. Palladino plans have integrated CP (Critical Power) testing every four weeks, while the athlete running Norwegian Singles would need to integrate regular CP testing on their own. Critical power is measured in watts and describes the same LT2 boundary between the heavy and severe domains. If an athlete’s CP is recent and valid, a power meter can be a excellent proxy as a lactate meter for dialing in the correct sub-threshold intensities.",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Norwegian Singles vs. Other Training Methodologies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing approaches</span>"
     ]
   },
   {
     "objectID": "section7_comparative_analysis.html#vs.-8020-running-polarized-training",
     "href": "section7_comparative_analysis.html#vs.-8020-running-polarized-training",
-    "title": "7  Norwegian Singles vs. Other Training Methodologies",
-    "section": "7.5 vs. 80/20 Running (Polarized Training)",
-    "text": "7.5 vs. 80/20 Running (Polarized Training)\nNorwegian Singles dedicates ~20-25% of training time to sub-threshold work (just below LT2), while polarized models like 80/20 typically distribute the 20% “hard” training across a wider range of moderate-to-high intensities, often emphasizing work well above LT2 (Zone 5). The key difference is that Norwegian Singles concentrates quality in a narrow, controlled intensity band (high Zone 3/low Zone 4) to maximize sustainable load, whereas polarized training emphasizes a distinct separation between very easy (Zone 1-2) and very hard (Zone 4-5) work, often minimizing time spent near LT2. The “singles” approach seeks to avoid the potential pitfalls (injury, burnout, plateau) sometimes associated with the high-intensity component of traditional amateur plans.",
+    "title": "7  Comparing approaches",
+    "section": "7.3 80/20 and polarized training",
+    "text": "7.3 80/20 and polarized training\nAn “80/20” split usually describes a mix of mostly easy training and a smaller amount of more demanding work. Polarized training broadly describes an emphasis on easy and hard efforts, with less work between them. Neither label tells you the full schedule or how its percentages were counted. 80/20 Endurance describes its non-easy share as moderate to high intensity. That is not identical to saying every such session must be very hard. Research uses definitions of polarized training that also need to be read in context.\nIn this guide, the quality share counts only sub-threshold work repetitions. Check the intensity definitions and counting method before comparing that percentage with another plan. A similar percentage can still produce a different week.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Norwegian Singles vs. Other Training Methodologies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing approaches</span>"
     ]
   },
   {
     "objectID": "section7_comparative_analysis.html#vs.-double-threshold",
     "href": "section7_comparative_analysis.html#vs.-double-threshold",
-    "title": "7  Norwegian Singles vs. Other Training Methodologies",
-    "section": "7.6 vs. Double Threshold",
-    "text": "7.6 vs. Double Threshold\nThe popular Norwegian model of double threshold training, as originally conceived by Marius Bakken and popularized by the Ingebrigtsen brothers, is the basis from which Norwegian singles is derived. Two days each week are “double threshold” days with an AM and PM sub-threshold session. Jakob Ingebrigtsen is also known to incorporate a hard hill session every Saturday AM, with “easy threshold” in the evening, for a total of 6 sessions each week. Of course, the double threshold approach allows one to incorporate more sub-threshold training each week, but it is much more demanding on the body and requires more experience. However, the basic building blocks of the two approaches are very similar, emphasizing weekly consistency and threshold volume.",
+    "title": "7  Comparing approaches",
+    "section": "7.4 Double threshold",
+    "text": "7.4 Double threshold\nDouble threshold places two threshold sessions on the same day within a broader program. Bakken’s original account and 2026 discussion explain his approach and its development. They are accounts of coaching and practice, with their own volume and intensity context.\nAdding a second workout to a singles day changes the routine substantially. It is not a required next step, and the success of an elite double-threshold program does not establish that a recreational runner should copy it.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Norwegian Singles vs. Other Training Methodologies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing approaches</span>"
     ]
   },
   {
-    "objectID": "section7_comparative_analysis.html#key-differentiating-factors-of-norwegian-singles",
-    "href": "section7_comparative_analysis.html#key-differentiating-factors-of-norwegian-singles",
-    "title": "7  Norwegian Singles vs. Other Training Methodologies",
-    "section": "7.7 Key Differentiating Factors of Norwegian Singles",
-    "text": "7.7 Key Differentiating Factors of Norwegian Singles\nWhat makes Norwegian Singles distinctive is its high frequency of quality sessions (3x weekly) at carefully controlled sub-threshold intensity, enabling consistency over long periods with minimal burnout risk. It emphasizes precise intensity control to maximize repeatability and sustainable progression, with less supplementary work (strides, hills, strength) than other systems. This approach is particularly suited for time-limited runners, slower recoverers, and those seeking long-term sustainable development.",
+    "objectID": "section7_comparative_analysis.html#choosing-a-routine",
+    "href": "section7_comparative_analysis.html#choosing-a-routine",
+    "title": "7  Comparing approaches",
+    "section": "7.5 Choosing a routine",
+    "text": "7.5 Choosing a routine\nChoose a structure you can execute, recover from, and fit around the rest of your life. Keep it stable enough to assess your response. The available accounts do not establish that this exact singles schedule guarantees better results or fewer injuries than other well-managed training.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Norwegian Singles vs. Other Training Methodologies</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing approaches</span>"
+    ]
+  },
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "8  Sources & background",
+    "section": "",
+    "text": "8.1 How this guide uses sources\nThis is a practical community guide. Original accounts explain how people developed and used the method; individual reports describe their experience. Research helps clarify terminology and limits, but does not establish that every example here is an optimal schedule.\nThe week tables and complete session time budgets are editorial examples. They apply the described structure and make the arithmetic explicit. They are not quotations from a book, and shorter or larger versions are adaptations. Exact instructions from a named source should be read with that source’s population, training volume, and purpose in mind.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sources & background</span>"
+    ]
+  },
+  {
+    "objectID": "sources.html#method-sources",
+    "href": "sources.html#method-sources",
+    "title": "8  Sources & background",
+    "section": "8.2 The singles approach",
+    "text": "8.2 The singles approach\n\nOriginal LetsRun thread: Modifying the Norwegian approach to lower mileage. The discussion that this project originally summarized. Read the author of each post; replies and quotations are not all sirpoc’s advice.\nSirpoc on easy running, post #170. His use of maximum heart rate as a guide for easy days.\nSirpoc on repetition pace and recovery, post #231. An example of his short-recovery practice.\nSirpoc on heart-rate response, post #450. Context for controlled starts and interpreting the whole session.\nSirpoc on weekly balance, post #478. Easy and quality time discussed in relation to his own volume.\nSirpoc on scaling workouts, posts #562, #563, and #571. Approximate pace estimates and repetition durations for different runners.\nJames Copeland, Norwegian Singles Method: Subthreshold Running Kept Simple, with a foreword by Marius Bakken. A book reference for readers who want the author’s account. The full paid text was not used to verify the examples in this revision.\n\nLinks point to the relevant forum page, with post numbers supplied to help locate the passage. The repository also retains the original scrape under data/ and its intermediate summary under intermediary/ as historical material.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sources & background</span>"
+    ]
+  },
+  {
+    "objectID": "sources.html#norwegian-training-background",
+    "href": "sources.html#norwegian-training-background",
+    "title": "8  Sources & background",
+    "section": "8.3 Norwegian training background",
+    "text": "8.3 Norwegian training background\nMarius Bakken’s original account describes the development of his lactate-controlled training, including individual differences in threshold readings. His 2026 article on double threshold provides further context. These are the author’s accounts of practice, not controlled trials of this guide’s singles week.\nHis book, The Norwegian Method Applied, covers threshold training and intensity control. An online preview provides sample pages.\nThe translated and annotated Kristoffer Ingebrigtsen description at Running Writings is another account to read alongside the original discussion. It is a translation with commentary, and should not be treated as Copeland’s identical prescription.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sources & background</span>"
+    ]
+  },
+  {
+    "objectID": "sources.html#tools-and-community-resources",
+    "href": "sources.html#tools-and-community-resources",
+    "title": "8  Sources & background",
+    "section": "8.4 Tools and community resources",
+    "text": "8.4 Tools and community resources\n\nLacTrace Norwegian Singles pace guide: the starting pace tool linked from the session instructions.\nThe Norwegian single approach: an existing community summary.\nTraining calculator spreadsheet: an existing community planning resource; check its assumptions before comparing totals.\nSub-threshold summary website: another community explanation.\nStrava group and r/NorwegianSinglesRun: discussion and personal experiences.\nTrainingPeaks Performance Manager explanation: definitions and assumptions behind its load model.\nSuunto ZoneSense FAQ: the manufacturer’s description of input requirements and response delays.\n\nCommunity questions help identify gaps in the instructions. A success story, fatigue report, or secondhand book quotation does not establish a new universal rule. This guide does not adopt an exact higher-volume quality percentage from an unverified book passage.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sources & background</span>"
+    ]
+  },
+  {
+    "objectID": "sources.html#research-background",
+    "href": "sources.html#research-background",
+    "title": "8  Sources & background",
+    "section": "8.5 Research background",
+    "text": "8.5 Research background\nThese references support the optional explanations. They do not prescribe the week tables.\n\nAnalysis of the factors influencing the proximity and agreement between critical power and maximal lactate steady state: a review of measurement differences relevant to the power discussion.\nEffect of Strength Training Programs in Middle- and Long-Distance Runners’ Economy at Different Running Speeds: a systematic review and meta-analysis for readers considering strength training.\n2023 IOC consensus statement on Relative Energy Deficiency in Sport: background on problematic low energy availability. Its abstract informed the brief recovery guidance; the website is not a diagnostic guide.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sources & background</span>"
+    ]
+  },
+  {
+    "objectID": "sources.html#other-training-approaches",
+    "href": "sources.html#other-training-approaches",
+    "title": "8  Sources & background",
+    "section": "8.6 Other training approaches",
+    "text": "8.6 Other training approaches\nThe comparison chapter uses the publisher’s description of Daniels’ Running Formula, the Lydiard Foundation, Pfitzinger Coaching’s FAQ, Palladino’s coaching page, and 80/20 Endurance’s intensity explanation. These short comparisons do not replace their full plans.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sources & background</span>"
     ]
   }
 ]
