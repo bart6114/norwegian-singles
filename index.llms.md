@@ -75,4 +75,4 @@ Download the PDF or EPUB from the sidebar. Both contain the same schedules and s
 
 ## Contributing
 
-Corrections and practical examples are welcome through the [GitHub repository](https://github.com/bart6114/norwegian-singles). Include the source for a specific training recommendation and check any changed time totals.
+Corrections and practical examples are welcome through the [GitHub repository](https://github.com/bart6114/norwegian-singles). Include the source for a specific training recommendation.
