@@ -1,24 +1,45 @@
-# Norwegian Singles vs. Other Training Methodologies
+---
+pagetitle: "Comparing running training methods"
+description: "Compare Norwegian Singles with other running approaches by weekly structure, intensity definitions and race preparation, with links to original sources."
+---
 
-This section presents a concise comparison between the "Norwegian Singles" approach (focused on 3x weekly sub-threshold sessions for recreational runners) and other established training methodologies. It's important to distinguish this from the traditional high-volume, double-threshold-day Norwegian method used by elite athletes like the Ingebrigtsens. The "singles" approach aims to adapt the core principle of controlled threshold work for lower-volume runners, often as an alternative to traditional amateur plans that frequently incorporate higher intensities (like VO2max work) which can lead to injury or burnout.
+# Comparing approaches {#comparing-approaches}
 
-## vs. Daniels' Running Formula
-Norwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas Norwegian Singles maintains the same workout structure year-round with gradual progression.
+Norwegian Singles offers a repeatable structure with three controlled quality sessions each week. Other approaches vary the mix of workouts or organize them into phases around a race. The useful comparison is what a week asks you to do, how it fits your experience, and how you recover from it.
 
-## vs. Lydiard Method
-Norwegian Singles employs a consistent year-round approach with sub-threshold as the primary quality intensity, while Lydiard uses sequential training phases (aerobic base → hills → speed → race-specific). Norwegian Singles maintains moderate long runs (75-90 mins for 5k-HM) at easy pace, whereas Lydiard emphasizes very long aerobic runs during base phase followed by increasing anaerobic work in later phases.
+## Compare the whole plan
 
-## vs. Pfitzinger Method
-Norwegian Singles distributes quality evenly through the week (E-Q-E-Q-E-Q-LR) focusing primarily on sub-threshold work, while Pfitzinger incorporates medium-long midweek runs and uses more varied intensities (including VO2max and specific race-pace work). Pfitzinger's plans are explicitly designed with marathon-specific elements and feature more complex mesocycle periodization rather than Norwegian Singles' consistent weekly pattern.
+Before combining advice from different systems, check:
 
-## vs. Palladino Power Project
-Norwegian Singles are strictly sub-threshold intensities with very short recoveries, while Steve Palladino incorporates supra-threshold and V̇O₂ max workouts with longer recoveries averaging two to three minutes. Palladino plans have integrated CP (Critical Power) testing every four weeks, while the athlete running Norwegian Singles would need to integrate regular CP testing on their own. Critical power is measured in watts and describes the same LT2 boundary between the heavy and severe domains. If an athlete's CP is recent and valid, a power meter can be a excellent proxy as a lactate meter for dialing in the correct sub-threshold intensities.
+- How each plan defines intensity. A numbered zone, threshold pace, or percentage may refer to a different model.
+- Whether the stated volume includes warm-ups and recoveries, and whether intensity shares count sessions or time.
+- Which session a race, long run, or faster workout replaces.
+- How the plan develops toward the event and allows recovery afterward.
 
-## vs. 80/20 Running (Polarized Training)
-Norwegian Singles dedicates ~20-25% of training *time* to sub-threshold work (just below LT2), while polarized models like 80/20 typically distribute the 20% "hard" training across a wider range of moderate-to-high intensities, often emphasizing work well above LT2 (Zone 5). The key difference is that Norwegian Singles concentrates quality in a narrow, controlled intensity band (high Zone 3/low Zone 4) to maximize sustainable load, whereas polarized training emphasizes a distinct separation between very easy (Zone 1-2) and very hard (Zone 4-5) work, often minimizing time spent near LT2. The "singles" approach seeks to avoid the potential pitfalls (injury, burnout, plateau) sometimes associated with the high-intensity component of traditional amateur plans.
+A workout that fits one plan can be too much when added to another. Keep its surrounding week attached to it.
 
-## vs. Double Threshold
-The popular Norwegian model of double threshold training, as originally conceived by [Marius Bakken](https://www.mariusbakken.com/the-norwegian-model.html) and popularized by the Ingebrigtsen brothers, is the basis from which Norwegian singles is derived. Two days each week are "double threshold" days with an AM and PM sub-threshold session. Jakob Ingebrigtsen is also known to incorporate a [hard hill session](https://fwdmotionsthlm.blog/a-week-with-jakob-ingebrigtsen/) every Saturday AM, with "easy threshold" in the evening, for a total of 6 sessions each week. Of course, the double threshold approach allows one to incorporate more sub-threshold training each week, but it is much more demanding on the body and requires more experience. However, the basic building blocks of the two approaches are very similar, emphasizing weekly consistency and threshold volume.
+## Different emphases
 
-## Key Differentiating Factors of Norwegian Singles
-What makes Norwegian Singles distinctive is its high frequency of quality sessions (3x weekly) at carefully controlled sub-threshold intensity, enabling consistency over long periods with minimal burnout risk. It emphasizes precise intensity control to maximize repeatability and sustainable progression, with less supplementary work (strides, hills, strength) than other systems. This approach is particularly suited for time-limited runners, slower recoverers, and those seeking long-term sustainable development.
+[Daniels' Running Formula](https://us.humankinetics.com/products/daniels-running-formula-4th-edition) describes several training intensities and uses them for different purposes. A continuous threshold pace from another system should not automatically become the pace for every singles repetition. Use the [session-specific guide](section1_core_principles.md#intensity-control) when following this routine.
+
+[Lydiard-style periodization](https://www.lydiardfoundation.org/about-us) develops aerobic running before moving toward hill work and race preparation. The singles examples here instead keep the same weekly structure until you deliberately choose an event-specific adaptation. Neither description means that every runner should keep an identical schedule all year.
+
+[Pfitzinger's plans](https://www.pfitzingercoaching.com/faq) emphasize endurance from mileage and long runs alongside lactate-threshold training. A marathon plan includes the preparation around those sessions. Compare that full build-up with [the marathon adaptation](section5_applicability_distances.md#marathon), not just a single interval workout.
+
+[Power-based plans such as Palladino's](https://www.finalsurge.com/coach/stevepalladino) use their own testing and intensity prescriptions. A CP test or faster workout would replace work in a singles week. CP should not be treated as an exact synonym for LT2; see [the power explanation](section4_individualization_considerations.md#critical-power-cp).
+
+## 80/20 and polarized training {#vs.-8020-running-polarized-training}
+
+An easy/hard split does not describe every detail of a plan. [80/20 Endurance describes its non-easy share as moderate to high intensity](https://www.8020endurance.com/trouble-staying-in-zone-1-hr/). That is not identical to saying every such session must be very hard. Research uses definitions of polarized training that also need to be read in context.
+
+In this guide, the quality share counts only sub-threshold work repetitions. Check the intensity definitions and counting method before comparing that percentage with another plan. A similar percentage can still produce a different week.
+
+## Double threshold {#vs.-double-threshold}
+
+Double threshold places two threshold sessions on the same day within a broader program. [Bakken's original account](https://www.mariusbakken.com/the-norwegian-model.html) and [2026 discussion](https://www.mariusbakken.com/double-threshold-training.html) explain his approach and its development. They are accounts of coaching and practice, with their own volume and intensity context.
+
+Adding a second workout to a singles day changes the routine substantially. It is not a required next step, and the success of an elite double-threshold program does not establish that a recreational runner should copy it.
+
+## Choosing a routine
+
+Choose a structure you can execute, recover from, and fit around the rest of your life. Keep it stable enough to assess your response. The available accounts do not establish that this exact singles schedule guarantees better results or fewer injuries than other well-managed training.

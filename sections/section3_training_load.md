@@ -1,14 +1,24 @@
-# Training Load (CTL/TSS)
+---
+pagetitle: "Training load, CTL and TSS"
+description: "Understand CTL and TSS as optional training-load estimates. Use consistent inputs and recovery notes to interpret trends without chasing a fitness score."
+---
 
-## Concept
-Training Stress Score (TSS) or similar metrics attempt to quantify the stress of a single workout based on duration and intensity relative to your threshold. Chronic Training Load (CTL) is a rolling average (often 42 days, exponentially weighted) of daily TSS, representing your fitness or sustainable load.
+# Training load: optional metrics {#training-load}
 
-## Application & Correlation with Performance
-This method allows for accumulating a high Chronic Training Load (CTL) due to the repeatability of sub-threshold work. Research and anecdotal evidence strongly suggest a correlation between the highest *sustained* CTL an athlete can manage and their race performance potential (as illustrated conceptually in the provided document's graph showing Critical Power vs. Sustained CTL). While not a perfect predictor, and absolute CTL values aren't directly comparable between individuals, tracking your *own* CTL trend is a key indicator of fitness progression. The goal is to maximize sustainable load over time.
+## What CTL and TSS describe {#concept}
 
-## Intensity Management & Equivalent Stress
-*   **Balancing Load:** The aim is to find the "green zone" (as conceptualized in the provided document) – a level of weekly sub-threshold work that maximizes stimulus without inducing excessive fatigue or hindering recovery for subsequent sessions. This allows for consistent high-quality training week after week.
-*   **Equivalent Stress:** Different sub-threshold workout structures (e.g., varying interval length, rest, and pace slightly) can be designed to elicit a similar overall training stress or stimulus (as explored in the document's ANNEX A). This allows for variety in training while maintaining a consistent load on the body. For example, a session of 10x1000m with shorter rest might be physiologically similar in stress to 3x3000m with longer rest, provided both are executed at the appropriate sub-threshold intensity for that duration.
+Training Stress Score (TSS) estimates a workout's load from its duration and intensity relative to a threshold setting. Chronic Training Load (CTL) combines recent daily scores, commonly using an exponentially weighted 42-day model. It summarizes recorded training; it is not a direct measurement of fitness or a prediction of your next race time. [TrainingPeaks explains the Performance Manager model](https://www.trainingpeaks.com/learn/articles/the-science-of-the-performance-manager/).
 
-## Tracking Tools
-Tools like Intervals.icu, TrainingPeaks, or Runalyze calculate TSS/CTL. Consistent data input (accurate threshold values, chosen metric) is key. Pace-based TSS (rTSS) is often preferred for consistency if running routes/conditions are stable, but requires accurate threshold pace updates. Heart rate-based TSS (hrTSS) or power-based TSS can also be used, depending on your primary intensity monitoring method.
+You can use this guide without either metric. Start with [a log of running time, quality work, effort, and recovery](section6_benefits_monitoring.md#monitoring).
+
+## How to use a trend {#application-correlation-with-performance}
+
+If you already use a training platform, look at changes against your own history. A rise may reflect more time, harder running, or a change in how the platform scores activities. Check which of those happened before deciding what to do next.
+
+A lower score after rest does not create a debt to repay. A higher score does not establish that you are absorbing the training. If recovery is poor, [adjust the next session](section6_benefits_monitoring.md#adjust-your-week), even when the chart looks reassuring.
+
+## Keep the inputs consistent {#tracking-tools}
+
+Platforms such as Intervals.icu, TrainingPeaks, and Runalyze offer load estimates. Know whether yours uses pace, heart rate, power, or another input, and keep its threshold settings reasonably current. A changed device, scoring method, or threshold can alter the trend without any change to the actual running.
+
+Compare scores within a consistent setup. Equal scores from two different workouts do not prove equal recovery demands, and another runner's CTL is not a target for yours. Use time and session structure when planning the week; use the chart as supporting information.

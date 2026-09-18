@@ -1,31 +1,79 @@
-# Applicability to Different Distances
+---
+pagetitle: "Race weeks and marathon adaptations"
+description: "Adapt Norwegian Singles for races and marathon preparation. See what workouts to replace, how to allow recovery, and how to scale longer sessions by time."
+---
 
-This method, focusing on sub-threshold work, is primarily designed for the **general preparation phase** of training, building a strong aerobic base. Its direct applicability varies slightly by race distance:
+# Race adaptations {#race-adaptations}
 
-## 5k to Half Marathon
-This is the sweet spot where the method seems most directly applicable and has shown significant success for many hobby joggers. Regular racing/TTs provide sufficient speed stimulus.
+## A race replaces a workout {#race-week}
 
-## 1500m/Mile
-The strong aerobic base built is highly beneficial. May be sufficient on its own, with races providing speed stimulus. Some suggest adding strides, weekly hill sprints (e.g., 10x30s), or replacing a Q session with faster reps (e.g., 300s/400s at race pace) periodically or in a pre-competition phase.
+The ordinary week is repeatable training. When you enter a race or run a hard time trial, it becomes a demanding session with its own recovery needs. Replace planned quality work and adjust the following days.
 
-## 800m
-Likely requires more specific speed, power, and anaerobic capacity work than this method provides. While the aerobic base is helpful, dedicated 800m training approaches are probably more suitable.
+Here is an editorial example for an established runner doing a Saturday 5 km race. It illustrates the change from the [standard week](section2_implementing_the_method.md#standard-week), not a taper for every runner or distance. Thursday becomes easy, and the race replaces Saturday's card C. The other quality session uses shorter card A.
 
-## Marathon
-Applying the core 3x weekly sub-T structure requires adaptation for the marathon. Common strategies include:
+| Day | Plan |
+|:----|:-----|
+| Monday | 30 minutes easy |
+| Tuesday | Shorter card A: 40 minutes total, 18 minutes sub-threshold work |
+| Wednesday | 30 minutes easy |
+| Thursday | 30 minutes easy instead of card B |
+| Friday | Rest |
+| Saturday | 15 minutes easy warm-up, the 5 km race, then 10 minutes easy cool-down if comfortable |
+| Sunday | Rest, or 30 minutes easy if recovered; no obligation to complete the usual longer run |
 
-*   **Extending the Long Run:** Gradually increasing the duration, often towards 2-3 hours, primarily at an easy effort.
-*   **Incorporating Quality into the LR:** Some runners integrate sub-threshold or marathon pace (MP) work towards the end of the long run, such as `3 x 10 minutes @ HMP` with short rests, or a continuous `30-minute block @ MP`. This is often done instead of a mid-week quality session.
-*   **Longer Sub-Threshold Reps:** Replacing standard sessions with longer intervals like `3x5k`, `4x5k`, or even `5x5k` at sub-threshold effort, particularly in the later stages of the marathon block.
-*   **Marathon Pace Workouts:** Introducing specific MP workouts, sometimes as tempos (e.g., `10k @ MP`) within a medium-long run, especially closer to the race.
-*   **Fueling/Hydration Practice:** These longer sessions are crucial for practicing race-day nutrition and hydration strategies.
-Consistency and high volume remain vital, but marathon-specific long runs and targeted MP work are generally considered necessary additions or modifications to the base 'singles' structure.
+Running time is 155 minutes plus the race duration, or 185 minutes plus the race duration if you run on Sunday. Only 18 minutes are planned sub-threshold work; log the race separately as hard running. These are alternatives, not a fixed weekly total or a normal quality-share target.
 
-## Ultramarathons
-Even more experimental. Requires very high volume and race-specific long runs (back-to-backs, runs with significant elevation). Some might experiment with double-threshold days (e.g., AM track session, PM uphill treadmill session) but this significantly increases load and risk. Logistics like fueling, hydration, and gear become critical.
+Resume quality work when easy running feels normal again. A longer race may require substantially more recovery than this example. Use the result to update the pace guide only if it represents current fitness, accounting for terrain, weather, and how you paced it.
 
-## Cadence/Form
-Running form, including cadence, is highly individual. While some proponents of this method exhibit very high cadence (e.g., >200 spm during races), it's generally considered an outcome of training and individual biomechanics rather than a specific target to manipulate. Focusing on consistent, controlled effort is more important than consciously altering form aspects like cadence, which may not be necessary or beneficial for all runners.
+## 5 km to half marathon {#5k-to-half-marathon}
 
-## Note on Peaking
-While this method forms a strong base, specific race preparation ("peaking") might involve introducing higher intensity workouts (e.g., VO2max intervals, race pace work) closer to a key event, depending on the distance and individual needs. This is typically considered a separate phase built upon the foundation laid by consistent sub-threshold training.
+The singles routine is commonly used for these distances. The longer easy run still needs to fit the runner and event. A runner preparing for a first half marathon may need a different endurance build-up from someone who already handles the distance comfortably.
+
+Keep routine racing within the week's workload. A race every weekend is a recurring change to the method, since it replaces one of the controlled quality days. For a priority event, allow recovery before it and plan the return afterward.
+
+## Marathon {#marathon}
+
+Treat a marathon block as a separate adaptation. Start with regular running, experience recovering from longer runs, and enough preparation time to extend them gradually. If the normal singles week is already difficult to recover from, stabilize it before adding marathon demands.
+
+A longer run consumes part of the week's time and recovery budget. Lengthen it gradually from what you already tolerate, while holding back or reducing other work. Practise the food and drink you expect to use in the race during suitable longer runs. Choose pace from current endurance and recent training, not just a target finishing time.
+
+### Three different pace questions
+
+- Sub-threshold repetition pace belongs to the repetition length and recovery in the session guide.
+- Current marathon pace is an estimate of what your present endurance supports over the marathon distance. A short-race prediction needs to be considered alongside your longer-run preparation.
+- Goal marathon pace is an aspiration. It becomes useful for training only when your current preparation supports it.
+
+If a marathon-paced block starts to feel like hard threshold work, reduce the pace or make the rest easy. Do not force goal pace after illness or a break simply because it appears in a plan.
+
+### A complete week with a longer run {#marathon-week}
+
+This editorial example keeps the [larger week's](section2_implementing_the_method.md#larger-week) seven-hour budget. It is for a runner who has already built up to a comfortable two-hour easy run. Tuesday and Thursday use the standard cards, Saturday becomes easy, and Sunday's longer run replaces the third quality stimulus as the week's main endurance demand.
+
+| Day | Session | Running | Quality |
+|:----|:--------|--------:|--------:|
+| Monday | Easy | 50 | 0 |
+| Tuesday | A: short repetitions | 50 | 24 |
+| Wednesday | Easy | 50 | 0 |
+| Thursday | B: medium repetitions | 50 | 24 |
+| Friday | Easy | 50 | 0 |
+| Saturday | Easy | 50 | 0 |
+| Sunday | Longer easy; practise fueling | 120 | 0 |
+| Total | 7 hours; 11.4% quality | 420 | 48 |
+
+Keeping the same total minutes does not make a two-hour run equivalent to spreading that time over the week. Build toward it separately, and shorten other sessions further if recovery requires it. This is an example of redistributing a week, not a complete marathon plan or a requirement to stop long-run progression at two hours.
+
+If an event-specific plan introduces pace blocks into the long run, those blocks replace other demanding work. In the example above, Saturday's quality session is already removed; the remaining midweek work may also need reduction. Avoid adding large blocks to this example without the progression and recovery described by the plan you are following. [Pfitzinger's coaching guidance](https://www.pfitzingercoaching.com/faq) is one source for marathon-specific planning; its approach is distinct from the ordinary singles routine.
+
+### Scale the time, not just the distance
+
+A 5 km repetition takes 20 minutes at 4:00/km and 30 minutes at 6:00/km. Five such repetitions would be 100 or 150 minutes of work before warm-up and recovery. Copying the distance can therefore produce a very different session.
+
+Check work duration, total session time, and what the workout replaces in the week. Use a time-scaled version only within a plan that supports that dose. The large distance sessions discussed online are not standalone additions to three ordinary quality days.
+
+## 800 m, 1500 m, and the mile {#1500mmile}
+
+The controlled routine can contribute to general aerobic preparation, but these events also call for practice at faster race speeds. A dedicated event plan may replace a quality session with speed, hills, or race-pace work. Treat that as a deliberate change with recovery needs, not an extra session to fit into every singles week.
+
+## Ultramarathons {#ultramarathons}
+
+Long duration, terrain, elevation, fueling, and equipment become central to event preparation. The standard singles week does not cover all of those demands. Use an event-specific plan to redistribute running time and quality work; adding double-threshold days is not a default solution.
