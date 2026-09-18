@@ -35,6 +35,11 @@ class Page(HTMLParser):
         self.json_text = ""
         self.structured = []
         self.h1_count = 0
+        self.heading = ""
+        self.in_heading = False
+        self.in_sidebar = False
+        self.sidebar_links = []
+        self.sidebar_link = None
         self.feed(text)
 
     def handle_starttag(self, tag, attrs):
@@ -45,6 +50,13 @@ class Page(HTMLParser):
             self.in_title = True
         if tag == "h1":
             self.h1_count += 1
+            self.in_heading = True
+        if tag == "nav" and attrs.get("id") == "quarto-sidebar":
+            self.in_sidebar = True
+        if tag == "a" and self.in_sidebar and "sidebar-link" in attrs.get("class", "").split():
+            self.sidebar_link = {"href": attrs.get("href", ""), "text": "",
+                                 "active": "active" in attrs.get("class", "").split()}
+            self.sidebar_links.append(self.sidebar_link)
         if tag == "link" and attrs.get("rel") == "canonical":
             self.canonicals.append(attrs.get("href"))
         if tag == "script" and attrs.get("type") == "application/ld+json":
@@ -64,10 +76,20 @@ class Page(HTMLParser):
             self.title += data
         if self.in_json:
             self.json_text += data
+        if self.in_heading:
+            self.heading += data
+        if self.sidebar_link is not None:
+            self.sidebar_link["text"] += data
 
     def handle_endtag(self, tag):
         if tag == "title":
             self.in_title = False
+        if tag == "h1":
+            self.in_heading = False
+        if tag == "nav":
+            self.in_sidebar = False
+        if tag == "a":
+            self.sidebar_link = None
         if tag == "script" and self.in_json:
             self.structured.append(json.loads(self.json_text))
             self.in_json = False
@@ -105,6 +127,29 @@ def check_rendered_links(files, pages, label):
             if fragment and target in pages:
                 check(fragment in pages[target].ids,
                       f"{label} {name}: missing anchor {href}")
+
+
+def check_book_navigation(pages, texts):
+    # Derive expectations from Quarto's chapter order and source headings.
+    # Do not maintain a second navigation list alongside book.chapters.
+    expected = {}
+    for source, text in texts.items():
+        heading = re.search(r"^# (.+?)(?:\s+\{[^}]+\})?$", text, re.M)
+        expected[source.replace(".md", ".html")] = heading.group(1)
+
+    def title(text):
+        return re.sub(r"^\d+\s+", "", " ".join(text.split()))
+
+    for name, page in pages.items():
+        targets = [local_target(name, link["href"]) for link in page.sidebar_links]
+        check(targets == [(target, "") for target in expected],
+              f"{name}: sidebar chapter links/order differ from book.chapters")
+        labels = [title(link["text"]) for link in page.sidebar_links]
+        check(labels == list(expected.values()),
+              f"{name}: sidebar titles differ from source headings")
+        active = [local_target(name, link["href"]) for link in page.sidebar_links if link["active"]]
+        check(active == [(name, "")], f"{name}: sidebar must highlight only the current chapter")
+        check(title(page.heading) == expected[name], f"{name}: main heading differs from source")
 
 
 def main():
@@ -197,6 +242,7 @@ def main():
         pages = {name.replace(".md", ".html"): Page((dist / name.replace(".md", ".html")).read_text())
                  for name in chapters}
         check_rendered_links(files, pages, "HTML")
+        check_book_navigation(pages, texts)
         base = "https://norwegiansingles.run/"
         descriptions, titles, expected_urls = set(), set(), set()
         for name, page in pages.items():
@@ -257,7 +303,7 @@ def main():
     if ERRORS:
         raise SystemExit("\n".join(ERRORS))
     print(f"Checked {len(chapters)} chapters, {len(cards)} session budgets, {week_count} week tables"
-          + (", HTML/EPUB links, and SEO/LLM output." if args.rendered else "."))
+          + (", Quarto navigation, HTML/EPUB links, and SEO/LLM output." if args.rendered else "."))
 
 
 if __name__ == "__main__":

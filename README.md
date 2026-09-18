@@ -39,6 +39,8 @@ If anyone is genuinely interested in building this project out further, please m
 
 The reading route explains effort first, then shows how to adapt an existing week, follow a complete workout, and adjust for recovery or races. Tools, load metrics, comparisons, and sources follow as optional reading. The existing chapter filenames are kept so published page URLs continue to work.
 
+Keep navigation in Quarto: `book.chapters` in `sections/_quarto.yml` sets the order, and each chapter's first heading supplies its sidebar label. Use source `.md` links with heading anchors for links between chapters; Quarto resolves them for each output format. Do not maintain separate HTML sidebars or hard-code chapter numbers in link text. If a newly deployed homepage leads to an older-looking chapter, reload that chapter: GitHub Pages currently serves HTML with a ten-minute cache lifetime.
+
 Edit the Markdown in `sections/`. Week tables and session cards live in the implementation chapter; link to them instead of copying their numbers into other chapters. The historical scrape and `intermediary/BOOK.md` are source archives, not the current published guide. Quarto builds HTML, PDF, and EPUB from the same chapter files into the ignored `dist/` directory. The PDF-only filter in `utils/guide-pdf-layout.lua` reserves space for schedules and workout instructions so they stay together; check it when changing those blocks.
 
 For each content change:
@@ -57,7 +59,7 @@ quarto render sections --to all
 python3 utils/check-guide.py --rendered
 ```
 
-The checker validates session arithmetic, weekly totals, links between source chapters, and rendered HTML/EPUB links. Also inspect the website at desktop and phone widths, PDF tables and page breaks, and EPUB navigation. PDF rendering needs a LaTeX installation; the publishing workflow installs TinyTeX.
+The checker validates session arithmetic, weekly totals, links between source chapters, and rendered HTML/EPUB links. It also checks every page's sidebar order, labels, active chapter, and main heading against the Quarto chapter sources. Also inspect the website at desktop and phone widths, PDF tables and page breaks, and EPUB navigation. PDF rendering needs a LaTeX installation; the publishing workflow installs TinyTeX.
 
 Keep the three editorial releases reviewable: starting weeks and session instructions; progression, recovery, and racing; then tools and background. Review all formats before merging to `main`, since a push there triggers the existing GitHub Pages publishing workflow. Generated files in `dist/` should not be committed.
 
