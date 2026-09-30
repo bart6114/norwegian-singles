@@ -2,66 +2,54 @@
 
 ## 4.1 Pace Setting & Tools
 
-Use *current* fitness. Erring slightly slower is safer than going too fast, especially initially. Some find commonly suggested paces too fast and need to adjust significantly downwards based on lactate or HR, particularly if more fast-twitch dominant or less aerobically developed.
+Use current fitness and treat calculated paces as starting estimates. A recent race or time trial, ideally under comparable conditions, is more useful than a watch prediction or an old personal best. The [Lactrace pace guide](https://lactrace.com/norwegian-singles) is one available reference. Check its suggestions against repetition duration, heart rate and perceived effort.
 
-- **Pace as a Guide:** Remember that paces are guides; the *internal effort/load* (monitored via lactate, HR, power, RPE) is the primary target. The relationship between pace and effort can vary daily due to factors like fatigue, weather, etc.
-- **Calculators & Estimators:** Tools like [VDOT calculators](https://lactrace.com/norwegian-singles), [lactate threshold analyzers](https://lactate.barts.space/), race result predictors, or specific calculators (like the Excel sheet or HR calculator mentioned in the source document) can provide useful starting points for estimating appropriate sub-threshold paces or HR zones based on recent performance data. However, these are still estimates and should be validated with internal monitoring methods.
+If the first few sessions feel too demanding, slow down. Individual responses differ, and the ability to recover between sessions matters more than matching someone else’s pace or inferred muscle-fibre type. Use familiar, reasonably flat routes while learning the effort. Treadmill speeds may need calibration; do not assume the display matches outdoor pace or another machine.
 
 ## 4.2 Heat/Humidity
 
-Environmental conditions drastically affect performance. Significantly slow down paces in heat/humidity to maintain the correct sub-threshold effort. HR becomes less reliable as a guide in these conditions due to cardiac drift caused by heat stress. Focus on RPE and adjust pace downwards as needed.
+Heat, humidity, hills, wind and softer surfaces can all require slower paces. Set realistic targets before starting, then adjust to the effort you actually experience. Headwinds and tailwinds, or uphill and downhill sections, do not necessarily cancel out. Avoid chasing an average pace through a difficult section.
+
+HR can drift in the heat even at a steady effort. Use breathing and perceived effort alongside it, and shorten or abandon a session if conditions make controlled work impractical. Comparable conditions also matter when interpreting a slower race result.
 
 ## 4.3 Racing/Time Trials
 
-Frequent racing (e.g., parkruns) or time trials (e.g., 3k-5k every 4-8 weeks) are highly recommended. They provide neuromuscular stimulus, help break plateaus, allow practice at race effort (“remembering how to hurt”), and provide benchmarks to update training paces. Initial races after a long block of only sub-T work might feel flat or sluggish (“racing rust”) before the body readjusts to higher intensities.
+A 5k race or time trial replaces one quality session. It supplies a fitness check and practice at racing effort; it should not become a fourth hard day. Testing every 4-8 weeks is a useful option, with frequency adjusted to recovery and your race calendar.
+
+For an ordinary Saturday 5k, Copeland generally keeps the surrounding week familiar and skips a dedicated taper. Keep Sunday easy, shortening it if needed. A priority race can justify more freshening up.
+
+For a Sunday 10k, a practical pattern is a normal Tuesday workout, a lighter Thursday session, then shorter easy runs before racing. A half marathon usually warrants easing back earlier in the week. After either race, begin with easy running and make the first workout gentler; resume the full schedule only when recovery supports it. Do not make up the omitted quality work. This captures the book’s short-taper approach without prescribing the same recovery timetable for everyone.
+
+Race at a pace supported by current fitness and the day’s conditions. A controlled start leaves room to increase effort later. Poor pacing can obscure improvements that the training has produced.
 
 ## 4.4 Adaptation Time, Stagnation & Consistency
 
-Expect 4-8 weeks (or longer, especially for FT types or those new to structured training) to adapt. Significant breakthroughs often occur after longer periods of consistent application (3-6+ months). Periods of apparent stagnation are common and often precede performance jumps. Consistency through these phases is crucial.
+Allow several weeks to settle into the routine, and assess progress over months. A plateau alone does not mean you need faster intervals. First review consistency, pacing, sleep and whether the current load is manageable.
 
-## 4.5 Muscle Fiber Type
+On a tired day, try the slower pace intended for longer repetitions, reduce the repetition count, or replace the session with easy running or rest. Persistent fatigue calls for a reduction in load. Illness or pain that alters your running is a reason to pause and reassess. Resume from what you can currently manage, preserving space between demanding days.
 
-The method appears very effective for slow-twitch (ST) dominant runners. More fast-twitch (FT) runners might still benefit significantly but may need careful load management, potentially slower paces initially, a longer adaptation period, or consider replacing one Q session with hills/strides if plateaus occur, though the core method is often sufficient even for FT types.
+## 4.5 Long Run
 
-## 4.6 Long Run
+Keep this an extension of easy running. Copeland suggests approximately 1.7 times the duration of an ordinary easy run as a starting point: a 45-minute easy run implies roughly 75-80 minutes on Sunday. Higher-volume examples reach about 95-105 minutes. Adjust to your established longest run and recovery, rather than immediately adopting a new duration.
 
-75-90 mins easy is often adequate for 5k-HM focus. Its role is primarily recovery and contributing to overall volume, rather than being a key high-stress workout itself. Marathon training requires longer runs (see below).
+Before a half marathon, occasional modest extensions can help with time on your feet, but matching a slower runner’s entire race duration is unnecessary. Marathon preparation needs a [separate adaptation](https://norwegiansingles.run/section5_applicability_distances.html#marathon).
 
-## 4.7 Speed Work/Strides/Strength
+## 4.6 Speed Work/Strides/Strength
 
-The core method often excludes specific speed work or strength training. Neuromuscular stimulus comes from sub-T paces and occasional races/TTs. Strides (e.g., 6-8 x 15-30s) can be added 1-2 times per week after easy runs if desired, typically without compromising recovery. Some FT athletes might benefit more from strides or occasional short hill sprints (e.g., 6-10 x 8-10s). Strength training is debated; some find it beneficial for injury prevention or power, while others find it adds too much fatigue and compromises the 3x weekly quality sessions. Sirpoc’s success without strength/strides is notable. If included, keep it light and ensure it doesn’t impede recovery for running workouts.
+Strides, hills and strength work are optional additions to the framework. Copeland does not routinely include them; that personal choice does not establish that they are unhelpful for everyone. Keep prescribed rehabilitation or strength work, and account for its fatigue when planning running. If adding something new, introduce a small amount and assess its effect before also increasing running volume.
 
-## 4.8 Fueling
+## 4.7 Fueling
 
-Adequate carbohydrate intake is important to support the 3x weekly quality sessions and prevent glycogen depletion. Fuel well before and particularly in the hours after sub-T sessions. Increased training load may require increased overall caloric intake.
+Eat enough to support the weekly load. Include carbohydrate and protein after quality sessions, and make recovery food practical around work and other commitments. Increased training can require increased overall intake. Longer marathon sessions also provide opportunities to practise fueling and hydration while running.
 
-## 4.9 Cross-Training
+## 4.8 Cross-Training
 
-Can be used to supplement volume or substitute sessions during injury recovery, mimicking the E-Q-E-Q-E-Q-LR structure using modalities like cycling, elliptical, or arc trainer, focusing on similar durations and sub-threshold efforts.
+Cycling or an elliptical can replace some running when impact, recovery or preference makes that useful. Preserve the separation between easy and demanding days, and use effort or thresholds appropriate to that activity. Equal duration or HR does not necessarily mean equal training load across sports. When running performance is the goal, retain running-specific practice as circumstances allow.
 
-## 4.10 Alternative Monitoring Methods
+## 4.9 Alternative Monitoring Methods
 
-For athletes who don’t have access to lactate meters, several alternatives can help monitor sub-threshold training intensity:
+Extra devices are optional. A [lactate curve](https://lactate.barts.space/) can help interpret tests; power or breathing measurements can add context. None removes the need to check repeatability and recovery.
 
-**Suunto ZoneSense** uses HRV and a proprietary DDFA algorithm to determine LT1/LT2 thresholds in real-time. Requires a recent Suunto watch (9 Peak or newer) paired with an RR interval chest strap (Polar H10, Garmin HRM). Works well for longer intervals (3+ minutes) but needs steady-state efforts for accuracy, making it less suitable for shorter intervals like 10x1k.
+Critical power is a model-based estimate and should not be treated as identical to LT2 or a lactate reading. [Research in runners](https://link.springer.com/article/10.1007/s00421-021-04780-8) found different critical-speed and maximal-lactate-steady-state values. Avoid assuming that one percentage of CP suits every runner and repetition format. Keep the device and testing method consistent when tracking changes over time.
 
-**Tymewear VitalPro** (~\$299) combines heart rate and respiratory rate monitoring to identify ventilatory thresholds (VT1/VT2), which correlate with LT1/LT2. Uses a 4-zone model where the top of zone 3/bottom of zone 4 represents the Norwegian Singles sweet spot. Requires smartphone app for data viewing and works best with post-workout analysis to refine pacing.
-
-**Critical Power (CP)** requires a running power meter (Stryd ~\$200, or watch-based estimates from Garmin/Polar). Test CP using 3-min/12-min or 20-min protocols, then target 85-95% CP for sub-threshold intervals (shorter intervals ~90-95% CP, longer intervals ~80-85% CP). Power provides consistent guidance across varying conditions but accuracy varies between devices.
-
-**Talk Test** is a free method using breathing patterns and conversation ability. At sub-threshold pace, you should be able to speak 3-5 words between breaths with controlled but elevated breathing. It should feel “comfortably hard” - if unable to speak at all, intensity is too high.
-
-**Enhanced RPE** uses a detailed 1-10 scale: 4-5 (too easy), 5-6 (target “comfortably hard” zone), 6-7 (upper sustainable limit), 7+ (too hard, decrease pace). Best combined with regular time trials for calibration.
-
-**Training Apps** like TrainingPeaks, Strava Premium, or HRV4Training analyze workout data patterns over time to estimate threshold zones. Most effective when combined with periodic time trials for validation.
-
-**Comparison of Methods**
-
-| Method            | Cost      | Real-time | Accuracy | Ease of Use |
-|-------------------|-----------|-----------|----------|-------------|
-| Lactate Meter     | \$200-400 | No        | Highest  | Moderate    |
-| Suunto ZoneSense  | \$400-600 | Yes       | High     | High        |
-| Tymewear VitalPro | \$299     | Limited   | High     | Moderate    |
-| Power Meter       | \$200-400 | Yes       | High     | Moderate    |
-| Talk Test         | Free      | Yes       | Moderate | High        |
-| Enhanced RPE      | Free      | Yes       | Moderate | High        |
+[Suunto’s ZoneSense guidance](https://www.suunto.com/en-us/sports/News-Articles-container-page/zonesense-faq/) describes a beat-to-beat chest-strap requirement, no readings in the first ten minutes, and a delayed response to intensity changes. It is better suited to steady efforts and longer repetitions. Live-watch compatibility differs from post-run analysis support. Treat its zones as additional estimates rather than direct lactate measurements.

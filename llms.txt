@@ -5,12 +5,12 @@
 ## Pages
 
 - [Introduction](https://norwegiansingles.run/index.llms.md): An introduction to Norwegian Singles training: core principles, weekly structure, interval examples, training load, and background resources.
-- [Core Principles](https://norwegiansingles.run/section1_core_principles.llms.md): Learn the core principles of Norwegian Singles: sub-threshold intensity, easy recovery, consistency, and monitoring effort with pace, heart rate, lactate or power.
-- [Implementing the Method](https://norwegiansingles.run/section2_implementing_the_method.llms.md): Explore the Norwegian Singles weekly structure, time- and distance-based interval examples, recovery periods, and training progression.
-- [Training Load (CTL/TSS)](https://norwegiansingles.run/section3_training_load.llms.md): Understand training load in Norwegian Singles, including CTL, TSS, equivalent workout stress, and tracking tools.
-- [Individualization & Considerations](https://norwegiansingles.run/section4_individualization_considerations.llms.md): Adapt Norwegian Singles to individual needs and explore monitoring alternatives, strides, strength work, and recovery considerations.
-- [Applicability to Different Distances](https://norwegiansingles.run/section5_applicability_distances.llms.md): Explore how Norwegian Singles applies to different race distances, including shorter races, half marathons, and marathon preparation.
-- [Benefits and Monitoring](https://norwegiansingles.run/section6_benefits_monitoring.llms.md): Review the benefits and limitations of Norwegian Singles, and ways to monitor progress through racing, power tests, and recovery.
+- [Core Principles](https://norwegiansingles.run/section1_core_principles.llms.md): Learn the core principles of Norwegian Singles: sub-threshold intensity, easy recovery, consistency, and using pace, heart rate and perceived effort.
+- [Implementing the Method](https://norwegiansingles.run/section2_implementing_the_method.llms.md): Build a Norwegian Singles week with controlled intervals, appropriate recoveries, time-scaled repetitions, and gradual training progression.
+- [Training Load (CTL/TSS)](https://norwegiansingles.run/section3_training_load.llms.md): Understand training-load estimates in Norwegian Singles, including CTL, fatigue, form, and using trends alongside recovery and race results.
+- [Individualization & Considerations](https://norwegiansingles.run/section4_individualization_considerations.llms.md): Adapt Norwegian Singles to your recovery, conditions and race calendar, with guidance on long runs, fueling, strength work and optional monitoring tools.
+- [Applicability to Different Distances](https://norwegiansingles.run/section5_applicability_distances.llms.md): Use Norwegian Singles for ongoing 5k-to-half-marathon training, and understand the different demands of shorter races, marathons and ultras.
+- [Benefits and Monitoring](https://norwegiansingles.run/section6_benefits_monitoring.llms.md): Assess Norwegian Singles through repeatability, recovery and race results, and understand the limits of training-load and performance claims.
 - [Norwegian Singles vs. Other Training Methodologies](https://norwegiansingles.run/section7_comparative_analysis.llms.md): Compare Norwegian Singles with Daniels, Pfitzinger, polarized training, double threshold, and other running methodologies.
 - [Let AI help you](https://norwegiansingles.run/section8_ai_assistance.llms.md): Use an AI agent and the Norwegian Singles guide to build a training plan around your goals, running history, availability, and recovery.
 

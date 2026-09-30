@@ -12,7 +12,7 @@ For help turning this guide into a personal training plan, see [Let AI help you]
 
 ## Read offline
 
-Don’t want to read the website? You can also download a `pdf` or `epub` via de the download icon in the sidebar.
+Prefer to read offline? Download a PDF or EPUB using the download icon in the sidebar.
 
 ## Contributing
 
@@ -22,17 +22,13 @@ Please read up on how to contribute to this guide over at our [GitHub repo](http
 
 ## Background & conceptualization
 
-This section provides some additional context on the origins and popularization of the “Norwegian Singles” training method, particularly within the online running community.
+The method combines principles of Norwegian threshold training with a schedule suited to recreational runners: three controlled sub-threshold sessions, separated by easy running. Pace and heart rate make it possible to train without a lactate meter; testing remains optional.
 
-The method is an adaptation of principles popularized by Norwegian athletes, modified to exclude the use of lactate meters. The core idea involves performing three sub-threshold workouts per week, supplemented only by easy running.
-
-The popularization within the online community, particularly on platforms like Letsrun and Strava, was significantly driven by the user “sirpoc.” His journey reportedly began by analyzing the Strava data of Kristoffer Ingebrigtsen (a non-professional, hobby-jogging member of the Ingebrigtsen family known for their elite running success) and experimenting with replicating aspects of that training.
-
-A key figure in promoting this approach is the online running personality known as “sirpoc.” He documented his significant improvements as a masters runner (improving from a 19-minute 5k runner to achieving times in the mid-to-low 15s for 5k, mid-31s for 10k, and a 1:10 half marathon) using this method after the age of 40.
+James Copeland, known online as “sirpoc,” helped popularize this approach through Letsrun, Strava and Reddit. Drawing on his cycling background and Kristoffer Ingebrigtsen’s running, he experimented with a repeatable weekly structure. His 2025 book reports progress from roughly 19-minute 5k fitness to 15:01 for 5k, 30:41 for 10k, 1:08:51 for the half marathon and a 2:24 marathon at age 41. These are his results, rather than a forecast for other runners.
 
 Further discussion and details can be found in the following resources:
 
-- **The Book:** James Copeland (sirpoc) has written the definitive guide to the method, with a foreword by Marius Bakken MD. [Norwegian Singles Method: Subthreshold Running Kept Simple](https://mybook.to/XzwWbK3)
+- **Copeland’s Book:** [Norwegian Singles Method: Subthreshold Running Kept Simple](https://mybook.to/XzwWbK3) (2025), with a foreword by Marius Bakken MD, explains his framework, pacing guidelines and experience in detail. This community guide summarizes practical principles in its own words and includes other sources and adaptations.
 - **Marius Bakken’s Book:** [The Norwegian Method Applied](https://www.amazon.com/dp/8269471100) covers threshold training and intensity control. [Sample pages](https://online.fliphtml5.com/loping/TheNorwegianMethodApplied/) are available online.
 - **Original Letsrun Thread:** A very long but often informative thread detailing the development and discussion of the method. Sirpoc’s early posts and a summary on page 80 are particularly relevant. <https://www.letsrun.com/forum/flat_read.php?thread=12130781> (Note: The user suggests skipping posts by certain individuals for a more focused read).
 - **Strava Group:** A dedicated group for discussion and community around the training method. <https://strava.app.link/QyAqunp07Pb> (Sirpoc is an admin).
