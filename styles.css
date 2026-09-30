@@ -21,7 +21,16 @@
   color: #263442;
 }
 
-/* Keep wide schedules inside the page on narrow phones. */
+/* Keep long resource URLs inside the reading column. */
+main a {
+  overflow-wrap: anywhere;
+}
+
+main object {
+  max-width: 100%;
+}
+
+/* Keep wide tables inside the page on narrow phones. */
 @media (max-width: 575px) {
   main table {
     display: block;
