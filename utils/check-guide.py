@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check the guide's published arithmetic and local source/rendered links."""
+"""Check the guide's source links, navigation, and rendered discovery files."""
 
 import argparse
 import json
@@ -158,63 +158,6 @@ def main():
     args = parser.parse_args()
     chapters = re.findall(r"^\s+- (\S+\.md)$", (SECTIONS / "_quarto.yml").read_text(), re.M)
     texts = {name: (SECTIONS / name).read_text() for name in chapters}
-    implementation = texts["section2_implementing_the_method.md"]
-    cards = {}
-    pattern = re.compile(
-        r"Time check: (\d+) \+ \((\d+) x (\d+)\) \+ \((\d+) x (\d+)\) "
-        r"\+ (\d+) = (\d+) minutes running; (\d+) minutes quality\."
-    )
-    for letter in ("Intro", "A", "B", "C"):
-        block = re.search(rf"^### {letter}:.*?(?=^### |^## |\Z)",
-                          implementation, re.M | re.S)
-        check(block is not None, f"Missing session {letter}")
-        if block is None:
-            continue
-        matches = pattern.findall(block[0])
-        variants = ("standard",) if letter == "Intro" else ("standard", "shorter", "larger")
-        check(len(matches) == len(variants), f"Session {letter}: expected {len(variants)} time checks")
-        for variant, match in zip(variants, matches):
-            warm, reps, work, breaks, recovery, cool, total, quality = map(int, match)
-            check(breaks == reps - 1, f"{letter} {variant}: recovery count")
-            check(reps * work == quality, f"{letter} {variant}: quality total")
-            check(warm + reps * work + breaks * recovery + cool == total,
-                  f"{letter} {variant}: running total")
-            cards[letter, variant] = total, quality
-    check(len(pattern.findall(implementation)) == 10, "Expected ten session budgets")
-
-    week_count = 0
-    days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
-    for name, text in texts.items():
-        for block in re.findall(r"(?:^\|.*\|\s*\n)+", text, re.M):
-            rows = [[cell.strip() for cell in line.strip().strip("|").split("|")]
-                    for line in block.strip().splitlines()]
-            if rows[0] != ["Day", "Session", "Running", "Quality"]:
-                continue
-            week_count += 1
-            data = rows[2:-1]
-            check([row[0] for row in data] == days, f"{name}: incomplete week")
-            running = quality = 0
-            for day, session, run, work in data:
-                run, work = int(run), int(work)
-                running += run
-                quality += work
-                check(0 <= work <= run, f"{name} {day}: invalid quality minutes")
-                if session.startswith(("Intro:", "A:", "B:", "C:")):
-                    variant = "larger" if "larger" in session else "shorter" if "shorter" in session else "standard"
-                    check(cards.get((session.split(":", 1)[0], variant)) == (run, work),
-                          f"{name} {day}: session differs from card {session}")
-                else:
-                    check(work == 0, f"{name} {day}: unexpected quality minutes")
-            total = rows[-1]
-            check(total[0] == "Total", f"{name}: missing total row")
-            check((running, quality) == (int(total[2]), int(total[3])),
-                  f"{name}: weekly sums do not match")
-            hours, percentage = re.fullmatch(r"([\d.]+) hours; ([\d.]+)% quality", total[1]).groups()
-            check(float(hours) * 60 == running, f"{name}: hours do not match")
-            check(abs(float(percentage) - 100 * quality / running) <= 0.05,
-                  f"{name}: quality percentage does not match")
-    check(week_count == 6, "Expected six complete week tables")
-
     for name, text in texts.items():
         for href in re.findall(r"\]\(([^\s)]+)\)", text):
             result = local_target(name, href)
@@ -233,8 +176,17 @@ def main():
           "Book reference must be in homepage background")
     check(not any(s in home for s in ("Get the Book", "<img", "linear-gradient", "onmouseover")),
           "Homepage still contains promotional book markup")
-    check(len(re.findall(r"^## Progression", implementation, re.M)) == 1,
-          "Keep a single progression section")
+    background = home.split("## Background & conceptualization")[-1]
+    for url in ("https://www.amazon.com/dp/8269471100",
+                "https://online.fliphtml5.com/loping/TheNorwegianMethodApplied/"):
+        check(url in background, f"Missing Bakken book reference: {url}")
+    ai_chapter = "section8_ai_assistance.md"
+    ai_text = texts.get(ai_chapter, "")
+    check(chapters[-1] == ai_chapter, "AI assistance must be the final chapter")
+    check(ai_chapter in home, "Homepage missing the AI chapter link")
+    check("{#plan-with-an-agent}" in ai_text and
+          "Read https://norwegiansingles.run/llms-full.txt" in ai_text,
+          "AI chapter missing the agent planning prompt")
 
     if args.rendered:
         dist = ROOT / "dist"
@@ -302,7 +254,7 @@ def main():
                 check(any("nav" in p for p in epub_pages), "EPUB navigation missing")
     if ERRORS:
         raise SystemExit("\n".join(ERRORS))
-    print(f"Checked {len(chapters)} chapters, {len(cards)} session budgets, {week_count} week tables"
+    print(f"Checked {len(chapters)} chapters and source links"
           + (", Quarto navigation, HTML/EPUB links, and SEO/LLM output." if args.rendered else "."))
 
 

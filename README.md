@@ -2,7 +2,7 @@
 
 # Norwegian Singles Training Guide
 
-This guide explains the Norwegian Singles running routine: three controlled sub-threshold sessions each week, with easy running between them and an easy longer run. It includes a 30-minute introductory workout, examples for three or more running days, and guidance for progression, recovery, and racing. Start with the running you already sustain and use the examples to plan a repeatable week.
+This guide introduces the "Norwegian Singles" training approach, adapted from the high-volume Norwegian model often associated with double threshold sessions. This "singles" variant emphasizes frequent, *single* sub-threshold workouts per day, suitable for runners seeking sustainable improvement in aerobic capacity and performance over the long term, particularly those training 5-9 hours per week. The core idea is maximizing repeatable training load while managing fatigue.
 
 ## Project Background & Motivation
 
@@ -37,19 +37,11 @@ If anyone is genuinely interested in building this project out further, please m
 
 ## Editing the guide
 
-The reading route explains effort first, then shows how to adapt an existing week, follow a complete workout, and adjust for recovery or races. Tools, load metrics, comparisons, and sources follow as optional reading. The existing chapter filenames are kept so published page URLs continue to work.
+Edit the Markdown in `sections/`. The historical scrape and `intermediary/BOOK.md` are source archives, not the current published guide. Quarto builds HTML, PDF, and EPUB from the chapter files into the ignored `dist/` directory.
 
-Keep navigation in Quarto: `book.chapters` in `sections/_quarto.yml` sets the order, and each chapter's first heading supplies its sidebar label. Use source `.md` links with heading anchors for links between chapters; Quarto resolves them for each output format. Do not maintain separate HTML sidebars or hard-code chapter numbers in link text. If a newly deployed homepage leads to an older-looking chapter, reload that chapter: GitHub Pages currently serves HTML with a ten-minute cache lifetime.
+Keep navigation in Quarto: `book.chapters` in `sections/_quarto.yml` sets the order, and each chapter's first heading supplies its sidebar label. Use source `.md` links with heading anchors for links between chapters; Quarto resolves them for each output format. Do not maintain separate HTML sidebars or hard-code chapter numbers in link text.
 
-Edit the Markdown in `sections/`. Week tables and session cards live in the implementation chapter; link to them instead of copying their numbers into other chapters. The historical scrape and `intermediary/BOOK.md` are source archives, not the current published guide. Quarto builds HTML, PDF, and EPUB from the same chapter files into the ignored `dist/` directory. The PDF-only filter in `utils/guide-pdf-layout.lua` reserves space for schedules and workout instructions so they stay together; check it when changing those blocks.
-
-For each content change:
-
-* Identify the reader's question and give an action they can take. Keep the reader's existing days, rest days, and running time as the starting point. Explain terms before using them in instructions; label calendars as examples and keep session cards independent of weekdays.
-* Cite original descriptions for specific prescriptions. Label editorial examples and distinguish adaptations from the standard method. Do not turn a secondhand book quotation into an official rule without checking the passage and edition.
-* Check running minutes, quality minutes, and elapsed time separately. Recovery occurs between repetitions, not after the final repetition. Recalculate the whole week when changing a session.
-* Keep the tone plain and practical. Apply the Humanizer editorial process: flag formulaic writing, rewrite it, then check that no facts, numbers, qualifications, or citations changed unintentionally. Keep promotional language out of the guide; the homepage book reference belongs in its background section.
-* Check related chapters for contradictions. Keep one progression section and link to it from other pages.
+Keep book references in the homepage's background section, without a promotional banner. Preserve the agent planning prompt in the final chapter, “Let AI help you,” and its link to the generated full guide. When changing content, check related chapters and keep page descriptions consistent with the text.
 
 From the repository root, run:
 
@@ -59,9 +51,9 @@ quarto render sections --to all
 python3 utils/check-guide.py --rendered
 ```
 
-The checker validates session arithmetic, weekly totals, links between source chapters, and rendered HTML/EPUB links. It also checks every page's sidebar order, labels, active chapter, and main heading against the Quarto chapter sources. Also inspect the website at desktop and phone widths, PDF tables and page breaks, and EPUB navigation. PDF rendering needs a LaTeX installation; the publishing workflow installs TinyTeX.
+The checker validates source links, the homepage book references and AI chapter prompt, rendered HTML/EPUB links, and each page's sidebar order, labels, active chapter, and main heading. It also checks SEO metadata and AI-readable output. Inspect the website at desktop and phone widths, PDF tables and page breaks, and EPUB navigation. The PDF-only filter in `utils/guide-pdf-layout.lua` keeps short reference tables together. PDF rendering needs a LaTeX installation; the publishing workflow installs TinyTeX.
 
-Keep the three editorial releases reviewable: starting weeks and session instructions; progression, recovery, and racing; then tools and background. Review all formats before merging to `main`, since a push there triggers the existing GitHub Pages publishing workflow. Generated files in `dist/` should not be committed.
+Review all formats before merging to `main`, since a push there triggers the GitHub Pages publishing workflow. Generated files in `dist/` should not be committed.
 
 ## Search and AI-readable output
 

@@ -21,7 +21,7 @@ jobs:
           version: '1.10.18'
           tinytex: true
 
-      - name: Check guide arithmetic and source links
+      - name: Check guide source links and retained features
         run: python3 utils/check-guide.py
 
       - name: Render all formats

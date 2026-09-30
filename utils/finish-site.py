@@ -47,7 +47,7 @@ def main():
     if rendered and not any(line.endswith(".html") for line in rendered.splitlines()):
         return
     full = ["# Norwegian Singles", "", "The complete guide, in reading order. "
-            "Worked schedules are editorial examples; source references and qualifications remain part of the text.", ""]
+            "Source references and qualifications remain part of the text.", ""]
     complete = True
     entries = []
     for chapter in CHAPTERS:

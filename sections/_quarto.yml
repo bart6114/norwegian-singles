@@ -9,7 +9,7 @@ project:
 book:
   title: Norwegian Singles
   subtitle: An Approach To Running
-  description: "A practical guide to Norwegian Singles running: adapt your own week, run controlled intervals, and adjust training for recovery and races."
+  description: "A guide to Norwegian Singles running: core principles, weekly structure, interval examples, training load, and background resources."
   open-graph: true
   twitter-card:
     card-style: summary
@@ -18,12 +18,12 @@ book:
     - index.md
     - section1_core_principles.md
     - section2_implementing_the_method.md
-    - section6_benefits_monitoring.md
-    - section5_applicability_distances.md
-    - section4_individualization_considerations.md
     - section3_training_load.md
+    - section4_individualization_considerations.md
+    - section5_applicability_distances.md
+    - section6_benefits_monitoring.md
     - section7_comparative_analysis.md
-    - sources.md
+    - section8_ai_assistance.md
   sharing:
     - twitter
     - linkedin
@@ -37,7 +37,7 @@ book:
   repo-url: https://github.com/bart6114/norwegian-singles/
   repo-subdir: sections
   repo-actions: [edit, issue]
-  page-footer: "A community guide. Updated 18 September 2026. [Sources](sources.html) · [Contribute](https://github.com/bart6114/norwegian-singles)"
+  page-footer: "A community guide. Updated 30 September 2026. [Sources](index.html#background-conceptualization) · [Contribute](https://github.com/bart6114/norwegian-singles)"
   favicon: icon.png
   downloads:
     - pdf
@@ -46,7 +46,7 @@ book:
 # Quarto 1.10.18's book adapter does not forward llms-txt to website settings.
 website:
   llms-txt: true
-  description: "Practical Norwegian Singles schedules, session instructions, effort guidance, recovery decisions, and source references."
+  description: "A guide to Norwegian Singles running: core principles, weekly structure, interval examples, training load, and background resources."
   image-alt: "Norwegian Singles running guide logo"
 
 format:
