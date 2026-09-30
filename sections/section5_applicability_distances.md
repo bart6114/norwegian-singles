@@ -1,36 +1,35 @@
 ---
 pagetitle: "Applicability to Different Distances"
-description: "Explore how Norwegian Singles applies to different race distances, including shorter races, half marathons, and marathon preparation."
+description: "Use Norwegian Singles for ongoing 5k-to-half-marathon training, and understand the different demands of shorter races, marathons and ultras."
 ---
 
 # Applicability to Different Distances
 
-This method, focusing on sub-threshold work, is primarily designed for the **general preparation phase** of training, building a strong aerobic base. Its direct applicability varies slightly by race distance:
+The standard framework is intended for ongoing training across 5k to half marathon. It builds aerobic capacity while keeping runners ready to race, with adjustments around individual events. Other distances may require changes to the balance of endurance, speed and recovery.
 
 ## 5k to Half Marathon
-This is the sweet spot where the method seems most directly applicable and has shown significant success for many hobby joggers. Regular racing/TTs provide sufficient speed stimulus.
+These distances are the main application of Copeland's approach. The usual week can continue throughout the year, with gradual progression and occasional races or time trials. A separate speed or VO2max phase is optional, rather than an expected next step. Consider additional specificity only when it addresses a clear need and the recovery cost fits your week.
 
 ## 1500m/Mile
-The strong aerobic base built is highly beneficial. May be sufficient on its own, with races providing speed stimulus. Some suggest adding strides, weekly hill sprints (e.g., 10x30s), or replacing a Q session with faster reps (e.g., 300s/400s at race pace) periodically or in a pre-competition phase.
+The aerobic development can be useful, but these races also require comfort at substantially faster speeds. Depending on experience and goals, race-pace practice or other speed work may replace a quality session. Adding it on top of the full week changes the training load and recovery balance.
 
 ## 800m
-Likely requires more specific speed, power, and anaerobic capacity work than this method provides. While the aerobic base is helpful, dedicated 800m training approaches are probably more suitable.
+Speed, power and anaerobic demands become more prominent. Sub-threshold work can contribute to preparation, but this framework alone is unlikely to cover the needs of an 800m-focused runner.
 
 ## Marathon
-Applying the core 3x weekly sub-T structure requires adaptation for the marathon. Common strategies include:
+Copeland's "Marathon Adaptations" chapter describes an extension of an established training base. His own build followed about two years of consistent training; he suggests considering the adaptation after sustained training around or above seven hours weekly. This is context for his approach, not a universal qualification rule or a standalone beginner marathon plan. See [the book reference](index.md#background-conceptualization) for the full progression.
 
-*   **Extending the Long Run:** Gradually increasing the duration, often towards 2-3 hours, primarily at an easy effort.
-*   **Incorporating Quality into the LR:** Some runners integrate sub-threshold or marathon pace (MP) work towards the end of the long run, such as `3 x 10 minutes @ HMP` with short rests, or a continuous `30-minute block @ MP`. This is often done instead of a mid-week quality session.
-*   **Longer Sub-Threshold Reps:** Replacing standard sessions with longer intervals like `3x5k`, `4x5k`, or even `5x5k` at sub-threshold effort, particularly in the later stages of the marathon block.
-*   **Marathon Pace Workouts:** Introducing specific MP workouts, sometimes as tempos (e.g., `10k @ MP`) within a medium-long run, especially closer to the race.
-*   **Fueling/Hydration Practice:** These longer sessions are crucial for practicing race-day nutrition and hydration strategies.
-Consistency and high volume remain vital, but marathon-specific long runs and targeted MP work are generally considered necessary additions or modifications to the base 'singles' structure.
+The main changes are:
+
+*   **Extend easy endurance gradually.** Build from the long run you already tolerate. Copeland works toward expected race duration, capped at about three hours for slower runners. This is a ceiling to approach selectively, not a weekly minimum.
+*   **Scale longer repetitions by time.** His 5km repetitions correspond to roughly 15-18 minutes, with three-minute recoveries, at about 1-2% faster than current marathon speed. A slower runner copying the distance would do substantially more work. These sessions replace standard workouts and require a separate volume allowance; simply extending every repetition in a normal session can be a large jump.
+*   **Introduce specific work selectively.** Longer repetitions and some marathon-pace running enter later in the build. If quality goes into the long run, reduce or replace another quality session. The final demanding block is temporary and followed by a taper, rather than repeated indefinitely.
+*   **Practise race logistics.** Test fueling, hydration, clothing and carrying supplies during appropriate longer sessions. Set race pace from demonstrated fitness and conditions, not an aspirational finish time.
+
+The marathon adaptation has a smaller experience base than the standard 5k-HM framework. Individual recovery, particularly after the largest workouts and the race, should determine the return to normal training.
 
 ## Ultramarathons
-Even more experimental. Requires very high volume and race-specific long runs (back-to-backs, runs with significant elevation). Some might experiment with double-threshold days (e.g., AM track session, PM uphill treadmill session) but this significantly increases load and risk. Logistics like fueling, hydration, and gear become critical.
+Sub-threshold work can contribute aerobic fitness, but the standard week does not address all the demands of an ultra. Terrain, elevation, much longer time on your feet, fueling and equipment need event-specific preparation. Extra threshold sessions are not a substitute for those requirements.
 
 ## Cadence/Form
-Running form, including cadence, is highly individual. While some proponents of this method exhibit very high cadence (e.g., >200 spm during races), it's generally considered an outcome of training and individual biomechanics rather than a specific target to manipulate. Focusing on consistent, controlled effort is more important than consciously altering form aspects like cadence, which may not be necessary or beneficial for all runners.
-
-## Note on Peaking
-While this method forms a strong base, specific race preparation ("peaking") might involve introducing higher intensity workouts (e.g., VO2max intervals, race pace work) closer to a key event, depending on the distance and individual needs. This is typically considered a separate phase built upon the foundation laid by consistent sub-threshold training.
+Cadence and running form vary between runners. Another runner's high cadence is not a target to copy. Focus on controlled effort and comfortable mechanics; investigate pain or a specific limitation individually rather than forcing a universal stride pattern.

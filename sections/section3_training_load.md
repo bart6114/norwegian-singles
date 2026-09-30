@@ -1,19 +1,21 @@
 ---
 pagetitle: "Training Load (CTL/TSS)"
-description: "Understand training load in Norwegian Singles, including CTL, TSS, equivalent workout stress, and tracking tools."
+description: "Understand training-load estimates in Norwegian Singles, including CTL, fatigue, form, and using trends alongside recovery and race results."
 ---
 
 # Training Load (CTL/TSS)
 
 ## Concept
-Training Stress Score (TSS) or similar metrics attempt to quantify the stress of a single workout based on duration and intensity relative to your threshold. Chronic Training Load (CTL) is a rolling average (often 42 days, exponentially weighted) of daily TSS, representing your fitness or sustainable load.
+Training Stress Score (TSS) and similar metrics estimate workout load from duration and intensity relative to threshold. Chronic Training Load (CTL) averages daily scores, usually with a 42-day weighting favouring recent training. Apps often call it "fitness," but it measures accumulated load.
+
+Acute Training Load (ATL) typically covers seven days. Training Stress Balance (TSB), or "form," compares chronic and acute load to estimate freshness. These models cannot measure recovery directly or override persistent soreness, poor sleep or unusually difficult easy runs.
 
 ## Application & Correlation with Performance
-This method allows for accumulating a high Chronic Training Load (CTL) due to the repeatability of sub-threshold work. Research and anecdotal evidence strongly suggest a correlation between the highest *sustained* CTL an athlete can manage and their race performance potential (as illustrated conceptually in the provided document's graph showing Critical Power vs. Sustained CTL). While not a perfect predictor, and absolute CTL values aren't directly comparable between individuals, tracking your *own* CTL trend is a key indicator of fitness progression. The goal is to maximize sustainable load over time.
+Copeland tracks sustained load alongside race results. Use that comparison yourself: does a manageable training increase eventually accompany better performance? CTL alone cannot establish this, and scores are not directly comparable between runners or calculation methods.
 
-## Intensity Management & Equivalent Stress
-*   **Balancing Load:** The aim is to find the "green zone" (as conceptualized in the provided document) – a level of weekly sub-threshold work that maximizes stimulus without inducing excessive fatigue or hindering recovery for subsequent sessions. This allows for consistent high-quality training week after week.
-*   **Equivalent Stress:** Different sub-threshold workout structures (e.g., varying interval length, rest, and pace slightly) can be designed to elicit a similar overall training stress or stimulus (as explored in the document's ANNEX A). This allows for variety in training while maintaining a consistent load on the body. For example, a session of 10x1000m with shorter rest might be physiologically similar in stress to 3x3000m with longer rest, provided both are executed at the appropriate sub-threshold intensity for that duration.
+Progress can occur at steady load. Follow the [progression guidance](section2_implementing_the_method.md#getting-started-progression), reviewing recovery and performance over several weeks, rather than adding sessions to reach an app's coloured zone.
+
+Different interval formats can produce similar scores without equal recovery demands. Faster running, longer uninterrupted efforts and unfamiliar terrain may feel different the next day. Use that response when judging whether a substitution works.
 
 ## Tracking Tools
-Tools like Intervals.icu, TrainingPeaks, or Runalyze calculate TSS/CTL. Consistent data input (accurate threshold values, chosen metric) is key. Pace-based TSS (rTSS) is often preferred for consistency if running routes/conditions are stable, but requires accurate threshold pace updates. Heart rate-based TSS (hrTSS) or power-based TSS can also be used, depending on your primary intensity monitoring method.
+Intervals.icu, TrainingPeaks and Runalyze offer load tracking. Choose a consistent metric and update its threshold settings as fitness changes. Pace-based estimates suit comparable routes and conditions, but heat, wind and hills can make them understate effort. HR and power estimates have their own limitations. Read trends alongside running time, perceived effort and race results.

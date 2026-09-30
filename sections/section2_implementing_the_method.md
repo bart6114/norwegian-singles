@@ -1,77 +1,51 @@
 ---
 pagetitle: "Implementing the Method"
-description: "Explore the Norwegian Singles weekly structure, time- and distance-based interval examples, recovery periods, and training progression."
+description: "Build a Norwegian Singles week with controlled intervals, appropriate recoveries, time-scaled repetitions, and gradual training progression."
 ---
 
 # Implementing the Method
 
 ## Weekly Structure
-The standard recommendation is 3 quality (sub-threshold) sessions per week, interspersed with 3-4 easy runs, following a pattern like E-Q-E-Q-E-Q-LR(Easy).
+The established framework uses three quality sessions, three easy runs and one longer easy run. An example week is:
 
-*   E: Easy workout
-*   Q: Quality workout (sub-threshold intervals)
-*   LR: Long Run (Easy pace)
-*   R: Rest day
+| Day | Session |
+| :--- | :--- |
+| Monday | Easy |
+| Tuesday | Longer sub-threshold repetitions |
+| Wednesday | Easy |
+| Thursday | Medium sub-threshold repetitions |
+| Friday | Easy |
+| Saturday | Shorter sub-threshold repetitions |
+| Sunday | Longer easy run |
 
-One easy run might be longer (75-90 mins often sufficient for up to HM). A rest day can replace an easy day if needed (E-Q-E-Q-R-Q-LR), but the 7-day structure maximizes consistent load. Combining quality work into the long run is generally discouraged as it disrupts the load/recovery balance (though marathon adaptations exist). For higher volumes (e.g., 9+ hours/week), adding easy doubles on easy days is often preferred over extending single runs or adding volume around Q sessions initially.
+These are session slots, not an instruction to immediately run seven days. Preserve existing rest days when starting. For a six-day version, one ordinary easy day can become rest. If new to structured intensity, begin with two quality sessions, making the third slot easy or rest. At lower volumes, an eventual third session can be shorter and gentler while you assess recovery.
 
-**Example Weekly Structures:**
-
-*   **Beginner/Lower Volume:**
-    *   Mon: Easy
-    *   Tue: SubT (e.g., 1 x 3000m)
-    *   Wed: Easy
-    *   Thu: SubT (e.g., 2 x 2000m, 90s rest)
-    *   Fri: Easy
-    *   Sat: SubT (e.g., 4 x 1000m, 60s rest)
-    *   Sun: Rest or Easy/Long Run
-
-*   **Advanced/Higher Volume:**
-    *   Mon: Easy
-    *   Tue: SubT (e.g., 3 x 3000m, 120s rest)
-    *   Wed: Easy (+/- double easy)
-    *   Thu: SubT (e.g., 4 x 2000m, 90s rest)
-    *   Fri: Easy (+/- double easy)
-    *   Sat: SubT (e.g., 8-10 x 1000m, 60s rest)
-    *   Sun: Long Run (Easy)
+Keep the long run easy rather than adding another demanding session. A race replaces a quality slot; see [racing and time trials](section4_individualization_considerations.md#racingtime-trials) for adjustments around it. If you miss a workout, resume the schedule without cramming it into the following easy day.
 
 ## Quality Workouts (Sub-Threshold)
 
-*   **Format:** Intervals with relatively short rest. Rest can be standing, walking, or slow jogging. The key is maintaining the sub-threshold effort *during* the work interval.
-*   **Volume:** Aim for total sub-threshold work to be 20-25% of your total weekly running *time*. Start conservatively (e.g., 20-25 mins total work per session) and build gradually. For lower weekly volumes (e.g., <5 hours), maintaining 3 sessions might mean shorter workout durations.
-*   **Time vs. Distance:** Using time-based intervals (e.g., 10 x 3 min) instead of distance (e.g., 10 x 1k) ensures consistent workout duration regardless of pace, which can be beneficial for consistency and comparing load across different ability levels. However, distance-based intervals are also common.
-*   **Pacing:** Remember LT2 is an *effort level* over time, not a fixed speed. Shorter intervals can be run slightly faster than longer intervals while maintaining the same sub-threshold physiological state. Use current fitness and monitoring tools (lactate, HR, power, RPE) to guide pace. Some athletes may also use specific calculators or guides, such as the [Lactrace paceguide](https://lactrace.com/norwegian-singles), to calculate optimal zones.
-*   **Example Time-Based Workouts (adjust reps/duration based on total weekly time target):**
+**Work and recovery:** Break the work into repetitions, with standing, walking or very slow jogging between them. The breaks help limit accumulated fatigue and make pacing mistakes easier to correct. Shortening recovery or jogging faster is not a progression target.
 
-    | Time     | Repetitions | Pace Guide         | Rest    |
-    | :------- | :---        | :----------------- | :------ |
-    | 1 min    | 25          | 10k/CV pace        | 30s     |
-    | 3 min    | 10-12       | 15k pace           | 60s     |
-    | 5-6 min  | 6-8         | 15k pace           | 60s     |
-    | 6-8 min  | 5-6         | Half marathon pace | 60s     |
-    | 10-12min | 3-4         | HM - 30k pace      | 60-120s |
-    | 15min    | 3-4         | 30k pace           | 90-120s |
+The following summarizes the original duration-based ranges discussed in [Copeland's book](index.md#background-conceptualization), in "The Method." Use equivalent race paces from current fitness and start at the slower end. The book also provides a newer 5k-based pace table for different abilities.
 
-*   **Example Distance-Based Workouts (Paces are approximate guides, adjust based on individual LT2):**
+| Repetition | Starting pace guide | Recovery |
+| :--- | :--- | :--- |
+| About 3 minutes | 12-15k race pace | 60 seconds |
+| About 6 minutes | Around 20k / half-marathon pace | 60-90 seconds |
+| About 10 minutes | 25-30k race pace | 90-120 seconds |
 
-    | Distance | Pace Guide        | Rest    |
-    | :------- | :---------------- | :------ |
-    | 3000m    | ~25k-30k pace     | 120s    |
-    | 2000m    | ~21.1k-25k pace   | 90s     |
-    | 1600m    | ~10 mile pace     | 60s-90s |
-    | 1000m    | ~10k to <15k pace | 60s     |
+These are estimates, not proof that you are below LT2. Use the [intensity checks](section1_core_principles.md#intensity-control), and allow slower paces in difficult conditions. Short, faster repetitions at 10k pace or above are not a default part of this framework, even if the recoveries keep lactate low.
 
-*   **Variety:** While consistency is key, rotating through different interval formats (e.g., 10x1k Tue, 5x2k Thu, 3x3k Sat) can provide slightly different stimuli and prevent monotony. The physiological benefit difference between formats at the same sub-threshold state is debated, but variety is often beneficial psychologically.
+**How much work:** Around 20-25% of weekly training time is a useful starting range for sub-threshold work once established. Count only the repetitions as quality minutes. Include warm-ups, recoveries and cool-downs when budgeting the full session and weekly time. For example, three sessions of 24 minutes of work total 72 quality minutes, not three entire hours of quality training. Do not force this proportion while adapting to two sessions.
 
-## Getting Started & Progression
-*   **Beginners:** If new to structured intensity, start with **2 quality sessions** per week instead of 3. Focus first on building consistent weekly volume you can sustain, then gradually increase the duration/reps of the quality sessions or add the third session.
-*   Increase the *duration* or *number* of sub-threshold reps slowly.
-*   Increase overall weekly running time (mostly via easy runs) proportionally to maintain the ~75/25 easy/quality split.
-*   Regularly update target paces/HR zones based on recent (within 4-8 weeks) races or time trials.
-*   Monitor Training Load (see below) and listen to your body.
+**A complete session:** Allow about 10 minutes of easy warm-up, run the first repetition slightly conservatively, complete the planned repetitions and recoveries, then jog easily for 7-10 minutes. Eight 3-minute repetitions with seven 1-minute recoveries therefore take about 48-51 minutes in total. Reduce the repetition count to fit your current training; this is an example, not a minimum.
 
-## Progression
-*   Increase the *duration* or *number* of sub-threshold reps slowly.
-*   Increase overall weekly running time (mostly via easy runs) proportionally to maintain the ~75/25 easy/quality split.
-*   Regularly update target paces/HR zones based on recent (within 4-8 weeks) races or time trials.
-*   Monitor Training Load (see below) and listen to your body.
+**Distance alternatives:** Choose distances that take approximately the intended time. A 3-minute repetition might be 600m for one runner and close to 1km for another. Keep short repetitions within roughly half a minute of the intended duration, and medium or long ones within about a minute. Avoid copying a faster runner's kilometre session and unintentionally extending every repetition.
+
+## Getting Started & Progression {#getting-started-progression}
+
+1. **Start from recent training.** Keep total weekly time near what you already sustain, replacing existing hard sessions rather than adding quality on top. Establish easy running and recovery before pursuing three sessions.
+2. **Consolidate before increasing.** Copeland's "The Plans" chapter suggests at least a month at a manageable level, then a small intermediate increase held for another two or three weeks. Readiness matters more than completing a calendar block.
+3. **Add time gradually.** Increase easy running alongside quality work. For example, adding one 3-minute repetition across the whole week could be paired with about 12 extra easy minutes, distributed across existing runs. Change one small part of the week, then reassess.
+4. **Let the proportions evolve.** As volume rises, quality may settle nearer 20-22% of weekly time. Do not keep extending workouts just to preserve 25%. Around eight hours on singles, consider easy doubles if more volume is appropriate and practical.
+5. **Earn faster paces through fitness.** Reassess using races or time trials, often every 4-8 weeks. Update targets when performance supports it, not simply because another week has passed. Hold or reduce load when recovery deteriorates.
