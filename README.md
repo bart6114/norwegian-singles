@@ -53,7 +53,27 @@ python3 utils/check-guide.py --rendered
 
 The checker validates source links, the homepage book references and AI chapter prompt, rendered HTML/EPUB links, and each page's sidebar order, labels, active chapter, and main heading. It also checks SEO metadata and AI-readable output. Inspect the website at desktop and phone widths, PDF tables and page breaks, and EPUB navigation. The PDF-only filter in `utils/guide-pdf-layout.lua` keeps short reference tables together. PDF rendering needs a LaTeX installation; the publishing workflow installs TinyTeX.
 
-Review all formats before merging to `main`, since a push there triggers the GitHub Pages publishing workflow. Generated files in `dist/` should not be committed.
+Review all formats before merging to `main`, since a push there builds and deploys the guide to Cloudflare Workers Static Assets. Generated files in `dist/` should not be committed.
+
+## Hosting and release checks
+
+GitHub Actions renders all three formats with Quarto 1.10.18 and TinyTeX, checks the output, then deploys only `dist/` using pinned Wrangler and action versions. Pull requests run the build and content checks without deploying. The `CLOUDFLARE_API_TOKEN` repository secret is an account token restricted to the `norwegian-singles` Worker with the **Individual Workers Editor** permission. GitHub's own token needs only read access to this repository.
+
+The site uses Workers Static Assets without a Worker script. `wrangler.json` preserves Quarto's `.html` chapter URLs and returns 404 for missing files. `utils/prepare-deploy.py` adds the homepage rewrite, response headers, and a `release.json` manifest with the source commit and SHA-256 hashes of every public asset. Cloudflare manages asset caching; HTML is revalidated rather than cached indefinitely. Deployment configuration is excluded from public assets.
+
+The custom domain `norwegiansingles.run` is managed in Cloudflare's Worker domain settings, separately from the restricted deployment token. Cloudflare serves the site and manages its certificate directly, with no GitHub Pages origin certificate in the path. Keep the existing `www` redirect pointed at the apex domain.
+
+A release is successful only after `utils/check-live.py` verifies the public HTTPS files against the local build, including every chapter, stylesheet, script, search index, PDF, EPUB, and AI-readable file. It also checks the homepage and real 404s. The **Live site health** workflow repeats the public checks daily and can be run manually from Actions. An outage or mismatch fails the workflow; enable GitHub Actions failure notifications to receive alerts.
+
+For a manual release after the normal render and content checks:
+
+```sh
+python3 utils/prepare-deploy.py
+npx wrangler@4.162.0 deploy
+python3 utils/check-live.py --manifest dist/release.json --wait 120
+```
+
+For rollback, select the previous deployment under the Worker's **Deployments** tab, then run the live check. The former `gh-pages` branch is a historical artifact, not the publishing source. Stop any long-running Quarto preview before rendering a manual release so it cannot overwrite the output during deployment.
 
 ## Search and AI-readable output
 

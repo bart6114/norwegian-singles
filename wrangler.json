@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "norwegian-singles",
+  "account_id": "6adc50875d0ccd569fe6b0558742e7a0",
+  "compatibility_date": "2026-11-15",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./dist",
+    "html_handling": "none",
+    "not_found_handling": "none"
+  }
+}

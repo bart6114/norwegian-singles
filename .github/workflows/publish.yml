@@ -6,17 +6,22 @@ on:
 
 name: Quarto Publish
 
+concurrency:
+  group: publish-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     permissions:
-      contents: write
+      contents: read
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
 
       - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
+        uses: quarto-dev/quarto-actions/setup@8a96df13519ee81fd526f2dfca5962811136661b # v2
         with:
           version: '1.10.18'
           tinytex: true
@@ -30,12 +35,18 @@ jobs:
       - name: Check rendered links and discovery files
         run: python3 utils/check-guide.py --rendered
 
-      - name: Publish checked output
+      - name: Prepare Workers assets and release manifest
+        run: python3 utils/prepare-deploy.py
+
+      - name: Deploy checked output to Cloudflare Workers
         if: github.event_name != 'pull_request'
-        uses: quarto-dev/quarto-actions/publish@v2
+        uses: cloudflare/wrangler-action@953926a2e2182532811c01a25e53647d93bf07c0 # v4
         with:
-          target: gh-pages
-          path: sections
-          render: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: '6adc50875d0ccd569fe6b0558742e7a0'
+          wranglerVersion: '4.162.0'
+          command: deploy
+
+      - name: Verify the public HTTPS release
+        if: github.event_name != 'pull_request'
+        run: python3 utils/check-live.py --manifest dist/release.json --wait 600
