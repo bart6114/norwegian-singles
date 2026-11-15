@@ -28,7 +28,9 @@ training.
 
 Give complete workouts and effort guidance, plus adjustments for
 fatigue, missed runs, and races. Treat the guide's calendars as
-examples and explain unfamiliar terms.
+examples and explain unfamiliar terms. Treat X-sessions as optional;
+include one only for a clear purpose and explain which quality work
+it replaces and how recovery days change.
 ```
 
 :::

@@ -1,6 +1,6 @@
 ---
 pagetitle: "Individualization and Considerations"
-description: "Adapt Norwegian Singles to your recovery, conditions and race calendar, with guidance on long runs, fueling, strength work and optional monitoring tools."
+description: "Adapt Norwegian Singles to your recovery, conditions and race calendar, with guidance on optional X-sessions, long runs, fueling and strength work."
 ---
 
 # Individualization & Considerations
@@ -34,8 +34,23 @@ Keep this an extension of easy running. Copeland suggests approximately 1.7 time
 
 Before a half marathon, occasional modest extensions can help with time on your feet, but matching a slower runner's entire race duration is unnecessary. Marathon preparation needs a [separate adaptation](section5_applicability_distances.md#marathon).
 
-## Speed Work/Strides/Strength
-Strides, hills and strength work are optional additions to the framework. Copeland does not routinely include them; that personal choice does not establish that they are unhelpful for everyone. Keep prescribed rehabilitation or strength work, and account for its fatigue when planning running. If adding something new, introduce a small amount and assess its effect before also increasing running volume.
+## Optional X-sessions {#optional-x-factor}
+
+[]{#speed-workstridesstrength}
+
+An X-session, sometimes called an X-factor workout, typically replaces one of the three weekly sub-threshold sessions with a different type of workout. For example, Tuesday and Thursday could stay sub-threshold, while Saturday becomes a session chosen for the race you are preparing for. You can also continue with the standard week; X-sessions are optional.
+
+* **For a 5k or 10k:** short repetitions at your current 5k or 10k race pace, with recovery between them, give you practice running faster than in your usual sub-threshold sessions.
+* **For a hilly race:** repeated uphill efforts let you practise the climbs you will face.
+* **For a marathon:** longer blocks at current marathon pace let you practise sustaining that effort. See the [marathon adaptation](section5_applicability_distances.md#marathon) for how this changes the rest of your training.
+
+You might use an X-session occasionally or during preparation for a particular race. Start with a small amount of unfamiliar work and keep the rest of the week familiar while you assess recovery. Do not make up the sub-threshold session it replaces. A race already takes a quality slot; if you put the X-session into Sunday's long run, make Saturday easy or rest.
+
+Reduce or remove the new workout if it repeatedly leaves you too tired for your next planned sessions. For background and other examples, see [Bakken's account](https://www.mariusbakken.com/the-norwegian-model.html) and the [community discussion](https://www.reddit.com/r/NorwegianSinglesRun/comments/1xwxgjz/x_factor/).
+
+## Strength
+
+Strength work is optional within this framework. Copeland does not routinely include it; that personal choice does not establish that it is unhelpful for everyone. Keep prescribed rehabilitation or strength work and account for its fatigue when planning running.
 
 ## Fueling
 Eat enough to support the weekly load. Include carbohydrate and protein after quality sessions, and make recovery food practical around work and other commitments. Increased training can require increased overall intake. Longer marathon sessions also provide opportunities to practise fueling and hydration while running.

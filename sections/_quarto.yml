@@ -37,7 +37,7 @@ book:
   repo-url: https://github.com/bart6114/norwegian-singles/
   repo-subdir: sections
   repo-actions: [edit, issue]
-  page-footer: "A community guide. Updated 30 September 2026. [Sources](index.html#background-conceptualization) · [Contribute](https://github.com/bart6114/norwegian-singles)"
+  page-footer: "A community guide. Updated 15 November 2026. [Sources](index.html#background-conceptualization) · [Contribute](https://github.com/bart6114/norwegian-singles)"
   favicon: icon.png
   downloads:
     - pdf

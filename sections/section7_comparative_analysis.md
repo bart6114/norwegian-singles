@@ -8,7 +8,7 @@ description: "Compare Norwegian Singles with Daniels, Pfitzinger, polarized trai
 Norwegian Singles concentrates quality work into three controlled sub-threshold sessions, separated by easy running. The comparisons below describe broad differences in structure; individual plans and coaching approaches vary. They do not establish that one method is best for every runner.
 
 ## vs. Daniels' Running Formula
-Norwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas Norwegian Singles maintains the same workout structure year-round with gradual progression.
+Norwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas the standard Norwegian Singles week uses the same workout structure year-round with gradual progression.
 
 ## vs. Lydiard Method
 Norwegian Singles employs a consistent year-round approach with sub-threshold as the primary quality intensity, while Lydiard uses sequential training phases (aerobic base → hills → speed → race-specific). Norwegian Singles scales an easy long run to the rest of the week, whereas Lydiard emphasizes very long aerobic runs during base phase followed by increasing anaerobic work in later phases.
