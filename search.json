@@ -84,7 +84,7 @@
     "href": "section2_implementing_the_method.html",
     "title": "2  Implementing the Method",
     "section": "",
-    "text": "2.1 Weekly Structure\nThe established framework uses three quality sessions, three easy runs and one longer easy run. An example week is:\nThese are session slots, not an instruction to immediately run seven days. Preserve existing rest days when starting. For a six-day version, one ordinary easy day can become rest. If new to structured intensity, begin with two quality sessions, making the third slot easy or rest. At lower volumes, an eventual third session can be shorter and gentler while you assess recovery.\nKeep the long run easy rather than adding another demanding session. A race replaces a quality slot; see racing and time trials for adjustments around it. If you miss a workout, resume the schedule without cramming it into the following easy day.",
+    "text": "2.1 Weekly Structure\nThe established framework uses three quality sessions, three easy runs and one longer easy run. An example week is:\nThese are session slots, not an instruction to immediately run seven days. Preserve existing rest days when starting. For a six-day version, one ordinary easy day can become rest. If new to structured intensity, begin with two quality sessions, making the third slot easy or rest. At lower volumes, an eventual third session can be shorter and gentler while you assess recovery.\nKeep the long run easy rather than adding another demanding session. A race replaces a quality slot; see racing and time trials for adjustments around it. If you miss a workout, resume the schedule without cramming it into the following easy day.\nOnce established, you can replace one sub-threshold session with an optional X-session, such as race-pace repetitions when preparing for a 5k.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Implementing the Method</span>"
     ]
@@ -200,11 +200,21 @@
     ]
   },
   {
-    "objectID": "section4_individualization_considerations.html#speed-workstridesstrength",
-    "href": "section4_individualization_considerations.html#speed-workstridesstrength",
+    "objectID": "section4_individualization_considerations.html#optional-x-factor",
+    "href": "section4_individualization_considerations.html#optional-x-factor",
     "title": "4  Individualization & Considerations",
-    "section": "4.6 Speed Work/Strides/Strength",
-    "text": "4.6 Speed Work/Strides/Strength\nStrides, hills and strength work are optional additions to the framework. Copeland does not routinely include them; that personal choice does not establish that they are unhelpful for everyone. Keep prescribed rehabilitation or strength work, and account for its fatigue when planning running. If adding something new, introduce a small amount and assess its effect before also increasing running volume.",
+    "section": "4.6 Optional X-sessions",
+    "text": "4.6 Optional X-sessions\n\nAn X-session, sometimes called an X-factor workout, typically replaces one of the three weekly sub-threshold sessions with a different type of workout. For example, Tuesday and Thursday could stay sub-threshold, while Saturday becomes a session chosen for the race you are preparing for. You can also continue with the standard week; X-sessions are optional.\n\nFor a 5k or 10k: short repetitions at your current 5k or 10k race pace, with recovery between them, give you practice running faster than in your usual sub-threshold sessions.\nFor a hilly race: repeated uphill efforts let you practise the climbs you will face.\nFor a marathon: longer blocks at current marathon pace let you practise sustaining that effort. See the marathon adaptation for how this changes the rest of your training.\n\nYou might use an X-session occasionally or during preparation for a particular race. Start with a small amount of unfamiliar work and keep the rest of the week familiar while you assess recovery. Do not make up the sub-threshold session it replaces. A race already takes a quality slot; if you put the X-session into Sunday’s long run, make Saturday easy or rest.\nReduce or remove the new workout if it repeatedly leaves you too tired for your next planned sessions. For background and other examples, see Bakken’s account and the community discussion.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
+    ]
+  },
+  {
+    "objectID": "section4_individualization_considerations.html#strength",
+    "href": "section4_individualization_considerations.html#strength",
+    "title": "4  Individualization & Considerations",
+    "section": "4.7 Strength",
+    "text": "4.7 Strength\nStrength work is optional within this framework. Copeland does not routinely include it; that personal choice does not establish that it is unhelpful for everyone. Keep prescribed rehabilitation or strength work and account for its fatigue when planning running.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
     ]
@@ -213,8 +223,8 @@
     "objectID": "section4_individualization_considerations.html#fueling",
     "href": "section4_individualization_considerations.html#fueling",
     "title": "4  Individualization & Considerations",
-    "section": "4.7 Fueling",
-    "text": "4.7 Fueling\nEat enough to support the weekly load. Include carbohydrate and protein after quality sessions, and make recovery food practical around work and other commitments. Increased training can require increased overall intake. Longer marathon sessions also provide opportunities to practise fueling and hydration while running.",
+    "section": "4.8 Fueling",
+    "text": "4.8 Fueling\nEat enough to support the weekly load. Include carbohydrate and protein after quality sessions, and make recovery food practical around work and other commitments. Increased training can require increased overall intake. Longer marathon sessions also provide opportunities to practise fueling and hydration while running.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
     ]
@@ -223,8 +233,8 @@
     "objectID": "section4_individualization_considerations.html#cross-training",
     "href": "section4_individualization_considerations.html#cross-training",
     "title": "4  Individualization & Considerations",
-    "section": "4.8 Cross-Training",
-    "text": "4.8 Cross-Training\nCycling or an elliptical can replace some running when impact, recovery or preference makes that useful. Preserve the separation between easy and demanding days, and use effort or thresholds appropriate to that activity. Equal duration or HR does not necessarily mean equal training load across sports. When running performance is the goal, retain running-specific practice as circumstances allow.",
+    "section": "4.9 Cross-Training",
+    "text": "4.9 Cross-Training\nCycling or an elliptical can replace some running when impact, recovery or preference makes that useful. Preserve the separation between easy and demanding days, and use effort or thresholds appropriate to that activity. Equal duration or HR does not necessarily mean equal training load across sports. When running performance is the goal, retain running-specific practice as circumstances allow.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
     ]
@@ -233,8 +243,8 @@
     "objectID": "section4_individualization_considerations.html#alternative-monitoring-methods",
     "href": "section4_individualization_considerations.html#alternative-monitoring-methods",
     "title": "4  Individualization & Considerations",
-    "section": "4.9 Alternative Monitoring Methods",
-    "text": "4.9 Alternative Monitoring Methods\nExtra devices are optional. A lactate curve can help interpret tests; power or breathing measurements can add context. None removes the need to check repeatability and recovery.\nCritical power is a model-based estimate and should not be treated as identical to LT2 or a lactate reading. Research in runners found different critical-speed and maximal-lactate-steady-state values. Avoid assuming that one percentage of CP suits every runner and repetition format. Keep the device and testing method consistent when tracking changes over time.\nSuunto’s ZoneSense guidance describes a beat-to-beat chest-strap requirement, no readings in the first ten minutes, and a delayed response to intensity changes. It is better suited to steady efforts and longer repetitions. Live-watch compatibility differs from post-run analysis support. Treat its zones as additional estimates rather than direct lactate measurements.",
+    "section": "4.10 Alternative Monitoring Methods",
+    "text": "4.10 Alternative Monitoring Methods\nExtra devices are optional. A lactate curve can help interpret tests; power or breathing measurements can add context. None removes the need to check repeatability and recovery.\nCritical power is a model-based estimate and should not be treated as identical to LT2 or a lactate reading. Research in runners found different critical-speed and maximal-lactate-steady-state values. Avoid assuming that one percentage of CP suits every runner and repetition format. Keep the device and testing method consistent when tracking changes over time.\nSuunto’s ZoneSense guidance describes a beat-to-beat chest-strap requirement, no readings in the first ten minutes, and a delayed response to intensity changes. It is better suited to steady efforts and longer repetitions. Live-watch compatibility differs from post-run analysis support. Treat its zones as additional estimates rather than direct lactate measurements.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Individualization & Considerations</span>"
     ]
@@ -244,7 +254,7 @@
     "href": "section5_applicability_distances.html",
     "title": "5  Applicability to Different Distances",
     "section": "",
-    "text": "5.1 5k to Half Marathon\nThe standard framework is intended for ongoing training across 5k to half marathon. It builds aerobic capacity while keeping runners ready to race, with adjustments around individual events. Other distances may require changes to the balance of endurance, speed and recovery.\nThese distances are the main application of Copeland’s approach. The usual week can continue throughout the year, with gradual progression and occasional races or time trials. A separate speed or VO2max phase is optional, rather than an expected next step. Consider additional specificity only when it addresses a clear need and the recovery cost fits your week.",
+    "text": "5.1 5k to Half Marathon\nThe standard framework is intended for ongoing training across 5k to half marathon. It builds aerobic capacity while keeping runners ready to race, with adjustments around individual events. Other distances may require changes to the balance of endurance, speed and recovery.\nThese distances are the main application of Copeland’s approach. The usual week can continue throughout the year, with gradual progression and occasional races or time trials. A separate speed or VO2max phase is optional, rather than an expected next step. Consider optional X-sessions when they address a clear need and the recovery cost fits your week; regular racing may already supply the faster-running practice you want.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
     ]
@@ -274,7 +284,7 @@
     "href": "section5_applicability_distances.html#marathon",
     "title": "5  Applicability to Different Distances",
     "section": "5.4 Marathon",
-    "text": "5.4 Marathon\nCopeland’s “Marathon Adaptations” chapter describes an extension of an established training base. His own build followed about two years of consistent training; he suggests considering the adaptation after sustained training around or above seven hours weekly. This is context for his approach, not a universal qualification rule or a standalone beginner marathon plan. See the book reference for the full progression.\nThe main changes are:\n\nExtend easy endurance gradually. Build from the long run you already tolerate. Copeland works toward expected race duration, capped at about three hours for slower runners. This is a ceiling to approach selectively, not a weekly minimum.\nScale longer repetitions by time. His 5km repetitions correspond to roughly 15-18 minutes, with three-minute recoveries, at about 1-2% faster than current marathon speed. A slower runner copying the distance would do substantially more work. These sessions replace standard workouts and require a separate volume allowance; simply extending every repetition in a normal session can be a large jump.\nIntroduce specific work selectively. Longer repetitions and some marathon-pace running enter later in the build. If quality goes into the long run, reduce or replace another quality session. The final demanding block is temporary and followed by a taper, rather than repeated indefinitely.\nPractise race logistics. Test fueling, hydration, clothing and carrying supplies during appropriate longer sessions. Set race pace from demonstrated fitness and conditions, not an aspirational finish time.\n\nThe marathon adaptation has a smaller experience base than the standard 5k-HM framework. Individual recovery, particularly after the largest workouts and the race, should determine the return to normal training.",
+    "text": "5.4 Marathon\nCopeland’s “Marathon Adaptations” chapter describes an extension of an established training base. His own build followed about two years of consistent training; he suggests considering the adaptation after sustained training around or above seven hours weekly. This is context for his approach, not a universal qualification rule or a standalone beginner marathon plan. See the book reference for the full progression.\nThe main changes are:\n\nExtend easy endurance gradually. Build from the long run you already tolerate. Copeland works toward expected race duration, capped at about three hours for slower runners. This is a ceiling to approach selectively, not a weekly minimum.\nScale longer repetitions by time. His 5km repetitions correspond to roughly 15-18 minutes, with three-minute recoveries, at about 1-2% faster than current marathon speed. A slower runner copying the distance would do substantially more work. These sessions replace standard workouts and require a separate volume allowance; simply extending every repetition in a normal session can be a large jump.\nIntroduce specific work selectively. Longer repetitions and some marathon-pace running enter later in the build. This can serve the event-specific role of an X-session. If quality goes into the long run, reduce or replace another quality session and keep the preceding day easy or rest. The final demanding block is temporary and followed by a taper, rather than repeated indefinitely.\nPractise race logistics. Test fueling, hydration, clothing and carrying supplies during appropriate longer sessions. Set race pace from demonstrated fitness and conditions, not an aspirational finish time.\n\nThe marathon adaptation has a smaller experience base than the standard 5k-HM framework. Individual recovery, particularly after the largest workouts and the race, should determine the return to normal training.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Applicability to Different Distances</span>"
     ]
@@ -344,7 +354,7 @@
     "href": "section7_comparative_analysis.html",
     "title": "7  Norwegian Singles vs. Other Training Methodologies",
     "section": "",
-    "text": "7.1 vs. Daniels’ Running Formula\nNorwegian Singles concentrates quality work into three controlled sub-threshold sessions, separated by easy running. The comparisons below describe broad differences in structure; individual plans and coaching approaches vary. They do not establish that one method is best for every runner.\nNorwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas Norwegian Singles maintains the same workout structure year-round with gradual progression.",
+    "text": "7.1 vs. Daniels’ Running Formula\nNorwegian Singles concentrates quality work into three controlled sub-threshold sessions, separated by easy running. The comparisons below describe broad differences in structure; individual plans and coaching approaches vary. They do not establish that one method is best for every runner.\nNorwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas the standard Norwegian Singles week uses the same workout structure year-round with gradual progression.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Norwegian Singles vs. Other Training Methodologies</span>"
     ]
@@ -414,7 +424,7 @@
     "href": "section8_ai_assistance.html",
     "title": "8  Let AI help you",
     "section": "",
-    "text": "Copy this prompt into an AI agent that can open links. It points to the complete guide:\n\nRead https://norwegiansingles.run/llms-full.txt and help me build a\nsustainable training plan for the coming weeks and months.\n\nFirst ask about my goals, race dates, availability, experience, and\nrecovery. Ask what activity data I already have, such as watch/app\nhistory or a training log, and review it with me. Use recent weeks\nand months to understand my consistency, weekly running time,\nlongest runs, harder sessions, and recovery. Ask about gaps rather\nthan guessing.\n\nAgree a manageable starting week that fits this foundation,\npreserves my rest days, and initially keeps total running time\nstable. Then outline how to progress, when to reassess together\nusing new activity data and how I feel, and when to hold or reduce\ntraining.\n\nGive complete workouts and effort guidance, plus adjustments for\nfatigue, missed runs, and races. Treat the guide's calendars as\nexamples and explain unfamiliar terms.",
+    "text": "Copy this prompt into an AI agent that can open links. It points to the complete guide:\n\nRead https://norwegiansingles.run/llms-full.txt and help me build a\nsustainable training plan for the coming weeks and months.\n\nFirst ask about my goals, race dates, availability, experience, and\nrecovery. Ask what activity data I already have, such as watch/app\nhistory or a training log, and review it with me. Use recent weeks\nand months to understand my consistency, weekly running time,\nlongest runs, harder sessions, and recovery. Ask about gaps rather\nthan guessing.\n\nAgree a manageable starting week that fits this foundation,\npreserves my rest days, and initially keeps total running time\nstable. Then outline how to progress, when to reassess together\nusing new activity data and how I feel, and when to hold or reduce\ntraining.\n\nGive complete workouts and effort guidance, plus adjustments for\nfatigue, missed runs, and races. Treat the guide's calendars as\nexamples and explain unfamiliar terms. Treat X-sessions as optional;\ninclude one only for a clear purpose and explain which quality work\nit replaces and how recovery days change.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Let AI help you</span>"
     ]

@@ -18,6 +18,8 @@ These are session slots, not an instruction to immediately run seven days. Prese
 
 Keep the long run easy rather than adding another demanding session. A race replaces a quality slot; see [racing and time trials](https://norwegiansingles.run/section4_individualization_considerations.html#racingtime-trials) for adjustments around it. If you miss a workout, resume the schedule without cramming it into the following easy day.
 
+Once established, you can replace one sub-threshold session with an [optional X-session](https://norwegiansingles.run/section4_individualization_considerations.html#optional-x-factor), such as race-pace repetitions when preparing for a 5k.
+
 ## 2.2 Quality Workouts (Sub-Threshold)
 
 **Work and recovery:** Break the work into repetitions, with standing, walking or very slow jogging between them. The breaks help limit accumulated fatigue and make pacing mistakes easier to correct. Shortening recovery or jogging faster is not a progression target.

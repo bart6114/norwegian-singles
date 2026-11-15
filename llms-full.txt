@@ -101,6 +101,8 @@ These are session slots, not an instruction to immediately run seven days. Prese
 
 Keep the long run easy rather than adding another demanding session. A race replaces a quality slot; see [racing and time trials](https://norwegiansingles.run/section4_individualization_considerations.html#racingtime-trials) for adjustments around it. If you miss a workout, resume the schedule without cramming it into the following easy day.
 
+Once established, you can replace one sub-threshold session with an [optional X-session](https://norwegiansingles.run/section4_individualization_considerations.html#optional-x-factor), such as race-pace repetitions when preparing for a 5k.
+
 ## 2.2 Quality Workouts (Sub-Threshold)
 
 **Work and recovery:** Break the work into repetitions, with standing, walking or very slow jogging between them. The breaks help limit accumulated fatigue and make pacing mistakes easier to correct. Shortening recovery or jogging faster is not a progression target.
@@ -193,19 +195,31 @@ Keep this an extension of easy running. Copeland suggests approximately 1.7 time
 
 Before a half marathon, occasional modest extensions can help with time on your feet, but matching a slower runner’s entire race duration is unnecessary. Marathon preparation needs a [separate adaptation](https://norwegiansingles.run/section5_applicability_distances.html#marathon).
 
-## 4.6 Speed Work/Strides/Strength
+## 4.6 Optional X-sessions
 
-Strides, hills and strength work are optional additions to the framework. Copeland does not routinely include them; that personal choice does not establish that they are unhelpful for everyone. Keep prescribed rehabilitation or strength work, and account for its fatigue when planning running. If adding something new, introduce a small amount and assess its effect before also increasing running volume.
+An X-session, sometimes called an X-factor workout, typically replaces one of the three weekly sub-threshold sessions with a different type of workout. For example, Tuesday and Thursday could stay sub-threshold, while Saturday becomes a session chosen for the race you are preparing for. You can also continue with the standard week; X-sessions are optional.
 
-## 4.7 Fueling
+- **For a 5k or 10k:** short repetitions at your current 5k or 10k race pace, with recovery between them, give you practice running faster than in your usual sub-threshold sessions.
+- **For a hilly race:** repeated uphill efforts let you practise the climbs you will face.
+- **For a marathon:** longer blocks at current marathon pace let you practise sustaining that effort. See the [marathon adaptation](https://norwegiansingles.run/section5_applicability_distances.html#marathon) for how this changes the rest of your training.
+
+You might use an X-session occasionally or during preparation for a particular race. Start with a small amount of unfamiliar work and keep the rest of the week familiar while you assess recovery. Do not make up the sub-threshold session it replaces. A race already takes a quality slot; if you put the X-session into Sunday’s long run, make Saturday easy or rest.
+
+Reduce or remove the new workout if it repeatedly leaves you too tired for your next planned sessions. For background and other examples, see [Bakken’s account](https://www.mariusbakken.com/the-norwegian-model.html) and the [community discussion](https://www.reddit.com/r/NorwegianSinglesRun/comments/1xwxgjz/x_factor/).
+
+## 4.7 Strength
+
+Strength work is optional within this framework. Copeland does not routinely include it; that personal choice does not establish that it is unhelpful for everyone. Keep prescribed rehabilitation or strength work and account for its fatigue when planning running.
+
+## 4.8 Fueling
 
 Eat enough to support the weekly load. Include carbohydrate and protein after quality sessions, and make recovery food practical around work and other commitments. Increased training can require increased overall intake. Longer marathon sessions also provide opportunities to practise fueling and hydration while running.
 
-## 4.8 Cross-Training
+## 4.9 Cross-Training
 
 Cycling or an elliptical can replace some running when impact, recovery or preference makes that useful. Preserve the separation between easy and demanding days, and use effort or thresholds appropriate to that activity. Equal duration or HR does not necessarily mean equal training load across sports. When running performance is the goal, retain running-specific practice as circumstances allow.
 
-## 4.9 Alternative Monitoring Methods
+## 4.10 Alternative Monitoring Methods
 
 Extra devices are optional. A [lactate curve](https://lactate.barts.space/) can help interpret tests; power or breathing measurements can add context. None removes the need to check repeatability and recovery.
 
@@ -223,7 +237,7 @@ The standard framework is intended for ongoing training across 5k to half marath
 
 ## 5.1 5k to Half Marathon
 
-These distances are the main application of Copeland’s approach. The usual week can continue throughout the year, with gradual progression and occasional races or time trials. A separate speed or VO2max phase is optional, rather than an expected next step. Consider additional specificity only when it addresses a clear need and the recovery cost fits your week.
+These distances are the main application of Copeland’s approach. The usual week can continue throughout the year, with gradual progression and occasional races or time trials. A separate speed or VO2max phase is optional, rather than an expected next step. Consider [optional X-sessions](https://norwegiansingles.run/section4_individualization_considerations.html#optional-x-factor) when they address a clear need and the recovery cost fits your week; regular racing may already supply the faster-running practice you want.
 
 ## 5.2 1500m/Mile
 
@@ -241,7 +255,7 @@ The main changes are:
 
 - **Extend easy endurance gradually.** Build from the long run you already tolerate. Copeland works toward expected race duration, capped at about three hours for slower runners. This is a ceiling to approach selectively, not a weekly minimum.
 - **Scale longer repetitions by time.** His 5km repetitions correspond to roughly 15-18 minutes, with three-minute recoveries, at about 1-2% faster than current marathon speed. A slower runner copying the distance would do substantially more work. These sessions replace standard workouts and require a separate volume allowance; simply extending every repetition in a normal session can be a large jump.
-- **Introduce specific work selectively.** Longer repetitions and some marathon-pace running enter later in the build. If quality goes into the long run, reduce or replace another quality session. The final demanding block is temporary and followed by a taper, rather than repeated indefinitely.
+- **Introduce specific work selectively.** Longer repetitions and some marathon-pace running enter later in the build. This can serve the event-specific role of an X-session. If quality goes into the long run, reduce or replace another quality session and keep the preceding day easy or rest. The final demanding block is temporary and followed by a taper, rather than repeated indefinitely.
 - **Practise race logistics.** Test fueling, hydration, clothing and carrying supplies during appropriate longer sessions. Set race pace from demonstrated fitness and conditions, not an aspirational finish time.
 
 The marathon adaptation has a smaller experience base than the standard 5k-HM framework. Individual recovery, particularly after the largest workouts and the race, should determine the return to normal training.
@@ -289,7 +303,7 @@ Norwegian Singles concentrates quality work into three controlled sub-threshold 
 
 ## 7.1 vs. Daniels’ Running Formula
 
-Norwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas Norwegian Singles maintains the same workout structure year-round with gradual progression.
+Norwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas the standard Norwegian Singles week uses the same workout structure year-round with gradual progression.
 
 ## 7.2 vs. Lydiard Method
 
@@ -344,5 +358,7 @@ training.
 
 Give complete workouts and effort guidance, plus adjustments for
 fatigue, missed runs, and races. Treat the guide's calendars as
-examples and explain unfamiliar terms.
+examples and explain unfamiliar terms. Treat X-sessions as optional;
+include one only for a clear purpose and explain which quality work
+it replaces and how recovery days change.
 ```

@@ -4,7 +4,7 @@ Norwegian Singles concentrates quality work into three controlled sub-threshold 
 
 ## 7.1 vs. Daniels’ Running Formula
 
-Norwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas Norwegian Singles maintains the same workout structure year-round with gradual progression.
+Norwegian Singles concentrates on consistent sub-threshold work (3x weekly) with minimal intensity variation, while Daniels prescribes multiple intensity zones (Easy, Marathon, Threshold, Interval, Repetition) with scheduled workouts that often exceed LT2. Daniels uses distinct training phases with changing workout types, whereas the standard Norwegian Singles week uses the same workout structure year-round with gradual progression.
 
 ## 7.2 vs. Lydiard Method
 

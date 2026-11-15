@@ -4,7 +4,7 @@ The standard framework is intended for ongoing training across 5k to half marath
 
 ## 5.1 5k to Half Marathon
 
-These distances are the main application of Copeland’s approach. The usual week can continue throughout the year, with gradual progression and occasional races or time trials. A separate speed or VO2max phase is optional, rather than an expected next step. Consider additional specificity only when it addresses a clear need and the recovery cost fits your week.
+These distances are the main application of Copeland’s approach. The usual week can continue throughout the year, with gradual progression and occasional races or time trials. A separate speed or VO2max phase is optional, rather than an expected next step. Consider [optional X-sessions](https://norwegiansingles.run/section4_individualization_considerations.html#optional-x-factor) when they address a clear need and the recovery cost fits your week; regular racing may already supply the faster-running practice you want.
 
 ## 5.2 1500m/Mile
 
@@ -22,7 +22,7 @@ The main changes are:
 
 - **Extend easy endurance gradually.** Build from the long run you already tolerate. Copeland works toward expected race duration, capped at about three hours for slower runners. This is a ceiling to approach selectively, not a weekly minimum.
 - **Scale longer repetitions by time.** His 5km repetitions correspond to roughly 15-18 minutes, with three-minute recoveries, at about 1-2% faster than current marathon speed. A slower runner copying the distance would do substantially more work. These sessions replace standard workouts and require a separate volume allowance; simply extending every repetition in a normal session can be a large jump.
-- **Introduce specific work selectively.** Longer repetitions and some marathon-pace running enter later in the build. If quality goes into the long run, reduce or replace another quality session. The final demanding block is temporary and followed by a taper, rather than repeated indefinitely.
+- **Introduce specific work selectively.** Longer repetitions and some marathon-pace running enter later in the build. This can serve the event-specific role of an X-session. If quality goes into the long run, reduce or replace another quality session and keep the preceding day easy or rest. The final demanding block is temporary and followed by a taper, rather than repeated indefinitely.
 - **Practise race logistics.** Test fueling, hydration, clothing and carrying supplies during appropriate longer sessions. Set race pace from demonstrated fitness and conditions, not an aspirational finish time.
 
 The marathon adaptation has a smaller experience base than the standard 5k-HM framework. Individual recovery, particularly after the largest workouts and the race, should determine the return to normal training.
